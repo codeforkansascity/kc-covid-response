@@ -1,0 +1,14 @@
+{
+  "name": "kc-covid-response",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.1.2",
+    "gridsome": "^0.7.0",
+    "tailwindcss": "^1.2.0"
+  }
+}
