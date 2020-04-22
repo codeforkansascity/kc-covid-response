@@ -8,7 +8,7 @@
       </p>
       <div v-for="faq in $page.faqs.edges" :key="faq.question">
         <h2 class="font-black text-3xl mb-4">{{ faq.node.question }}</h2>
-        <span v-html="faq.node.content"></span>
+        <span v-html="styleRawHTML(faq.node.content)"></span>
       </div>
     </OneColumnSection>
   </Layout>
@@ -16,8 +16,10 @@
 
 <script>
 import OneColumnSection from '@/components/OneColumnSection.vue';
+import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js';
 
 export default {
+  mixins: [rawHtmlMixin],
   metaInfo: {
     title: 'FAQs'
   },
