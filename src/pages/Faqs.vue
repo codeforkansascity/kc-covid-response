@@ -29,7 +29,7 @@ export default {
 
 <page-query>
 query {
-  faqs: allFaq {
+  faqs: allFaq(sortBy: "order", order: ASC) {
     edges {
       node {
         question
