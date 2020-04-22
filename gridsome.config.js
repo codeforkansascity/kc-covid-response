@@ -29,8 +29,8 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'posts/**/*.md',
-        typeName: 'Post',
+        path: 'content/faqs/**/*.md',
+        typeName: 'FAQ',
         remark: {
           plugins: [
             // ...local plugins
