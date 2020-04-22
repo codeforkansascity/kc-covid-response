@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div class="w-full h-16 bg-kc-covid-darkblue">
+  <div class="flex flex-col flex-grow">
+    <div class="w-full h-16 bg-kc-covid-darkblue flex-grow-0">
       <div class="container mx-auto flex">
         <div class="w-1/3"></div>
         <div class="w-1/3">
@@ -14,8 +14,10 @@
         </nav>
       </div>
     </div>
-    <slot />
-    <div class="w-full bg-kc-covid-darkblue">
+    <div class="flex-grow">
+      <slot />
+    </div>
+    <div class="w-full bg-kc-covid-darkblue flex-grow-0">
       <div class="h-16 container mx-auto content-center">
         <div class="h-full text-white flex justify-center items-center">
           <div>Site Footer</div>
