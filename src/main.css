@@ -1,41 +1,9 @@
 @tailwind base;
 
-@font-face {
-  font-family: Muli;
-  font-weight: 400;
-  src: url(/fonts/Muli-Regular.ttf) format('ttf');
-}
-
-@font-face {
-  font-family: Muli;
-  font-weight: 400;
-  src: url(/fonts/Muli-Italic.ttf) format('ttf');
-}
-
-@font-face {
-  font-family: Muli;
-  font-weight: 700;
-  src: url(/fonts/Muli-Bold.ttf) format('ttf');
-}
-
-@font-face {
-  font-family: Muli;
-  font-weight: 700;
-  src: url(/fonts/Muli-BoldItalic.ttf) format('ttf');
-}
-
-@font-face {
-  font-family: Muli;
-  font-weight: 900;
-  src: url(/fonts/Muli-Black.ttf) format('ttf');
-}
-
-@font-face {
-  font-family: Muli;
-  font-weight: 900;
-  src: url(/fonts/Muli-BlackItalic.ttf) format('ttf');
-}
-
 @tailwind components;
+
+p {
+  @apply font-serif;
+}
 
 @tailwind utilities;

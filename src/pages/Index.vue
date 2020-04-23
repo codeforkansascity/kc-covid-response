@@ -2,13 +2,13 @@
   <Layout>
     <FullWidthSection image="/images/crossroads-skyline-bg.jpg">
       <div class="container mx-auto flex justify-center py-16 md:py-32">
-        <h2 class="font-black text-6xl">Campaign Header</h2>
+        <h2 class="font-heading font-bold text-6xl">Campaign Header</h2>
       </div>
     </FullWidthSection>
     <TwoColumnSection order="reversed">
       <template v-slot:column1>
         <div class="py-16 md:py-32 px-2 mx:pl-0 md:pr-32">
-          <h2 class="font-black text-3xl mb-4">Test Heading</h2>
+          <h2 class="font-heading font-bold text-3xl mb-4">Test Heading</h2>
           <p class="leading-relaxed text-xl">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
             exercitation ullamco.
@@ -25,7 +25,7 @@
       </template>
       <template v-slot:column2>
         <div class="py-16 md:py-32 px-2 mx:pl-0 md:pl-32">
-          <h2 class="font-black text-3xl mb-4">Test Heading</h2>
+          <h2 class="font-heading font-bold text-3xl mb-4">Test Heading</h2>
           <p class="leading-relaxed text-xl">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
             exercitation ullamco.
@@ -41,19 +41,19 @@
       </template>
       <template v-slot:column2>
         <div class="py-16 md:py-32 px-2 mx:pl-0 md:pl-32">
-          <h2 class="font-black text-3xl mb-4">Get The App</h2>
+          <h2 class="font-heading font-bold text-3xl mb-4">Get The App</h2>
           <p class="leading-relaxed text-xl mb-4">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
             exercitation ullamco.
           </p>
-          <button class="px-6 py-4 rounded bg-kc-covid-red text-white mr-4">Play Store</button>
-          <button class="px-6 py-4 rounded bg-kc-covid-red text-white">App Store</button>
+          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white mr-4">Play Store</button>
+          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white">App Store</button>
         </div>
       </template>
     </TwoColumnSection>
     <OneColumnSection>
       <div class="py-16 md:py-32 px-8 md:px-32">
-        <h2 class="font-black text-3xl mb-4 text-center">One Column Section</h2>
+        <h2 class="font-heading font-bold text-3xl mb-4 text-center">One Column Section</h2>
         <p class="leading-relaxed text-xl text-center">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
           exercitation ullamco.
