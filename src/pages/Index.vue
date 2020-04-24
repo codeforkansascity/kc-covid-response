@@ -46,8 +46,8 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
             exercitation ullamco.
           </p>
-          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white mr-4">Play Store<font-awesome class="ml-2" :icon="['fas', 'arrow-right']"></font-awesome></button>
-          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white">App Store<font-awesome class="ml-2" :icon="['fas', 'arrow-right']"></font-awesome></button>
+          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white mr-4">Play Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button>
+          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white">App Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button>
         </div>
       </template>
     </TwoColumnSection>

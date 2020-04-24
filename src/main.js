@@ -8,10 +8,12 @@ import DefaultLayout from '~/layouts/Default.vue';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { config, library } from '@fortawesome/fontawesome-svg-core';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
+import { faLongArrowRight } from '@fortawesome/pro-light-svg-icons';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 
 config.autoAddCss = false;
-library.add(faArrowRight);
+library.add(faArrowRight, faLongArrowRight);
+//library.add(faArrowRight);
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
