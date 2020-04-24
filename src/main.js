@@ -13,11 +13,12 @@ import '@fortawesome/fontawesome-svg-core/styles.css';
 
 config.autoAddCss = false;
 library.add(faArrowRight, faLongArrowRight);
-//library.add(faArrowRight);
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
-  Vue.component('Layout', DefaultLayout), (head.htmlAttrs = { class: 'h-full', style: 'overflow-y: scroll' }), (head.bodyAttrs = { class: 'h-full flex flex-col' });
+  Vue.component('Layout', DefaultLayout),
+    (head.htmlAttrs = { class: 'h-full text-kc-covid-black', style: 'overflow-y: scroll' }),
+    (head.bodyAttrs = { class: 'h-full flex flex-col' });
   // Set font-awesome component globally
   Vue.component('font-awesome', FontAwesomeIcon);
 }

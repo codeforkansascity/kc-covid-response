@@ -27,8 +27,10 @@
         <div class="py-16 md:py-32 px-2 mx:pl-0 md:pl-32">
           <h2 class="font-heading font-bold text-3xl mb-4">Test Heading</h2>
           <p class="leading-relaxed text-xl">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-            exercitation ullamco.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
+          <p class="leading-relaxed text-xl">
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco.
           </p>
         </div>
       </template>

@@ -3,7 +3,7 @@
 @tailwind components;
 
 p {
-  @apply font-serif;
+  @apply font-serif mb-4;
 }
 
 @tailwind utilities;
