@@ -2,7 +2,7 @@
   <div class="flex flex-col flex-grow">
     <div class="w-full h-16 bg-kc-covid-black flex-grow-0">
       <div class="h-full container mx-auto flex">
-        <nav class="text-right flex-grow items-center">
+        <nav class="text-right flex-grow items-center px-2 mx:pl-0">
           <ul class="inline-flex items-center h-full">
             <li class="mr-4"><g-link class="text-white" to="/">Home</g-link></li>
             <li><g-link class="text-white" to="/faqs/">FAQs</g-link></li>
