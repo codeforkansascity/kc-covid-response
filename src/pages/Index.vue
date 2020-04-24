@@ -77,7 +77,8 @@ import OneColumnSection from '@/components/OneColumnSection.vue';
 
 export default {
   metaInfo: {
-    title: 'KC Covid Response'
+    title: 'Test Track Triumph',
+    meta: [{ key: 'description', name: 'description', content: 'Do your part to re-open Kansas City safely.' }]
   },
   components: { FullWidthSection, OneColumnSection, TwoColumnSection }
 };

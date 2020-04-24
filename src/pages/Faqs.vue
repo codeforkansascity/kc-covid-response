@@ -32,7 +32,8 @@ import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js';
 export default {
   mixins: [rawHtmlMixin],
   metaInfo: {
-    title: 'FAQs'
+    title: 'FAQs',
+    meta: [{ key: 'description', name: 'description', content: 'Frequently asked questions.' }]
   },
   components: { FullWidthSection, OneColumnSection }
 };
