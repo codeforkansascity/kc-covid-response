@@ -1,8 +1,13 @@
 <template>
   <Layout>
-    <FullWidthSection image="/images/crossroads-skyline-bg.jpg">
-      <div class="container mx-auto flex justify-center py-16 md:py-32">
+    <FullWidthSection class="h-screen flex items-center" image="/images/crossroads-skyline-bg.jpg">
+      <div class="container mx-auto text-center py-16 md:py-32">
         <h2 class="font-heading font-bold text-6xl">Campaign Header</h2>
+      </div>
+    </FullWidthSection>
+    <FullWidthSection>
+      <div class="container mx-auto flex justify-center py-8 md:py-16">
+        <div class="text-white font-sans text-4xl">Test. Track. Triumph.</div>
       </div>
     </FullWidthSection>
     <TwoColumnSection order="reversed">
