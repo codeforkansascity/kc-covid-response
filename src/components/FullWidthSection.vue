@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full bg-cover bg-center bg-kc-covid-darkblue" :style="{ backgroundImage: `url('${image}')` }">
+  <div class="w-full bg-cover bg-center bg-kc-covid-darkblue" :style="{ backgroundImage: backgroundImage }">
     <slot></slot>
   </div>
 </template>
@@ -8,6 +8,11 @@
 export default {
   props: {
     image: String
+  },
+  computed: {
+    backgroundImage() {
+      return this.image ? 'url(' + this.image + ')' : 'none';
+    }
   }
 };
 </script>
