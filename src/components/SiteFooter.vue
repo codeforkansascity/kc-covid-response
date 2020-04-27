@@ -3,15 +3,15 @@
     <div class="h-full text-white flex flex-col md:flex-row justify-around md:justify-between items-center">
       <ul class="flex items-center">
         <li>
-          <a href="https://twitter.com/comebackkc" class="underline" target="_blank"><font-awesome class="mr-4 text-2xl" :icon="['fab', 'twitter']"></font-awesome></a>
+          <a href="https://twitter.com/comebackkc" class="underline" target="_blank"><font-awesome class="mr-4" :icon="['fab', 'twitter']" size="lg"></font-awesome></a>
         </li>
         <li>
           <a href="https://www.facebook.com/Comeback-KC-107935990899809/" class="underline" target="_blank"
-            ><font-awesome class="mr-4 text-2xl" :icon="['fab', 'facebook']"></font-awesome
+            ><font-awesome class="mr-4" :icon="['fab', 'facebook']" size="lg"></font-awesome
           ></a>
         </li>
         <li>
-          <a href="https://www.instagram.com/comeback_kc/" class="underline" target="_blank"><font-awesome class="mr-4 text-2xl" :icon="['fab', 'instagram']"></font-awesome></a>
+          <a href="https://www.instagram.com/comeback_kc/" class="underline" target="_blank"><font-awesome class="mr-4" :icon="['fab', 'instagram']" size="lg"></font-awesome></a>
         </li>
       </ul>
       <ul class="flex items-center">
