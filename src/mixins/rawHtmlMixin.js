@@ -3,8 +3,8 @@ export const rawHtmlMixin = {
     styleRawHTML(rawHTML) {
       return rawHTML
         .replace(/<p>/g, '<p class="mb-4">')
-        .replace(/<ul>/g, '<ul class="list-disc list-inside mb-4">')
-        .replace(/<ol>/g, '<ol class="list-decimal list-inside mb-4">')
+        .replace(/<ul>/g, '<ul class="list-disc ml-5 mb-4">')
+        .replace(/<ol>/g, '<ol class="list-decimal ml-5 mb-4">')
         .replace(/<h1.*?>/g, '<h1 class="text-6xl font-heading font-bold mb-4">')
         .replace(/<h2.*?>/g, '<h2 class="text-5xl font-heading font-bold mb-4">')
         .replace(/<h3.*?>/g, '<h3 class="text-4xl font-heading font-bold mb-4">')

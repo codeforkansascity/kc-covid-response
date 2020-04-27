@@ -11,7 +11,7 @@
       </div>
     </FullWidthSection>
     <OneColumnSection>
-      <div class="py-8 md:pt-32 md:pb-16 px-8 md:px-32">
+      <div class="py-8 md:py-16 px-8 md:px-32">
         <p class="text-2xl text-center">
           This is the plan to reopen Kansas City safely and responsibly. We're not going back to normal. We're going to comeback better than before.
         </p>
@@ -19,14 +19,14 @@
       </div>
     </OneColumnSection>
     <div class="bg-kc-covid-light-gray">
-      <ThreeColumnSection class="md:pb-16">
+      <ThreeColumnSection class="md:py-16">
         <template v-slot:column1>
           <div class="px-2 md:pl-0 py-8 md:py-16 md:px-16 text-center">
             <p class="text-kc-covid-blue">
               <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
             </p>
             <h2 class="font-heading font-bold text-3xl mb-4 uppercase text-center">Test</h2>
-            <p class="leading-relaxed text-xl">
+            <p>
               We are making more test kits available, so we can ensure enough testing to understand the full extent of the pandemic in our region.
             </p>
           </div>
@@ -37,7 +37,7 @@
               <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
             </p>
             <h2 class="font-heading font-bold text-3xl mb-4 uppercase text-center">Track</h2>
-            <p class="leading-relaxed text-xl">
+            <p>
               If you are sick with COVID, our apps and contact tracing teams can help identify places you've gone and people you've had contact with, so that we can help them get
               tested too.
             </p>
@@ -49,7 +49,7 @@
               <font-awesome class="mb-4" :icon="['fal', 'flask-poison']" size="7x"></font-awesome>
             </p>
             <h2 class="font-heading font-bold text-3xl mb-4 uppercase text-center">Contain</h2>
-            <p class="leading-relaxed text-xl">
+            <p>
               If we test and track, we can make sure that only sick people have to self-isolate. We can ease social distancing restrictions and help Kansas City come back better
               than before.
             </p>
@@ -57,6 +57,48 @@
         </template>
       </ThreeColumnSection>
     </div>
+    <OneColumnSection class="py-8 md:pt-16">
+      <h2 class="font-heading font-bold text-3xl px-2 md:px-0">Fight COVID With Your Phone</h2>
+    </OneColumnSection>
+    <TwoColumnSection class="md:pb-32">
+      <template v-slot:column1>
+        <div class="px-2 md:pl-0 md:pr-32">
+          <p>
+            Safe. Secure. Private.
+          </p>
+          <p>
+            <ul class="list-disc ml-5 mb-4">
+              <li>See if you’ve been exposed</li>
+              <li>Privately log your location</li>
+              <li>Completely control your data</li>
+            </ul>
+          </p>
+          <p>
+            COVID Safe Paths, a free app, lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID19.
+          </p>
+          <p>
+          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white mr-4">Play Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button>
+          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white">App Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button>
+          </p>
+          <p>
+            <a href="https://covidsafepaths.org/" target="_blank" class="underline text-kc-covid-blue">Learn more about the COVID Safe Paths app</a>
+          </p>
+        </div>
+      </template>
+      <template v-slot:column2>
+          <div class="px-2 md:pl-0 md:pr-32">
+          <p>
+            <em>How it works</em>
+            <ol class="list-decimal ml-5 mb-4">
+              <li>Download the app for free, enable location services, and connect to your local health department so they can send you info. (Your personal info is not shared.)</li>
+              <li>See where you go. Get alerts if you cross paths with anyone diagnosed with COVID-19.</li>
+              <li>Get helpful hints about what to do if you’ve been exposed.</li>
+              <li>If you test positive for COVID, you may choose to share info about where you’ve been, anonymously, with your local health department. (Your identity is safe. The info will help them stop the spread.)</li>
+            </ol>
+          </p>
+        </div>
+      </template>
+    </TwoColumnSection>
     <TwoColumnSection order="reversed">
       <template v-slot:column1>
         <div class="px-2 md:pl-0 py-16 md:py-32 md:pr-32">
@@ -84,24 +126,6 @@
           <p class="leading-relaxed text-xl">
             Ut enim ad minim veniam, quis nostrud exercitation ullamco.
           </p>
-        </div>
-      </template>
-    </TwoColumnSection>
-    <TwoColumnSection>
-      <template v-slot:column1>
-        <div class="md:py-16 px-2 md:px-0">
-          <g-image src="~/images/ur-mobile-app.png" class="mx-auto" />
-        </div>
-      </template>
-      <template v-slot:column2>
-        <div class="py-8 md:py-16 px-2 md:pr-0 md:pl-32 text-center md:text-left">
-          <h2 class="font-heading font-bold text-3xl mb-4">Get The App</h2>
-          <p class="leading-relaxed text-xl mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-            exercitation ullamco.
-          </p>
-          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white mr-4">Play Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button>
-          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white">App Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button>
         </div>
       </template>
     </TwoColumnSection>
