@@ -60,10 +60,30 @@
     </TwoColumnSection>
     <OneColumnSection>
       <div class="py-8 md:py-16 px-8 md:px-32">
-        <h2 class="font-heading font-bold text-3xl mb-4 text-center">One Column Section</h2>
+        <h2 class="font-heading font-bold text-3xl mb-4 text-center">Email Newsletter</h2>
         <p class="leading-relaxed text-xl text-center">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco.
+          Sign up to get the lastest on KC's comeback.
+        </p>
+        <p class="leading-relaxed text-xl text-center">
+          <mailchimp-subscribe
+            url="https://comebackkc.us8.list-manage.com/subscribe/post-json"
+            user-id="29e20716727b79f181330a1a0"
+            list-id="4dbc9273ae"
+            @error="onError"
+            @success="onSuccess"
+          >
+            <template v-slot="{ subscribe, setEmail, error, success, loading }">
+              <form @submit.prevent="subscribe">
+                <input type="email" @input="setEmail($event.target.value)" class="border h-12 rounded px-4 mr-4" />
+                <button type="submit" class="px-4 py-2 rounded bg-kc-covid-orange text-white">
+                  Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
+                </button>
+                <div v-if="error">{{ error }}</div>
+                <div v-if="success">Yer in!</div>
+                <div v-if="loading">Subscribing…</div>
+              </form>
+            </template>
+          </mailchimp-subscribe>
         </p>
       </div>
     </OneColumnSection>
@@ -74,12 +94,21 @@
 import FullWidthSection from '@/components/FullWidthSection.vue';
 import TwoColumnSection from '@/components/TwoColumnSection.vue';
 import OneColumnSection from '@/components/OneColumnSection.vue';
+import MailchimpSubscribe from 'vue-mailchimp-subscribe';
 
 export default {
   metaInfo: {
     title: 'Test Track Triumph',
     meta: [{ key: 'description', name: 'description', content: 'Do your part to re-open Kansas City safely.' }]
   },
-  components: { FullWidthSection, OneColumnSection, TwoColumnSection }
+  components: { FullWidthSection, OneColumnSection, TwoColumnSection, MailchimpSubscribe },
+  methods: {
+    onError() {
+      // handle error
+    },
+    onSuccess() {
+      // handle success
+    }
+  }
 };
 </script>
