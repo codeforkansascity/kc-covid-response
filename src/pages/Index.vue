@@ -74,13 +74,13 @@
           >
             <template v-slot="{ subscribe, setEmail, error, success, loading }">
               <form @submit.prevent="subscribe">
-                <input type="email" @input="setEmail($event.target.value)" class="border h-12 rounded px-4 mr-4" />
-                <button type="submit" class="px-4 py-2 rounded bg-kc-covid-orange text-white">
+                <input type="email" @input="setEmail($event.target.value)" class="border h-12 rounded px-4 md:mr-4 w-full md:w-auto" />
+                <button type="submit" class="px-4 py-2 mt-4 md:mt-0 rounded bg-kc-covid-orange text-white">
                   Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
                 </button>
-                <div v-if="error">{{ error }}</div>
-                <div v-if="success">Yer in!</div>
-                <div v-if="loading">Subscribing…</div>
+                <div class="mt-2" v-if="error">{{ error }}</div>
+                <div class="mt-2" v-if="success">Yer in!</div>
+                <div class="mt-2" v-if="loading">Subscribing…</div>
               </form>
             </template>
           </mailchimp-subscribe>
