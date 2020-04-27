@@ -78,7 +78,7 @@
                 <button type="submit" class="px-4 py-2 mt-4 md:mt-0 rounded bg-kc-covid-orange text-white">
                   Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
                 </button>
-                <div class="mt-2" v-if="error">{{ error }}</div>
+                <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error)"></span></div>
                 <div class="mt-2" v-if="success">Yer in!</div>
                 <div class="mt-2" v-if="loading">Subscribing…</div>
               </form>
@@ -95,16 +95,18 @@ import FullWidthSection from '@/components/FullWidthSection.vue';
 import TwoColumnSection from '@/components/TwoColumnSection.vue';
 import OneColumnSection from '@/components/OneColumnSection.vue';
 import MailchimpSubscribe from 'vue-mailchimp-subscribe';
+import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js';
 
 export default {
   metaInfo: {
     title: 'Test Track Triumph',
     meta: [{ key: 'description', name: 'description', content: 'Do your part to re-open Kansas City safely.' }]
   },
+  mixins: [rawHtmlMixin],
   components: { FullWidthSection, OneColumnSection, TwoColumnSection, MailchimpSubscribe },
   methods: {
     onError() {
-      // handle error
+      console.log(this.error);
     },
     onSuccess() {
       // handle success
