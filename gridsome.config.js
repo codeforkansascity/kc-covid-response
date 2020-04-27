@@ -14,7 +14,8 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 module.exports = {
-  siteName: 'KC Covid Response',
+  siteName: 'Come Back KC',
+  siteUrl: 'https://www.comebackkc.com',
   transformers: {
     remark: {
       externalLinksTarget: '_blank',
@@ -39,10 +40,13 @@ module.exports = {
       }
     },
     {
-      use: `gridsome-plugin-netlify-cms`,
+      use: 'gridsome-plugin-netlify-cms',
       options: {
-        publicPath: `/admin`
+        publicPath: '/admin'
       }
+    },
+    {
+      use: '@gridsome/plugin-sitemap'
     }
   ],
   css: {
