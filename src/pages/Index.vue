@@ -10,6 +10,53 @@
         <div class="text-white font-sans text-4xl">Test. Track. Triumph.</div>
       </div>
     </FullWidthSection>
+    <OneColumnSection>
+      <div class="py-8 md:pt-32 md:pb-16 px-8 md:px-32">
+        <p class="text-2xl text-center">
+          This is the plan to reopen Kansas City safely and responsibly. We're not going back to normal. We're going to comeback better than before.
+        </p>
+        <p class="text-xl text-center">To do this, Kansas City needs your help to <strong>Test</strong>, <strong>Track</strong>, and <strong>Contain</strong> the coronavirus.</p>
+      </div>
+    </OneColumnSection>
+    <div class="bg-kc-covid-light-gray">
+      <ThreeColumnSection class="md:pb-16">
+        <template v-slot:column1>
+          <div class="px-2 md:pl-0 py-8 md:py-16 md:px-16 text-center">
+            <p class="text-kc-covid-blue">
+              <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
+            </p>
+            <h2 class="font-heading font-bold text-3xl mb-4 uppercase text-center">Test</h2>
+            <p class="leading-relaxed text-xl">
+              We are making more test kits available, so we can ensure enough testing to understand the full extent of the pandemic in our region.
+            </p>
+          </div>
+        </template>
+        <template v-slot:column2>
+          <div class="px-2 md:pl-0 py-8 md:py-16 md:px-16 text-center">
+            <p class="text-kc-covid-blue">
+              <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
+            </p>
+            <h2 class="font-heading font-bold text-3xl mb-4 uppercase text-center">Track</h2>
+            <p class="leading-relaxed text-xl">
+              If you are sick with COVID, our apps and contact tracing teams can help identify places you've gone and people you've had contact with, so that we can help them get
+              tested too.
+            </p>
+          </div>
+        </template>
+        <template v-slot:column3>
+          <div class="px-2 md:pl-0 py-8 md:py-16 md:px-16 text-center">
+            <p class="text-kc-covid-blue">
+              <font-awesome class="mb-4" :icon="['fal', 'flask-poison']" size="7x"></font-awesome>
+            </p>
+            <h2 class="font-heading font-bold text-3xl mb-4 uppercase text-center">Contain</h2>
+            <p class="leading-relaxed text-xl">
+              If we test and track, we can make sure that only sick people have to self-isolate. We can ease social distancing restrictions and help Kansas City come back better
+              than before.
+            </p>
+          </div>
+        </template>
+      </ThreeColumnSection>
+    </div>
     <TwoColumnSection order="reversed">
       <template v-slot:column1>
         <div class="px-2 md:pl-0 py-16 md:py-32 md:pr-32">
@@ -92,8 +139,9 @@
 
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue';
-import TwoColumnSection from '@/components/TwoColumnSection.vue';
 import OneColumnSection from '@/components/OneColumnSection.vue';
+import TwoColumnSection from '@/components/TwoColumnSection.vue';
+import ThreeColumnSection from '@/components/ThreeColumnSection.vue';
 import MailchimpSubscribe from 'vue-mailchimp-subscribe';
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js';
 
@@ -103,7 +151,7 @@ export default {
     meta: [{ key: 'description', name: 'description', content: 'Do your part to re-open Kansas City safely.' }]
   },
   mixins: [rawHtmlMixin],
-  components: { FullWidthSection, OneColumnSection, TwoColumnSection, MailchimpSubscribe },
+  components: { FullWidthSection, OneColumnSection, TwoColumnSection, ThreeColumnSection, MailchimpSubscribe },
   methods: {
     onError() {
       console.log(this.error);
