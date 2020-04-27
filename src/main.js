@@ -8,12 +8,13 @@ import DefaultLayout from '~/layouts/Default.vue';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { config, library } from '@fortawesome/fontawesome-svg-core';
 import { faLongArrowRight, faVial, faAnalytics, faFlaskPoison } from '@fortawesome/pro-light-svg-icons';
+import { faChevronUp, faChevronDown } from '@fortawesome/pro-regular-svg-icons';
 import { faTwitter, faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 import VueGtag from 'vue-gtag';
 
 config.autoAddCss = false;
-library.add(faLongArrowRight, faVial, faAnalytics, faFlaskPoison, faTwitter, faFacebook, faInstagram);
+library.add(faLongArrowRight, faVial, faAnalytics, faFlaskPoison, faChevronUp, faChevronDown, faTwitter, faFacebook, faInstagram);
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
