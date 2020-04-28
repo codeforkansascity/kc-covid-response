@@ -62,7 +62,7 @@
     </OneColumnSection>
     <TwoColumnSection class="md:pb-32">
       <template v-slot:column1>
-        <div class="px-2 md:pl-0 md:pr-32">
+        <div class="px-2 md:pl-0 md:pr-16">
           <p>
             Safe. Secure. Private.
           </p>
@@ -86,9 +86,11 @@
         </div>
       </template>
       <template v-slot:column2>
-          <div class="px-2 md:pl-0 md:pr-32">
+        <div class="px-2 md:px-16">
           <p>
             <em>How it works</em>
+          </p>
+          <p>
             <ol class="list-decimal ml-5 mb-4">
               <li>Download the app for free, enable location services, and connect to your local health department so they can send you info. (Your personal info is not shared.)</li>
               <li>See where you go. Get alerts if you cross paths with anyone diagnosed with COVID-19.</li>
@@ -102,7 +104,7 @@
     <div class="bg-kc-covid-light-gray">
       <TwoColumnSection>
         <template v-slot:column1>
-          <div class="px-2 md:pl-0 py-16 md:py-32 md:pr-32">
+          <div class="px-2 md:pl-0 py-16 md:py-32 md:pr-16">
             <h2 class="font-heading font-bold text-3xl">Get Started</h2>
             <p>
               Find out about the Test, Track and Contain options in your area.
@@ -116,7 +118,7 @@
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-2 md:pl-0 pb-16 md:py-32 md:pr-32">
+          <div class="px-2 md:px-16 pb-16 md:py-32">
             <p class="leading-relaxed text-xl">
               <AccordionItem is-open>
                 <template v-slot:title>Cass County</template>
