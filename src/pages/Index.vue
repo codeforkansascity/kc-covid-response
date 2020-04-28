@@ -2,19 +2,18 @@
   <Layout>
     <FullWidthSection class="md:h-screen flex items-center" image="/images/crossroads-skyline-bg.jpg">
       <div class="container mx-auto text-center px-2 mx:pl-0 py-16 md:py-32">
-        <h2 class="font-heading font-bold text-6xl">Campaign Header</h2>
+        <h2 class="font-heading font-bold text-6xl">Test. Track. Triumph.</h2>
       </div>
     </FullWidthSection>
     <FullWidthSection>
-      <div class="container mx-auto flex justify-center px-2 mx:pl-0 py-8 md:py-16">
-        <div class="text-white font-sans text-4xl">Test. Track. Triumph.</div>
+      <div class="container mx-auto px-8 md:px-64 py-8 md:py-16">
+        <p class="text-2xl text-center text-white font-sans">
+          This is the plan to reopen Kansas City safely and responsibly. We're not going back to normal. We're going to comeback better than before.
+        </p>
       </div>
     </FullWidthSection>
     <OneColumnSection>
-      <div class="py-8 md:py-16 px-8 md:px-32">
-        <p class="text-2xl text-center">
-          This is the plan to reopen Kansas City safely and responsibly. We're not going back to normal. We're going to comeback better than before.
-        </p>
+      <div class="py-8 md:py-16 px-8 md:px-64">
         <p class="text-xl text-center">To do this, Kansas City needs your help to <strong>Test</strong>, <strong>Track</strong>, and <strong>Contain</strong> the coronavirus.</p>
       </div>
     </OneColumnSection>

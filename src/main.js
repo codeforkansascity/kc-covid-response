@@ -27,7 +27,6 @@ export default function(Vue, { router, head, isClient }) {
 
   // Add Google GTag for analytics
   if (process.env.GRIDSOME_GTAG_ID) {
-    console.log('adding gtag');
     Vue.use(VueGtag, {
       config: { id: process.env.GRIDSOME_GTAG_ID }
     });
