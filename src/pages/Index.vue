@@ -232,11 +232,11 @@
     <OneColumnSection>
       <div class="py-8 md:py-16 px-2 md:px-0">
         <h2 class="font-bold text-3xl mb-8 text-center">Brought To You By</h2>
-        <div class="flex items-center justify-between">
-          <a href="https://www.vmlyr.com" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200"/></a>
-          <a href="https://www.vmlyr.com" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
-          <a href="https://www.vmlyr.com" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
-          <a href="https://www.vmlyr.com" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
+        <div class="flex flex-wrap items-center justify-between">
+          <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200"/></a>
+          <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
+          <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
+          <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
         </div>
       </div>
     </OneColumnSection>
