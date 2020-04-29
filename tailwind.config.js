@@ -13,6 +13,7 @@ module.exports = {
       },
       fontFamily: {
         sans: [
+          'Montserrat',
           'Helvetica Neue',
           'system-ui',
           '-apple-system',
@@ -27,8 +28,7 @@ module.exports = {
           'Segoe UI Symbol',
           'Noto Color Emoji'
         ],
-        serif: ['Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
-        heading: ['Raleway']
+        serif: ['Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif']
       }
     }
   }

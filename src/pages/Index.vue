@@ -2,7 +2,7 @@
   <Layout>
     <FullWidthSection class="md:h-screen flex items-center" image="/images/crossroads-skyline-bg.jpg">
       <div class="container mx-auto text-center px-2 mx:pl-0 py-16 md:py-32">
-        <h2 class="font-heading font-bold text-6xl">Test. Track. Triumph.</h2>
+        <h2 class="font-bold text-6xl">Test. Track. Triumph.</h2>
       </div>
     </FullWidthSection>
     <FullWidthSection>
@@ -24,7 +24,7 @@
             <p class="text-kc-covid-blue">
               <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
             </p>
-            <h2 class="font-heading font-bold text-3xl mb-4 uppercase text-center">Test</h2>
+            <h2 class="font-bold text-3xl mb-4 uppercase text-center">Test</h2>
             <p>
               We are making more test kits available, so we can ensure enough testing to understand the full extent of the pandemic in our region.
             </p>
@@ -35,7 +35,7 @@
             <p class="text-kc-covid-blue">
               <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
             </p>
-            <h2 class="font-heading font-bold text-3xl mb-4 uppercase text-center">Track</h2>
+            <h2 class="font-bold text-3xl mb-4 uppercase text-center">Track</h2>
             <p>
               If you are sick with COVID, our apps and contact tracing teams can help identify places you've gone and people you've had contact with, so that we can help them get
               tested too.
@@ -47,7 +47,7 @@
             <p class="text-kc-covid-blue">
               <font-awesome class="mb-4" :icon="['fal', 'flask-poison']" size="7x"></font-awesome>
             </p>
-            <h2 class="font-heading font-bold text-3xl mb-4 uppercase text-center">Contain</h2>
+            <h2 class="font-bold text-3xl mb-4 uppercase text-center">Contain</h2>
             <p>
               If we test and track, we can make sure that only sick people have to self-isolate. We can ease social distancing restrictions and help Kansas City come back better
               than before.
@@ -57,7 +57,7 @@
       </ThreeColumnSection>
     </div>
     <OneColumnSection class="py-8 md:pt-16">
-      <h2 class="font-heading font-bold text-3xl px-2 md:px-0">Fight COVID With Your Phone</h2>
+      <h2 class="font-bold text-3xl px-2 md:px-0">Fight COVID With Your Phone</h2>
     </OneColumnSection>
     <TwoColumnSection class="md:pb-32">
       <template v-slot:column1>
@@ -104,7 +104,7 @@
       <TwoColumnSection>
         <template v-slot:column1>
           <div class="px-2 md:pl-0 py-16 md:py-32 md:pr-16">
-            <h2 class="font-heading font-bold text-3xl">Get Started</h2>
+            <h2 class="font-bold text-3xl">Get Started</h2>
             <p>
               Find out about the Test, Track and Contain options in your area.
             </p>
@@ -118,6 +118,7 @@
         </template>
         <template v-slot:column2>
           <div class="px-2 md:px-16 pb-16 md:py-32">
+            <h2 class="font-bold text-3xl mb-2">Local Health Departments</h2>
             <p class="leading-relaxed text-xl">
               <AccordionItem is-open>
                 <template v-slot:title>Cass County</template>
@@ -198,7 +199,7 @@
     </div>
     <OneColumnSection>
       <div class="py-8 md:py-16 px-8 md:px-32">
-        <h2 class="font-heading font-bold text-3xl mb-4 text-center">Stay Informed</h2>
+        <h2 class="font-bold text-3xl mb-4 text-center">Stay Informed</h2>
         <p class="leading-relaxed text-xl text-center">
           We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools, and opportunities to fight Covid-19.
         </p>
@@ -223,6 +224,20 @@
             </template>
           </mailchimp-subscribe>
         </p>
+      </div>
+    </OneColumnSection>
+    <div class="container mx-auto">
+      <div class="border-t-4 border-kc-covid-blue w-1/2 mx-auto"></div>
+    </div>
+    <OneColumnSection>
+      <div class="py-8 md:py-16 px-2 md:px-0">
+        <h2 class="font-bold text-3xl mb-8 text-center">Brought To You By</h2>
+        <div class="flex items-center justify-between">
+          <a href="https://www.vmlyr.com" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200"/></a>
+          <a href="https://www.vmlyr.com" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
+          <a href="https://www.vmlyr.com" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
+          <a href="https://www.vmlyr.com" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
+        </div>
       </div>
     </OneColumnSection>
   </Layout>

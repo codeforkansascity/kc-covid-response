@@ -3,7 +3,7 @@
 @tailwind components;
 
 p {
-  @apply font-serif leading-relaxed text-xl mb-4;
+  @apply font-sans leading-relaxed text-xl mb-4;
 }
 
 @tailwind utilities;

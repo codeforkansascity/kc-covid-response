@@ -2,7 +2,7 @@
   <Layout>
     <FullWidthSection class="md:h-screen flex items-center" image="/images/temp-hero-1.jpg">
       <div class="container mx-auto text-center px-2 mx:pl-0 py-16 md:py-32">
-        <h2 class="text-white font-heading font-bold text-6xl">Campaign Header</h2>
+        <h2 class="text-white font-bold text-6xl">Campaign Header</h2>
       </div>
     </FullWidthSection>
     <FullWidthSection>
@@ -12,7 +12,7 @@
     </FullWidthSection>
     <OneColumnSection>
       <div class="px-2 md:px-0 my-8 md:my-16">
-        <h1 class="font-heading font-bold text-4xl mb-4">Privacy Policy</h1>
+        <h1 class="font-bold text-4xl mb-4">Privacy Policy</h1>
         <p>
           Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit. Fusce fermentum odio nec arcu. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi.
           Vestibulum eu odio. Maecenas egestas arcu quis ligula mattis placerat.
