@@ -198,9 +198,9 @@
     </div>
     <OneColumnSection>
       <div class="py-8 md:py-16 px-8 md:px-32">
-        <h2 class="font-heading font-bold text-3xl mb-4 text-center">Email Newsletter</h2>
+        <h2 class="font-heading font-bold text-3xl mb-4 text-center">Stay Informed</h2>
         <p class="leading-relaxed text-xl text-center">
-          Sign up to get the lastest on KC's comeback.
+          We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools, and opportunities to fight Covid-19.
         </p>
         <p class="leading-relaxed text-xl text-center">
           <mailchimp-subscribe
