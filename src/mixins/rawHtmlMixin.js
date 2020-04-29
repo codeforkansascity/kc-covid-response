@@ -11,7 +11,7 @@ export const rawHtmlMixin = {
         .replace(/<h4.*?>/g, '<h4 class="text-3xl font-heading font-bold mb-4">')
         .replace(/<h5.*?>/g, '<h5 class="text-2xl font-heading font-bold mb-4">')
         .replace(/<h6.*?>/g, '<h6 class="text-xl font-heading font-bold mb-4">')
-        .replace(/<a href/g, '<a class="text-kc-covid-red hover:underline" href');
+        .replace(/<a href/g, '<a class="text-kc-covid-blue hover:underline" href');
     }
   }
 };
