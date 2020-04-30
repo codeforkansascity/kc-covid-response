@@ -266,9 +266,9 @@
         <h2 class="font-bold text-3xl mb-8 text-center">Brought To You By</h2>
         <p class="text-center mb-8">This campaign is a collaboration between many Kansas City organizations. They include:</p>
         <div class="flex flex-wrap items-center justify-between">
-          <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200"/></a>
-          <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
-          <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
+          <a href="https://www.c19kc.org/" class="pb-4" target="_blank"><g-image src="~/images/c19kc-logo.png" width="200"/></a>
+          <a href="https://www.idealect.is/" class="pb-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="200" /></a>
+          <a href="https://www.bluekc.com/" class="pb-4" target="_blank"><g-image src="~/images/blue-cross-blue-shield-logo.png" width="200" /></a>
           <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
         </div>
       </div>
