@@ -11,7 +11,6 @@ import { faLongArrowRight, faVial, faAnalytics, faFlaskPoison } from '@fortaweso
 import { faChevronUp, faChevronDown } from '@fortawesome/pro-regular-svg-icons';
 import { faTwitter, faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons';
 import '@fortawesome/fontawesome-svg-core/styles.css';
-import VueGtm from 'vue-gtm';
 
 config.autoAddCss = false;
 library.add(faLongArrowRight, faVial, faAnalytics, faFlaskPoison, faChevronUp, faChevronDown, faTwitter, faFacebook, faInstagram);
@@ -24,12 +23,4 @@ export default function(Vue, { router, head, isClient }) {
 
   // Set font-awesome component globally
   Vue.component('font-awesome', FontAwesomeIcon);
-
-  // Add Google Tag Manager
-  if (process.env.GRIDSOME_GTM_ID) {
-    Vue.use(VueGtm, {
-      id: process.env.GRIDSOME_GTM_ID,
-      vueRouter: router
-    });
-  }
 }

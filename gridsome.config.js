@@ -47,6 +47,14 @@ module.exports = {
     },
     {
       use: '@gridsome/plugin-sitemap'
+    },
+    {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-5RZCR8S',
+        enabled: process.env.GTM_ENABLED ? true : false,
+        debug: true
+      }
     }
   ],
   css: {
