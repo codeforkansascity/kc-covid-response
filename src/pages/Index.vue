@@ -90,8 +90,8 @@
             <ol class="list-decimal ml-5 mb-4">
               <li>Download the free app, enable location services, and anonymously connect to your local health department</li>
               <li>Track where you go and get alerts if you’re exposed to anyone diagnosed with COVID-19.</li>
-              <li>rowse helpful hints about what to do if you’ve been exposed.</li>
-              <li>If you test positive for COVID, you may anonymously choose to share info about where you’ve been with your local health department</li>
+              <li>Browse helpful hints about what to do if you’ve been exposed.</li>
+              <li>If you test positive for COVID-19, you may anonymously choose to share info about where you’ve been with your local health department</li>
             </ol>
           </p>
         </div>
@@ -114,14 +114,14 @@
           <div class="px-4 md:px-16 pb-16 md:py-32">
             <h2 class="font-bold text-3xl mb-6">Local Health Departments</h2>
             <p class="leading-relaxed text-xl">
-              <AccordionItem is-open title-classes="p-2 pl-4 bg-kc-covid-blue text-white" body-classes="p-2 pl-4 border border-kc-covid-blue">
+              <AccordionItem is-open class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Cass County</template>
                 <template v-slot:body>
                   <p>Hotline: (877) 435-8411</p>
                   <p><a href="https://www.casscounty.com/2450/COVID-19" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem title-classes="p-2 pl-4 bg-kc-covid-blue text-white" body-classes="p-2 pl-4 border border-kc-covid-blue">
+              <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Clay County</template>
                 <template v-slot:body>
                   <p>Hotline: (877) 435-8411</p>
@@ -129,7 +129,7 @@
                   <p><a href="https://www.highlandwebforms.com/LuxSci/CCPHC/COVID-19_Testing.html" target="_blank" class="underline text-kc-covid-blue">Symptom Reporting Form</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem title-classes="p-2 pl-4 bg-kc-covid-blue text-white" body-classes="p-2 pl-4 border border-kc-covid-blue">
+              <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Jackson County</template>
                 <template v-slot:body>
                   <p>Hotline: (877) 435-8411</p>
@@ -138,7 +138,7 @@
                   <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-kc-covid-blue">Stats Dashboard</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem title-classes="p-2 pl-4 bg-kc-covid-blue text-white" body-classes="p-2 pl-4 border border-kc-covid-blue">
+              <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Johnson County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 715-2819</p>
@@ -147,7 +147,7 @@
                   <p><a href="https://public.tableau.com/profile/mapper.of.the.day.mod.#!/vizhome/covid19_joco_public/Dashboard" target="_blank" class="underline text-kc-covid-blue">Stats Dashboard</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem title-classes="p-2 pl-4 bg-kc-covid-blue text-white" body-classes="p-2 pl-4 border border-kc-covid-blue">
+              <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>KCMO</template>
                 <template v-slot:body>
                   <p>Hotline: (877) 435-8411</p>
@@ -156,28 +156,28 @@
                   <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus-covid-19/covid-19-totals" target="_blank" class="underline text-kc-covid-blue">Stats Dashboard</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem title-classes="p-2 pl-4 bg-kc-covid-blue text-white" body-classes="p-2 pl-4 border border-kc-covid-blue">
+              <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Leavenworth County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 250-2000</p>
                   <p><a href="https://www.leavenworthcounty.gov/covid/" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem title-classes="p-2 pl-4 bg-kc-covid-blue text-white" body-classes="p-2 pl-4 border border-kc-covid-blue">
+              <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Miami County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 294-2431</p>
                   <p><a href="https://www.miamicountyks.org/AlertCenter.aspx" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem title-classes="p-2 pl-4 bg-kc-covid-blue text-white" body-classes="p-2 pl-4 border border-kc-covid-blue">
+              <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Platte County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 294-2431</p>
                   <p><a href="https://www.plattecountyhealthdept.com/emergency.aspx" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem title-classes="p-2 pl-4 bg-kc-covid-blue text-white" body-classes="p-2 pl-4 border border-kc-covid-blue">
+              <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Wyandotte County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 573-8855</p>
