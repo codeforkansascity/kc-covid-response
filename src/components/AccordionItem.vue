@@ -1,20 +1,22 @@
 <template>
   <div>
-    <div class="bg-kc-covid-blue text-white p-2 pl-4 flex justify-between cursor-pointer" @click="toggle">
+    <div class="flex justify-between cursor-pointer" :class="titleClasses" @click="toggle">
       <span><slot name="title"></slot></span>
       <span>
         <font-awesome class="mx-4" :icon="['far', 'chevron-up']" v-if="open"></font-awesome>
         <font-awesome class="mx-4" :icon="['far', 'chevron-down']" v-else></font-awesome>
       </span>
     </div>
-    <div class="p-2 pl-4 border border-kc-covid-blue" v-if="open"><slot name="body"></slot></div>
+    <div :class="bodyClasses" v-if="open"><slot name="body"></slot></div>
   </div>
 </template>
 
 <script>
 export default {
   props: {
-    isOpen: Boolean
+    isOpen: Boolean,
+    titleClasses: String,
+    bodyClasses: String
   },
   data() {
     return {
