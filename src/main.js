@@ -28,7 +28,8 @@ export default function(Vue, { router, head, isClient }) {
   // Add Google Tag Manager
   if (process.env.GRIDSOME_GTM_ID) {
     Vue.use(VueGtm, {
-      id: process.env.GRIDSOME_GTM_ID
+      id: process.env.GRIDSOME_GTM_ID,
+      vueRouter: router
     });
   }
 }

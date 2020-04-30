@@ -255,7 +255,7 @@
         </template>
       </TwoColumnSection>
     </div>
-    <OneColumnSection class="py-16 md:py-32">
+    <OneColumnSection class="py-16 md:py-24">
       <div class="px-4 md:pl-0 md:pr-16">
         <h2 class="font-bold text-3xl mb-4">FAQs</h2>
         <div v-for="faq in $page.faqs.edges" :key="faq.question" class="mb-8">
@@ -264,7 +264,6 @@
             <template v-slot:body><span v-html="styleRawHTML(faq.node.content)"></span></template>
           </AccordionItem>
         </div>
-
       </div>
     </OneColumnSection>
     <div class="container mx-auto px-32 md:px-64"><div class="border-b-4 border-kc-covid-blue"></div></div>
