@@ -2,19 +2,17 @@
   <Layout>
     <FullWidthSection class="md:h-screen flex items-center" image="/images/crossroads-skyline-bg.jpg">
       <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
-        <h2 class="font-bold text-6xl">Test. Track. Triumph.</h2>
+        <h1 class="font-black text-6xl">Comeback KC</h1>
       </div>
     </FullWidthSection>
     <FullWidthSection>
       <div class="container mx-auto px-8 md:px-64 py-8 md:py-16">
-        <p class="text-2xl text-center text-white font-sans">
-          This is the plan to reopen Kansas City safely and responsibly. We're not going back to normal. We're going to comeback better than before.
-        </p>
+        <h2 class="text-4xl font-bold text-center text-white">Test. Track. Triumph.</h2>
       </div>
     </FullWidthSection>
     <OneColumnSection>
       <div class="py-8 md:py-16 px-8 md:px-64">
-        <p class="text-xl text-center">To do this, Kansas City needs your help to <strong>Test</strong>, <strong>Track</strong>, and <strong>Contain</strong> the coronavirus.</p>
+        <p class="text-xl text-center">Kansas City never quits. No matter the odds we always find a way to come together and overcome. Today is no different. Let's bring KC back the right way &mdash; safely and responsibly &mdash; to ensure that we come back better and stronger than ever.</p>
       </div>
     </OneColumnSection>
     <div class="bg-kc-covid-light-gray">
@@ -26,7 +24,7 @@
             </p>
             <h2 class="font-bold text-3xl mb-4 uppercase text-center">Test</h2>
             <p>
-              We are making more test kits available, so we can ensure enough testing to understand the full extent of the pandemic in our region.
+              With enough testing, we can understand the full extent of the pandemic in our region. That's why we are making more test kits available than ever before.
             </p>
           </div>
         </template>
@@ -37,8 +35,7 @@
             </p>
             <h2 class="font-bold text-3xl mb-4 uppercase text-center">Track</h2>
             <p>
-              If you are sick with COVID, our apps and contact tracing teams can help identify places you've gone and people you've had contact with, so that we can help them get
-              tested too.
+              Through apps built with your privacy in mind, our contact tracing team can help those sick with COVID identify those they may have affected so they can be tested, too.
             </p>
           </div>
         </template>
@@ -63,11 +60,11 @@
       <template v-slot:column1>
         <div class="px-4 md:pl-0 md:pr-16">
           <p>
-            Safe. Secure. Private.
+            Safe. Secure. Private. COVID Safe Paths, a free app, lets you see where you’ve been and alerts you if you've been exposed to COVID19.
           </p>
           <p>
             <ul class="list-disc ml-5 mb-4">
-              <li>See if you’ve been exposed</li>
+              <li>Find out if you’ve been exposed</li>
               <li>Privately log your location</li>
               <li>Completely control your data</li>
             </ul>
@@ -91,10 +88,10 @@
           </p>
           <p>
             <ol class="list-decimal ml-5 mb-4">
-              <li>Download the app for free, enable location services, and connect to your local health department so they can send you info. (Your personal info is not shared.)</li>
-              <li>See where you go. Get alerts if you cross paths with anyone diagnosed with COVID-19.</li>
-              <li>Get helpful hints about what to do if you’ve been exposed.</li>
-              <li>If you test positive for COVID, you may choose to share info about where you’ve been, anonymously, with your local health department. (Your identity is safe. The info will help them stop the spread.)</li>
+              <li>Download the free app, enable location services, and anonymously connect to your local health department</li>
+              <li>Track where you go and get alerts if you’re exposed to anyone diagnosed with COVID-19.</li>
+              <li>rowse helpful hints about what to do if you’ve been exposed.</li>
+              <li>If you test positive for COVID, you may anonymously choose to share info about where you’ve been with your local health department</li>
             </ol>
           </p>
         </div>
@@ -106,13 +103,10 @@
           <div class="px-4 md:pl-0 py-16 md:py-32 md:pr-16">
             <h2 class="font-bold text-3xl mb-4">Get Started</h2>
             <p>
-              Find out about the Test, Track and Contain options in your area.
+              Find out about Comeback KC efforts in your area through your local health department.
             </p>
             <p>
-              Your local health department is the best place to get help with COVID-19. Find out how your health department is combatting COVID-19.
-            </p>
-            <p>
-              <strong>NOTE: If you are feeling sick, call your healthcare provider first.</strong>
+              And, if you are feeling sick, call your healthcare provider first.
             </p>
           </div>
         </template>
