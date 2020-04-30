@@ -56,10 +56,10 @@
         </template>
       </ThreeColumnSection>
     </div>
-    <OneColumnSection class="py-8 md:pt-16">
+    <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
       <h2 class="font-bold text-3xl px-2 md:px-0">Fight COVID With Your Phone</h2>
     </OneColumnSection>
-    <TwoColumnSection class="md:pb-32">
+    <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
         <div class="px-2 md:pl-0 md:pr-16">
           <p>
@@ -76,8 +76,8 @@
             COVID Safe Paths, a free app, lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID19.
           </p>
           <p>
-          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white mr-4">Play Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button>
-          <button class="px-4 py-2 rounded bg-kc-covid-orange text-white">App Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button>
+            <a id="play-store-download" href="#" target="_blank"><button class="px-4 py-2 rounded bg-kc-covid-orange text-white mr-4">Play Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button></a>
+            <a id="app-store-download" href="#" target="_blank"><button class="px-4 py-2 rounded bg-kc-covid-orange text-white">App Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button></a>
           </p>
           <p>
             <a href="https://covidsafepaths.org/" target="_blank" class="underline text-kc-covid-blue">Learn more about the COVID Safe Paths app</a>
@@ -104,7 +104,7 @@
       <TwoColumnSection>
         <template v-slot:column1>
           <div class="px-2 md:pl-0 py-16 md:py-32 md:pr-16">
-            <h2 class="font-bold text-3xl">Get Started</h2>
+            <h2 class="font-bold text-3xl mb-4">Get Started</h2>
             <p>
               Find out about the Test, Track and Contain options in your area.
             </p>
@@ -118,7 +118,7 @@
         </template>
         <template v-slot:column2>
           <div class="px-2 md:px-16 pb-16 md:py-32">
-            <h2 class="font-bold text-3xl mb-2">Local Health Departments</h2>
+            <h2 class="font-bold text-3xl mb-6">Local Health Departments</h2>
             <p class="leading-relaxed text-xl">
               <AccordionItem is-open>
                 <template v-slot:title>Cass County</template>
@@ -197,8 +197,32 @@
         </template>
       </TwoColumnSection>
     </div>
+    <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
+      <h2 class="font-bold text-3xl px-2 md:px-0">Health Inequities</h2>
+    </OneColumnSection>
+    <TwoColumnSection class="pb-16 md:pb-32">
+      <template v-slot:column1>
+        <div class="px-2 md:pl-0 md:pr-16">
+          <p>We know that COVID-19 has not impacted all communities in our region equally. The black, Latinx, and Native communities have been especially hard hit. There are many reasons for this, but primarily these health inequities are manifestations of systemic racism that has existed long before COVID-19.</p>
+          <p>We are committed to making sure that testing, tracking, and support resources are directed to the communities that need them the most. As we reopen and rebuild our economy, we can't just go back to normal, we have to take this opportunity to build a better, fairer Kansas City.</p>
+        </div>
+      </template>
+      <template v-slot:column2>
+        <div class="px-2 md:px-16">
+          <p>
+            <ul class="list-disc ml-5 mb-4">
+              <li>About 44% of KC's COVID-19 cases are black, but black people make up just 30% of the KC population (source: KCMO Health Dept.)</li>
+              <li>In Kansas, roughly 16% of cases are black, but black people make up only 6% of the population</li>
+              <li>Nationally, black and Latinx people are dying at higher rates than their white neighbors</li>
+              <li>The Navajo Nation alone has experienced the 3rd highest infection rate outside of New York and New Jersey.</li>
+            </ul>
+          </p>
+        </div>
+      </template>
+    </TwoColumnSection>
+    <div class="bg-kc-covid-light-gray">
     <OneColumnSection>
-      <div class="py-8 md:py-16 px-8 md:px-32">
+      <div class="py-16 md:py-32 px-8 md:px-32">
         <h2 class="font-bold text-3xl mb-4 text-center">Stay Informed</h2>
         <p class="leading-relaxed text-xl text-center">
           We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools, and opportunities to fight Covid-19.
@@ -218,7 +242,7 @@
                   Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
                 </button>
                 <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error)"></span></div>
-                <div class="mt-2" v-if="success">Yer in!</div>
+                <div class="mt-2" v-if="success">Success!</div>
                 <div class="mt-2" v-if="loading">Subscribing…</div>
               </form>
             </template>
@@ -226,11 +250,9 @@
         </p>
       </div>
     </OneColumnSection>
-    <div class="container mx-auto">
-      <div class="border-t-4 border-kc-covid-blue w-1/2 mx-auto"></div>
     </div>
     <OneColumnSection>
-      <div class="py-8 md:py-16 px-2 md:px-0">
+      <div class="py-16 md:py-32 px-2 md:px-0">
         <h2 class="font-bold text-3xl mb-8 text-center">Brought To You By</h2>
         <div class="flex flex-wrap items-center justify-between">
           <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200"/></a>
