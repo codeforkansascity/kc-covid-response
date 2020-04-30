@@ -54,13 +54,13 @@
       </ThreeColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="font-bold text-3xl px-4 md:px-0">Fight COVID With Your Phone</h2>
+      <h2 class="font-bold text-3xl px-4 md:px-0">Fight COVID-19 With Your Phone</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
         <div class="px-4 md:pl-0 md:pr-16">
           <p>
-            Safe. Secure. Private. COVID Safe Paths, a free app, lets you see where you’ve been and alerts you if you've been exposed to COVID19.
+            Safe. Secure. Private. COVID Safe Paths, a free app, lets you see where you’ve been and alerts you if you've been exposed to COVID-19.
           </p>
           <p>
             <ul class="list-disc ml-5 mb-4">
@@ -70,7 +70,7 @@
             </ul>
           </p>
           <p>
-            COVID Safe Paths, a free app, lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID19.
+            COVID Safe Paths, a free app, lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID-19.
           </p>
           <p>
             <a id="play-store-download" href="#" target="_blank"><button class="px-4 py-2 rounded bg-kc-covid-orange text-white mr-4">Play Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button></a>
@@ -118,14 +118,14 @@
                 <template v-slot:title>Cass County</template>
                 <template v-slot:body>
                   <p>Hotline: (877) 435-8411</p>
-                  <p><a href="https://www.casscounty.com/2450/COVID-19" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
+                  <p><a href="https://www.casscounty.com/2450/COVID-19" target="_blank" class="underline text-kc-covid-blue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Clay County</template>
                 <template v-slot:body>
                   <p>Hotline: (877) 435-8411</p>
-                  <p><a href="https://www.clayhealth.com/279/COVID-19-2019-Novel-Coronavirus" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
+                  <p><a href="https://www.clayhealth.com/279/COVID-19-2019-Novel-Coronavirus" target="_blank" class="underline text-kc-covid-blue">COVID-19 Info</a></p>
                   <p><a href="https://www.highlandwebforms.com/LuxSci/CCPHC/COVID-19_Testing.html" target="_blank" class="underline text-kc-covid-blue">Symptom Reporting Form</a></p>
                 </template>
               </AccordionItem>
@@ -133,7 +133,7 @@
                 <template v-slot:title>Jackson County</template>
                 <template v-slot:body>
                   <p>Hotline: (877) 435-8411</p>
-                  <p><a href="https://www.jacohd.org/coronavirus" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
+                  <p><a href="https://www.jacohd.org/coronavirus" target="_blank" class="underline text-kc-covid-blue">COVID-19 Info</a></p>
                   <p><a href="https://form.jotform.com/201005024298040" target="_blank" class="underline text-kc-covid-blue">Symptom Reporting Form</a></p>
                   <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-kc-covid-blue">Stats Dashboard</a></p>
                 </template>
@@ -142,7 +142,7 @@
                 <template v-slot:title>Johnson County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 715-2819</p>
-                  <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
+                  <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-kc-covid-blue">COVID-19 Info</a></p>
                   <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-kc-covid-blue">Symptom Reporting Form</a></p>
                   <p><a href="https://public.tableau.com/profile/mapper.of.the.day.mod.#!/vizhome/covid19_joco_public/Dashboard" target="_blank" class="underline text-kc-covid-blue">Stats Dashboard</a></p>
                 </template>
@@ -151,7 +151,7 @@
                 <template v-slot:title>KCMO</template>
                 <template v-slot:body>
                   <p>Hotline: (877) 435-8411</p>
-                  <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
+                  <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus" target="_blank" class="underline text-kc-covid-blue">COVID-19 Info</a></p>
                   <p><a href="https://us.openforms.com/Form/7558551f-763c-4ebb-a7ff-0ef5a333f541" target="_blank" class="underline text-kc-covid-blue">Symptom Reporting Form</a></p>
                   <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus-covid-19/covid-19-totals" target="_blank" class="underline text-kc-covid-blue">Stats Dashboard</a></p>
                 </template>
@@ -160,28 +160,28 @@
                 <template v-slot:title>Leavenworth County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 250-2000</p>
-                  <p><a href="https://www.leavenworthcounty.gov/covid/" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
+                  <p><a href="https://www.leavenworthcounty.gov/covid/" target="_blank" class="underline text-kc-covid-blue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Miami County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 294-2431</p>
-                  <p><a href="https://www.miamicountyks.org/AlertCenter.aspx" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
+                  <p><a href="https://www.miamicountyks.org/AlertCenter.aspx" target="_blank" class="underline text-kc-covid-blue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Platte County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 294-2431</p>
-                  <p><a href="https://www.plattecountyhealthdept.com/emergency.aspx" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
+                  <p><a href="https://www.plattecountyhealthdept.com/emergency.aspx" target="_blank" class="underline text-kc-covid-blue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-kc-covid-gray pb-4 mb-4" title-classes="font-bold text-kc-covid-blue">
                 <template v-slot:title>Wyandotte County</template>
                 <template v-slot:body>
                   <p>Hotline: (913) 573-8855</p>
-                  <p><a href="https://alpha.wycokck.org/Coronavirus-COVID-19-Information" target="_blank" class="underline text-kc-covid-blue">COVID Info</a></p>
+                  <p><a href="https://alpha.wycokck.org/Coronavirus-COVID-19-Information" target="_blank" class="underline text-kc-covid-blue">COVID-19 Info</a></p>
                   <p><a href="https://survey123.arcgis.com/share/4173374fc06e48ae94df8c95aa2fb7a9?portalUrl=https://unifiedgov.maps.arcgis.com" target="_blank" class="underline text-kc-covid-blue">Symptom Reporting Form</a></p>
                   <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-kc-covid-blue">Stats Dashboard</a></p>
                 </template>
@@ -197,18 +197,17 @@
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
         <div class="px-4 md:pl-0 md:pr-16">
-          <p>We know that COVID-19 has not impacted all communities in our region equally. The black, Latinx, and Native communities have been especially hard hit. There are many reasons for this, but primarily these health inequities are manifestations of systemic racism that has existed long before COVID-19.</p>
-          <p>We are committed to making sure that testing, tracking, and support resources are directed to the communities that need them the most. As we reopen and rebuild our economy, we can't just go back to normal, we have to take this opportunity to build a better, fairer Kansas City.</p>
+          <p>The COVID-19 pandemic has not impacted all communities in our region equally. The black, Latinx and Native communities have shouldered an undue burden in these challenging times. Comeback KC is committed to providing testing, tracking, and support resources to the communities that need them the most. As we reopen and rebuild our economy, we can't just go back to normal, we have to take this opportunity to build a better, fairer Kansas City.</p>
         </div>
       </template>
       <template v-slot:column2>
         <div class="px-4 md:px-16">
           <p>
             <ul class="list-disc ml-5 mb-4">
-              <li>About 44% of KC's COVID-19 cases are black, but black people make up just 30% of the KC population (source: KCMO Health Dept.)</li>
-              <li>In Kansas, roughly 16% of cases are black, but black people make up only 6% of the population</li>
-              <li>Nationally, black and Latinx people are dying at higher rates than their white neighbors</li>
-              <li>The Navajo Nation alone has experienced the 3rd highest infection rate outside of New York and New Jersey.</li>
+              <li>About 44% of KCMO's COVID-19 cases are black, but the black population makes up just 30% of the population</li>
+              <li>In Wyandotte County, black people represent 53% of the COVID-19 deaths but just 23% of the population </li>
+              <li>Nationally, black and Latinx populations are dying at higher rates than their white neighbors</li>
+              <li>The Navajo Nation alone has experienced the 3rd highest infection rate outside of New York and New Jersey</li>
             </ul>
           </p>
         </div>
@@ -247,9 +246,9 @@
         </template>
         <template v-slot:column2>
           <div class="px-4 md:px-16">
-            <h2 class="font-bold text-3xl mb-4">KC Covid Information</h2>
+            <h2 class="font-bold text-3xl mb-4">KC COVID-19 Information</h2>
             <p class="leading-relaxed text-xl">
-              For more information on the impact of COVID in the Kansas City region, check out <a class="text-kc-covid-blue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">MARC's KC COVID dashboard</a>.
+              For more information on the impact of COVID-19 in the Kansas City region, check out <a class="text-kc-covid-blue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">MARC's KC COVID dashboard</a>.
             </p>
           </div>
         </template>
