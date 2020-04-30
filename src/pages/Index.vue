@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <FullWidthSection class="md:h-screen flex items-center" image="/images/crossroads-skyline-bg.jpg">
-      <div class="container mx-auto text-center px-2 mx:pl-0 py-16 md:py-32">
+      <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
         <h2 class="font-bold text-6xl">Test. Track. Triumph.</h2>
       </div>
     </FullWidthSection>
@@ -20,7 +20,7 @@
     <div class="bg-kc-covid-light-gray">
       <ThreeColumnSection class="md:py-16">
         <template v-slot:column1>
-          <div class="px-2 md:pl-0 py-8 md:py-16 md:px-16 text-center">
+          <div class="px-4 md:pl-0 py-8 md:py-16 md:px-16 text-center">
             <p class="text-kc-covid-blue">
               <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
             </p>
@@ -31,7 +31,7 @@
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-2 md:pl-0 py-8 md:py-16 md:px-16 text-center">
+          <div class="px-4 md:pl-0 py-8 md:py-16 md:px-16 text-center">
             <p class="text-kc-covid-blue">
               <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
             </p>
@@ -43,7 +43,7 @@
           </div>
         </template>
         <template v-slot:column3>
-          <div class="px-2 md:pl-0 py-8 md:py-16 md:px-16 text-center">
+          <div class="px-4 md:pl-0 py-8 md:py-16 md:px-16 text-center">
             <p class="text-kc-covid-blue">
               <font-awesome class="mb-4" :icon="['fal', 'flask-poison']" size="7x"></font-awesome>
             </p>
@@ -57,11 +57,11 @@
       </ThreeColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="font-bold text-3xl px-2 md:px-0">Fight COVID With Your Phone</h2>
+      <h2 class="font-bold text-3xl px-4 md:px-0">Fight COVID With Your Phone</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
-        <div class="px-2 md:pl-0 md:pr-16">
+        <div class="px-4 md:pl-0 md:pr-16">
           <p>
             Safe. Secure. Private.
           </p>
@@ -85,7 +85,7 @@
         </div>
       </template>
       <template v-slot:column2>
-        <div class="px-2 md:px-16">
+        <div class="px-4 md:px-16">
           <p>
             <em>How it works</em>
           </p>
@@ -103,7 +103,7 @@
     <div class="bg-kc-covid-light-gray">
       <TwoColumnSection>
         <template v-slot:column1>
-          <div class="px-2 md:pl-0 py-16 md:py-32 md:pr-16">
+          <div class="px-4 md:pl-0 py-16 md:py-32 md:pr-16">
             <h2 class="font-bold text-3xl mb-4">Get Started</h2>
             <p>
               Find out about the Test, Track and Contain options in your area.
@@ -117,7 +117,7 @@
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-2 md:px-16 pb-16 md:py-32">
+          <div class="px-4 md:px-16 pb-16 md:py-32">
             <h2 class="font-bold text-3xl mb-6">Local Health Departments</h2>
             <p class="leading-relaxed text-xl">
               <AccordionItem is-open>
@@ -198,17 +198,17 @@
       </TwoColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="font-bold text-3xl px-2 md:px-0">Health Inequities</h2>
+      <h2 class="font-bold text-3xl px-4 md:px-0">Health Inequities</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
-        <div class="px-2 md:pl-0 md:pr-16">
+        <div class="px-4 md:pl-0 md:pr-16">
           <p>We know that COVID-19 has not impacted all communities in our region equally. The black, Latinx, and Native communities have been especially hard hit. There are many reasons for this, but primarily these health inequities are manifestations of systemic racism that has existed long before COVID-19.</p>
           <p>We are committed to making sure that testing, tracking, and support resources are directed to the communities that need them the most. As we reopen and rebuild our economy, we can't just go back to normal, we have to take this opportunity to build a better, fairer Kansas City.</p>
         </div>
       </template>
       <template v-slot:column2>
-        <div class="px-2 md:px-16">
+        <div class="px-4 md:px-16">
           <p>
             <ul class="list-disc ml-5 mb-4">
               <li>About 44% of KC's COVID-19 cases are black, but black people make up just 30% of the KC population (source: KCMO Health Dept.)</li>
@@ -252,8 +252,9 @@
     </OneColumnSection>
     </div>
     <OneColumnSection>
-      <div class="py-16 md:py-32 px-2 md:px-0">
+      <div class="py-16 md:py-32 px-4 md:px-0">
         <h2 class="font-bold text-3xl mb-8 text-center">Brought To You By</h2>
+        <p class="text-center mb-8">This campaign is a collaboration between many Kansas City organizations. They include:</p>
         <div class="flex flex-wrap items-center justify-between">
           <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200"/></a>
           <a href="https://www.vmlyr.com" class="pb-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>

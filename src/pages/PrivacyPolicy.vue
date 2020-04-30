@@ -1,17 +1,17 @@
 <template>
   <Layout>
     <FullWidthSection class="md:h-screen flex items-center" image="/images/temp-hero-1.jpg">
-      <div class="container mx-auto text-center px-2 mx:pl-0 py-16 md:py-32">
+      <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
         <h2 class="text-white font-bold text-6xl">Campaign Header</h2>
       </div>
     </FullWidthSection>
     <FullWidthSection>
-      <div class="container mx-auto flex justify-center px-2 mx:pl-0 py-8 md:py-16">
+      <div class="container mx-auto flex justify-center px-4 mx:pl-0 py-8 md:py-16">
         <div class="text-white font-sans text-4xl">Privacy Policy</div>
       </div>
     </FullWidthSection>
     <OneColumnSection>
-      <div class="px-2 md:px-0 my-8 md:my-16">
+      <div class="px-4 md:px-0 my-8 md:my-16">
         <h1 class="font-bold text-4xl mb-4">Privacy Policy</h1>
         <p>
           Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit. Fusce fermentum odio nec arcu. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi.
