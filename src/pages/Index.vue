@@ -255,7 +255,7 @@
         <div class="px-4 md:px-16">
           <h2 class="font-bold text-3xl mb-4">KC Covid Information</h2>
           <p class="leading-relaxed text-xl">
-            For more information on the impact of COVID in the Kansas City region, check out <a class="text-kc-covid-blue underline" href="#" target="_blank">MARC's KC COVID dashboard</a>.
+            For more information on the impact of COVID in the Kansas City region, check out <a class="text-kc-covid-blue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">MARC's KC COVID dashboard</a>.
           </p>
         </div>
       </template>

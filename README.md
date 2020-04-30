@@ -16,4 +16,4 @@ The following steps are the standard steps for building a Gridsome site. The sho
 There are two environment variables that the build uses when generating the site.
 
 - FONTAWESOME_NPM_AUTH_TOKEN - This is the token required to use the pro version of Fontawesome. You can get it from your [account](https://fontawesome.com/account) page after you've registered for a pro account.
-- GRIDSOME_GTAG_ID - The "UA-XXXXX" Google GTag/Analytics ID.
+- GRIDSOME_GTM_ID - The "GTM-XXXXX" Google GTag/Analytics ID.
