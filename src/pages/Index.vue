@@ -221,35 +221,45 @@
       </template>
     </TwoColumnSection>
     <div class="bg-kc-covid-light-gray">
-    <OneColumnSection>
-      <div class="py-16 md:py-32 px-8 md:px-32">
-        <h2 class="font-bold text-3xl mb-4 text-center">Stay Informed</h2>
-        <p class="leading-relaxed text-xl text-center">
-          We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools, and opportunities to fight Covid-19.
-        </p>
-        <p class="leading-relaxed text-xl text-center">
-          <mailchimp-subscribe
-            url="https://comebackkc.us8.list-manage.com/subscribe/post-json"
-            user-id="29e20716727b79f181330a1a0"
-            list-id="4dbc9273ae"
-            @error="onError"
-            @success="onSuccess"
-          >
-            <template v-slot="{ subscribe, setEmail, error, success, loading }">
-              <form @submit.prevent="subscribe">
-                <input type="email" @input="setEmail($event.target.value)" placeholder="Email address" class="border border-kc-covid-gray h-12 rounded px-4 md:mr-4 w-full md:w-auto" />
-                <button type="submit" class="px-4 py-2 mt-4 md:mt-0 rounded bg-kc-covid-orange text-white">
-                  Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
-                </button>
-                <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error)"></span></div>
-                <div class="mt-2" v-if="success">Success!</div>
-                <div class="mt-2" v-if="loading">Subscribing…</div>
-              </form>
-            </template>
-          </mailchimp-subscribe>
-        </p>
-      </div>
-    </OneColumnSection>
+    <TwoColumnSection class="py-16 md:py-32">
+      <template v-slot:column1>
+        <div class="px-4 md:pl-0 md:pr-16">
+          <h2 class="font-bold text-3xl mb-4">Stay Informed</h2>
+          <p class="leading-relaxed text-xl">
+            We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools, and opportunities to fight Covid-19.
+          </p>
+          <p class="leading-relaxed text-xl">
+            <mailchimp-subscribe
+              url="https://comebackkc.us8.list-manage.com/subscribe/post-json"
+              user-id="29e20716727b79f181330a1a0"
+              list-id="4dbc9273ae"
+              @error="onError"
+              @success="onSuccess"
+            >
+              <template v-slot="{ subscribe, setEmail, error, success, loading }">
+                <form @submit.prevent="subscribe">
+                  <input type="email" @input="setEmail($event.target.value)" placeholder="Email address" class="border border-kc-covid-gray h-12 rounded px-4 md:mr-4 w-full md:w-auto" />
+                  <button type="submit" class="px-4 py-2 mt-4 md:mt-0 rounded bg-kc-covid-orange text-white">
+                    Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
+                  </button>
+                  <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error)"></span></div>
+                  <div class="mt-2" v-if="success">Success!</div>
+                  <div class="mt-2" v-if="loading">Subscribing…</div>
+                </form>
+              </template>
+            </mailchimp-subscribe>
+          </p>
+        </div>
+      </template>
+      <template v-slot:column2>
+        <div class="px-4 md:px-16">
+          <h2 class="font-bold text-3xl mb-4">KC Covid Information</h2>
+          <p class="leading-relaxed text-xl">
+            For more information on the impact of COVID in the Kansas City region, check out <a class="text-kc-covid-blue underline" href="#" target="_blank">MARC's KC COVID dashboard</a>.
+          </p>
+        </div>
+      </template>
+    </TwoColumnSection>
     </div>
     <OneColumnSection>
       <div class="py-16 md:py-32 px-4 md:px-0">
