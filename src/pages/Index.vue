@@ -115,14 +115,14 @@
               <AccordionItem is-open class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Cass County</template>
                 <template v-slot:body>
-                  <p>Call: (877) 435-8411</p>
+                  <p>Call: <a href="tel:+1-877-435-8411">(877) 435-8411</a></p>
                   <p><a href="https://www.casscounty.com/2450/COVID-19" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Clay County</template>
                 <template v-slot:body>
-                  <p>Call: (877) 435-8411</p>
+                  <p>Call: <a href="tel:+1-877-435-8411">(877) 435-8411</a></p>
                   <p><a href="https://www.clayhealth.com/279/COVID-19-2019-Novel-Coronavirus" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                   <p><a href="https://www.highlandwebforms.com/LuxSci/CCPHC/COVID-19_Testing.html" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
                 </template>
@@ -130,7 +130,7 @@
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Jackson County</template>
                 <template v-slot:body>
-                  <p>Call: (877) 435-8411</p>
+                  <p>Call: <a href="tel:+1-877-435-8411">(877) 435-8411</a></p>
                   <p><a href="https://www.jacohd.org/coronavirus" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                   <p><a href="https://form.jotform.com/201005024298040" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
                   <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-darkblue">Stats Dashboard</a></p>
@@ -139,7 +139,7 @@
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Johnson County</template>
                 <template v-slot:body>
-                  <p>Call: (913) 715-2819</p>
+                  <p>Call: <a href="tel:+1-913-715-2819">(913) 715-2819</a></p>
                   <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                   <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
                   <p><a href="https://public.tableau.com/profile/mapper.of.the.day.mod.#!/vizhome/covid19_joco_public/Dashboard" target="_blank" class="underline text-comebackkc-darkblue">Stats Dashboard</a></p>
@@ -148,7 +148,7 @@
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>KCMO</template>
                 <template v-slot:body>
-                  <p>Call: (877) 435-8411</p>
+                  <p>Call: <a href="tel:+1-877-435-8411">(877) 435-8411</a></p>
                   <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                   <p><a href="https://us.openforms.com/Form/7558551f-763c-4ebb-a7ff-0ef5a333f541" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
                   <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus-covid-19/covid-19-totals" target="_blank" class="underline text-comebackkc-darkblue">Stats Dashboard</a></p>
@@ -157,28 +157,28 @@
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Leavenworth County</template>
                 <template v-slot:body>
-                  <p>Call: (913) 250-2000</p>
+                  <p>Call: <a href="tel:+1-913-250-2000">(913) 250-2000</a></p>
                   <p><a href="https://www.leavenworthcounty.gov/covid/" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Miami County</template>
                 <template v-slot:body>
-                  <p>Call: (913) 294-2431</p>
+                  <p>Call: <a href="tel:+1-913-294-2431">(913) 294-2431</a></p>
                   <p><a href="https://www.miamicountyks.org/AlertCenter.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Platte County</template>
                 <template v-slot:body>
-                  <p>Call: (913) 294-2431</p>
+                  <p>Call: <a href="tel:+1-913-294-2431">(913) 294-2431</a></p>
                   <p><a href="https://www.plattecountyhealthdept.com/emergency.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Wyandotte County</template>
                 <template v-slot:body>
-                  <p>Call: (913) 573-8855</p>
+                  <p>Call: <a href="tel:+1-913-573-8855">(913) 573-8855</a></p>
                   <p><a href="https://alpha.wycokck.org/Coronavirus-COVID-19-Information" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                   <p><a href="https://survey123.arcgis.com/share/4173374fc06e48ae94df8c95aa2fb7a9?portalUrl=https://unifiedgov.maps.arcgis.com" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
                   <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-darkblue">Stats Dashboard</a></p>
