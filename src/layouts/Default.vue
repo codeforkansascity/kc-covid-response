@@ -6,7 +6,7 @@
     <div class="flex-grow">
       <slot />
     </div>
-    <div class="w-full bg-comebackkc-black flex-grow-0">
+    <div class="w-full bg-comebackkc-darkblue flex-grow-0">
       <SiteFooter></SiteFooter>
     </div>
   </div>
