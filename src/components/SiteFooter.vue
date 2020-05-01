@@ -15,8 +15,8 @@
         </li>
       </ul>
       <ul class="flex items-center">
-        <li><g-link to="/privacy-policy/" class="underline mr-4">Privacy Policy</g-link></li>
-        <li><g-link to="/terms-of-use/" class="underline">Terms of Use</g-link></li>
+        <li><g-link to="/privacy-policy/" class="font-bold uppercase hover:underline mr-4">Privacy Policy</g-link></li>
+        <li><g-link to="/terms-of-use/" class="font-bold uppercase hover:underline">Terms of Use</g-link></li>
       </ul>
     </div>
   </div>
