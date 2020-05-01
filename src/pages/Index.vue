@@ -229,11 +229,11 @@
               >
                 <template v-slot="{ subscribe, setEmail, error, success, loading }">
                   <form @submit.prevent="subscribe">
-                    <input type="email" @input="setEmail($event.target.value)" placeholder="Email address" class="border border-comebackkc-gray h-12 rounded px-4 md:mr-4 w-full md:w-auto" />
+                    <input type="email" @input="setEmail($event.target.value)" placeholder="Email address" class="text-comebackkc-black border border-comebackkc-gray h-12 rounded px-4 md:mr-4 w-full md:w-auto" />
                     <button type="submit" class="px-4 py-2 mt-4 md:mt-0 rounded bg-comebackkc-red text-white">
                       Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
                     </button>
-                    <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error)"></span></div>
+                    <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error, 'white')"></span></div>
                     <div class="mt-2" v-if="success">Success!</div>
                     <div class="mt-2" v-if="loading">Subscribing…</div>
                   </form>
