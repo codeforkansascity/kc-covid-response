@@ -234,7 +234,7 @@
                       Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
                     </button>
                     <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error, 'white')"></span></div>
-                    <div class="mt-2" v-if="success">Success!</div>
+                    <div class="mt-2" v-if="success">Thanks for subscribing to the COMEBACK KC email list. Keep watch for updates on testing availability, screening tools and opportunities to fight COVID-19.</div>
                     <div class="mt-2" v-if="loading">Subscribing…</div>
                   </form>
                 </template>
