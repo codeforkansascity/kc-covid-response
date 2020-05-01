@@ -48,8 +48,8 @@ import OneColumnSection from '@/components/OneColumnSection.vue';
 
 export default {
   metaInfo: {
-    title: 'Privacy Policy',
-    meta: [{ key: 'description', name: 'description', content: 'Privacy policy.' }]
+    title: 'COMEBACK KC Terms of Use',
+    meta: [{ key: 'description', name: 'description', content: 'Read the terms of use for COMEBACK KC here.' }]
   },
   components: { FullWidthSection, OneColumnSection }
 };

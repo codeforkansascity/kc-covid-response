@@ -290,8 +290,8 @@ import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js';
 
 export default {
   metaInfo: {
-    title: 'Test Track Triumph',
-    meta: [{ key: 'description', name: 'description', content: 'Do your part to re-open Kansas City safely.' }]
+    title: 'Kansas City COVID 19 Response, Cases & Tracking App',
+    meta: [{ key: 'description', name: 'description', content: 'COMEBACK KC is a COVID-19 task force supporting testing, tracking, and safely reopening Kansas City. Learn more & download the COVID Safe Paths App here.' }]
   },
   mixins: [rawHtmlMixin],
   components: { FullWidthSection, OneColumnSection, TwoColumnSection, ThreeColumnSection, AccordionItem, MailchimpSubscribe },
