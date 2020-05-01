@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <FullWidthSection class="md:h-screen flex items-center" image="/images/temp-hero-2.jpg">
+    <FullWidthSection class="md:h-screen-60 flex items-center" image="/images/temp-hero-2.jpg">
       <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
         <h2 class="text-white font-bold text-6xl">Campaign Header</h2>
       </div>

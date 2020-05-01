@@ -9,6 +9,9 @@ module.exports = {
         'comebackkc-dark-gray': '#394759',
         'comebackkc-light-gray': '#E6E7E8'
       },
+      height: {
+        'screen-60': '60vh'
+      },
       fontSize: {
         '7xl': '5rem',
         '8xl': '6rem',

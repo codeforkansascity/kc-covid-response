@@ -1,13 +1,13 @@
 <template>
   <Layout>
-    <FullWidthSection class="md:h-screen flex items-center" image="/images/crossroads-skyline-bg.jpg">
+    <FullWidthSection class="md:h-screen-60 flex items-center" image="/images/crossroads-skyline-bg.jpg">
       <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
-        <h1 class="text-white text-4xl md:text-10xl">Comeback KC</h1>
+        <h1 class="text-white text-4xl md:text-10xl text-shadow">Comeback KC</h1>
       </div>
     </FullWidthSection>
     <FullWidthSection class="bg-comebackkc-red">
       <div class="container mx-auto px-8 md:px-64 py-8 md:py-16">
-        <h2 class="text-4xl text-center text-white uppercase">Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span></h2>
+        <h2 class="text-4xl text-center text-white">Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span></h2>
       </div>
     </FullWidthSection>
     <OneColumnSection>
@@ -22,7 +22,7 @@
             <p>
               <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
             </p>
-            <h3 class="text-3xl mb-4 uppercase text-center">Test</h3>
+            <h3 class="text-3xl mb-4 text-center">Test</h3>
             <p class="mb-0">
               With enough testing, we can understand the full extent of the pandemic in our region. That's why we are making more test kits available than ever before.
             </p>
@@ -33,7 +33,7 @@
             <p>
               <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
             </p>
-            <h3 class="text-3xl mb-4 uppercase text-center">Track</h3>
+            <h3 class="text-3xl mb-4 text-center">Track</h3>
             <p class="mb-0">
               Through apps built with your privacy in mind, our contact tracing team can help those sick with COVID identify those they may have affected so they can be tested, too.
             </p>
@@ -44,7 +44,7 @@
             <p>
               <font-awesome class="mb-4" :icon="['fal', 'house-user']" size="7x"></font-awesome>
             </p>
-            <h3 class="text-3xl mb-4 uppercase text-center">Contain</h3>
+            <h3 class="text-3xl mb-4 text-center">Contain</h3>
             <p class="mb-0">
               If we test and track, we can make sure that only sick people have to self-isolate. We can ease social distancing restrictions and help Kansas City come back better
               than before.
@@ -273,7 +273,9 @@
           <a href="https://www.c19kc.org/" class="p-8" target="_blank"><g-image src="~/images/c19kc-logo.png" width="200"/></a>
           <a href="https://www.idealect.is/" class="p-8" target="_blank"><g-image src="~/images/idealect-logo.png" width="200" /></a>
           <a href="https://www.marc.org/" class="p-8" target="_blank"><g-image src="~/images/mark-logo.jpg" width="200" /></a>
-          <a href="https://www.vmlyr.com" class="p-8" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
+          <a href="https://ticoproductions.com/" class="p-8" target="_blank"><g-image src="~/images/tico-logo.png" width="200" /></a>
+          <a href="https://www.tico-sports.com/" class="p-8" target="_blank"><g-image src="~/images/tico-sports-logo.png" width="200" /></a>
+          <a href="https://www.vmlyr.com/" class="p-8" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
         </div>
       </div>
     </OneColumnSection>

@@ -12,7 +12,7 @@ h3,
 h4,
 h5,
 h6 {
-  @apply font-heading font-black;
+  @apply font-heading font-black uppercase;
 }
 
 .bg-gradient-darkblue-black {
@@ -21,6 +21,10 @@ h6 {
 
 .bg-gradient-darkblue-red {
   background-image: linear-gradient(90deg, #1e2857 50%, #d9353f 50%);
+}
+
+.text-shadow {
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
 }
 
 @tailwind utilities;
