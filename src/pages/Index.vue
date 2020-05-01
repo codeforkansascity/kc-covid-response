@@ -2,12 +2,12 @@
   <Layout>
     <FullWidthSection class="md:h-screen flex items-center" image="/images/crossroads-skyline-bg.jpg">
       <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
-        <h1 class="text-white font-black text-4xl md:text-10xl">Comeback KC</h1>
+        <h1 class="text-white text-4xl md:text-10xl">Comeback KC</h1>
       </div>
     </FullWidthSection>
     <FullWidthSection class="bg-comebackkc-red">
       <div class="container mx-auto px-8 md:px-64 py-8 md:py-16">
-        <h2 class="text-4xl font-extrabold text-center text-white uppercase">Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span></h2>
+        <h2 class="text-4xl text-center text-white uppercase">Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span></h2>
       </div>
     </FullWidthSection>
     <OneColumnSection>
@@ -22,7 +22,7 @@
             <p>
               <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
             </p>
-            <h2 class="font-bold text-3xl mb-4 uppercase text-center">Test</h2>
+            <h3 class="text-3xl mb-4 uppercase text-center">Test</h3>
             <p class="mb-0">
               With enough testing, we can understand the full extent of the pandemic in our region. That's why we are making more test kits available than ever before.
             </p>
@@ -33,7 +33,7 @@
             <p>
               <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
             </p>
-            <h2 class="font-bold text-3xl mb-4 uppercase text-center">Track</h2>
+            <h3 class="text-3xl mb-4 uppercase text-center">Track</h3>
             <p class="mb-0">
               Through apps built with your privacy in mind, our contact tracing team can help those sick with COVID identify those they may have affected so they can be tested, too.
             </p>
@@ -44,7 +44,7 @@
             <p>
               <font-awesome class="mb-4" :icon="['fal', 'flask-poison']" size="7x"></font-awesome>
             </p>
-            <h2 class="font-bold text-3xl mb-4 uppercase text-center">Contain</h2>
+            <h3 class="text-3xl mb-4 uppercase text-center">Contain</h3>
             <p class="mb-0">
               If we test and track, we can make sure that only sick people have to self-isolate. We can ease social distancing restrictions and help Kansas City come back better
               than before.
@@ -54,7 +54,7 @@
       </ThreeColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="font-bold text-3xl px-4 md:px-0">Fight COVID-19 With Your Phone</h2>
+      <h2 class="text-3xl px-4 md:px-0">Fight COVID-19 With Your Phone</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
@@ -101,7 +101,7 @@
       <TwoColumnSection>
         <template v-slot:column1>
           <div class="px-4 md:pl-0 py-16 md:py-32 md:pr-16">
-            <h2 class="font-bold text-3xl mb-4">Get Started</h2>
+            <h2 class="text-3xl mb-4">Get Started</h2>
             <p>
               Find out about testing options and other initiatives in your area through your local health department.
             </p>
@@ -112,7 +112,7 @@
         </template>
         <template v-slot:column2>
           <div class="px-4 md:px-16 pb-16 md:py-32">
-            <h2 class="font-bold text-3xl mb-6">Local Health Departments</h2>
+            <h2 class="text-3xl mb-6">Local Health Departments</h2>
             <p class="leading-relaxed text-xl">
               <AccordionItem is-open class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
                 <template v-slot:title>Cass County</template>
@@ -192,7 +192,7 @@
       </TwoColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="font-bold text-3xl px-4 md:px-0">Health Inequities</h2>
+      <h2 class="text-3xl px-4 md:px-0">Health Inequities</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
@@ -217,7 +217,7 @@
       <TwoColumnSection class="py-16 md:py-32">
         <template v-slot:column1>
           <div class="px-4 md:pl-0 md:pr-16">
-            <h2 class="font-bold text-3xl mb-4">Stay Informed</h2>
+            <h2 class="text-3xl mb-4">Stay Informed</h2>
             <p class="leading-relaxed text-xl">
               We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools, and opportunities to fight COVID-19.
             </p>
@@ -246,7 +246,7 @@
         </template>
         <template v-slot:column2>
           <div class="px-4 md:px-16">
-            <h2 class="font-bold text-3xl mb-4">KC COVID-19 Information</h2>
+            <h2 class="text-3xl mb-4">KC COVID-19 Information</h2>
             <p class="leading-relaxed text-xl">
               For more information on the impact of COVID-19 in the Kansas City region, check out <a class="text-comebackkc-blue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">MARC's KC COVID dashboard</a>.
             </p>
@@ -256,7 +256,7 @@
     </div>
     <OneColumnSection class="py-16 md:py-24">
       <div class="px-4 md:pl-0 md:pr-16">
-        <h2 class="font-bold text-3xl mb-4">FAQs</h2>
+        <h2 class="text-3xl mb-4">FAQs</h2>
         <div v-for="faq in $page.faqs.edges" :key="faq.question" class="mb-8">
           <AccordionItem class="border-b border-comebackkc-light-gray pb-8" title-classes="font-bold text-2xl text-comebackkc-blue">
             <template v-slot:title>{{ faq.node.question }}</template>
@@ -268,7 +268,7 @@
     <div class="container mx-auto px-32 md:px-64"><div class="border-b-4 border-comebackkc-blue"></div></div>
     <OneColumnSection>
       <div class="py-12 md:py-24 px-4 md:px-0">
-        <h2 class="font-bold text-3xl mb-8 text-center">Brought To You By</h2>
+        <h2 class="text-3xl mb-8 text-center">Brought To You By</h2>
         <p class="text-center mb-8">This campaign is a collaboration between many Kansas City organizations. They include:</p>
         <div class="flex flex-wrap items-center justify-around">
           <a href="https://www.c19kc.org/" class="p-8" target="_blank"><g-image src="~/images/c19kc-logo.png" width="200"/></a>

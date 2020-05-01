@@ -1,14 +1,5 @@
 <template>
-  <div class="h-full container mx-auto flex">
-    <nav class="text-right flex-grow items-center px-4 mx:pl-0">
-      <ul class="inline-flex items-center h-full">
-        <li class="mr-4">
-          <g-link class="text-white text-lg font-bold uppercase hover:underline" to="/">Home</g-link>
-        </li>
-        <li>
-          <g-link class="text-white text-lg font-bold uppercase hover:underline" to="/faqs/">FAQs</g-link>
-        </li>
-      </ul>
-    </nav>
+  <div class="h-full container mx-auto flex items-center justify-center">
+    <g-link class="" to="/"><img class="h-16 md:h-32" src="/images/site-logo.png"/></g-link>
   </div>
 </template>
