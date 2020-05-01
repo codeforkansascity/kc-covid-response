@@ -54,13 +54,13 @@
       </ThreeColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4 md:px-0">Fight COVID-19 With Your Phone</h2>
+      <h2 class="text-3xl px-4 md:px-0">COMING SOON - Fight COVID-19 With Your Phone</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
         <div class="px-4 md:pl-0 md:pr-16">
           <p>
-            Safe. Secure. Private. COVID Safe Paths, a free app, lets you see where you’ve been and alerts you if you've been exposed to COVID-19.
+            Safe. Secure. Private. COVID Safe Paths, a free app, will let you see where you’ve been and alerts you if you've been exposed to COVID-19.
           </p>
           <p>
             <ul class="list-disc ml-5 mb-4">
@@ -73,9 +73,7 @@
             COVID Safe Paths, a free app, lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID-19.
           </p>
           <p>
-            <a id="play-store-download" href="#" target="_blank"><button class="px-4 py-2 rounded bg-comebackkc-red text-white mr-4">Play Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button></a>
-            <a id="app-store-download" href="#" target="_blank"><button class="px-4 py-2 rounded bg-comebackkc-red text-white">App Store<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome></button></a>
-          </p>
+            Check back soon for the download.
           <p>
             <a href="https://covidsafepaths.org/" target="_blank" class="underline text-comebackkc-blue">Learn more about the COVID Safe Paths app</a>
           </p>
@@ -306,6 +304,12 @@ export default {
     }
   }
 };
+
+// holding pen for the app store buttons.
+//          <p>
+//            <a id="play-store-download" href="#" target="_blank"><img class="inline-block mb-4 mr-4" src="/images/google-play.png" /></a>
+//            <a id="app-store-download" href="#" target="_blank"><img class="inline-block mb-4" src="/images/app-store.png" /></a>
+//          </p>
 </script>
 
 <page-query>
