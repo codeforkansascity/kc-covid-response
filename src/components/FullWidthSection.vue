@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full bg-cover bg-center bg-kc-covid-darkblue" :style="{ backgroundImage: backgroundImage }">
+  <div class="w-full bg-cover bg-center" :style="{ backgroundImage: backgroundImage }">
     <slot></slot>
   </div>
 </template>

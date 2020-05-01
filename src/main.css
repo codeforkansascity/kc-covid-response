@@ -6,4 +6,8 @@ p {
   @apply font-sans leading-relaxed text-xl mb-4;
 }
 
+.bg-gradient-darkblue-black {
+  background-image: linear-gradient(90deg, #1e2857 50%, #2d2c2b 50%);
+}
+
 @tailwind utilities;

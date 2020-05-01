@@ -2,14 +2,19 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'kc-covid-darkblue': '#1F334C',
-        'kc-covid-red': '#EC2229',
-        'kc-covid-black': '#222F3E',
-        'kc-covid-orange': '#FF9B00',
-        'kc-covid-blue': '#0166C0',
-        'kc-covid-dark-gray': '#394759',
-        'kc-covid-gray': '#A4b3B7',
-        'kc-covid-light-gray': '#E6E7E8'
+        'comebackkc-darkblue': '#1E2857',
+        'comebackkc-red': '#D9353F',
+        'comebackkc-black': '#2D2C2B',
+        'comebackkc-blue': '#0166C0',
+        'comebackkc-gray': '#A4b3B7',
+        'comebackkc-dark-gray': '#394759',
+        'comebackkc-light-gray': '#E6E7E8'
+      },
+      fontSize: {
+        '7xl': '5rem',
+        '8xl': '6rem',
+        '9xl': '7rem',
+        '10xl': '8rem'
       },
       fontFamily: {
         sans: [
