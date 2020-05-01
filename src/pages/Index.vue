@@ -42,7 +42,7 @@
         <template v-slot:column3>
           <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-black h-full">
             <p>
-              <font-awesome class="mb-4" :icon="['fal', 'flask-poison']" size="7x"></font-awesome>
+              <font-awesome class="mb-4" :icon="['fal', 'house-user']" size="7x"></font-awesome>
             </p>
             <h3 class="text-3xl mb-4 uppercase text-center">Contain</h3>
             <p class="mb-0">
@@ -75,7 +75,7 @@
           <p>
             Check back soon for the download.
           <p>
-            <a href="https://covidsafepaths.org/" target="_blank" class="underline text-comebackkc-blue">Learn more about the COVID Safe Paths app</a>
+            <a href="https://covidsafepaths.org/" target="_blank" class="underline text-comebackkc-darkblue">Learn more about the COVID Safe Paths app</a>
           </p>
         </div>
       </template>
@@ -112,76 +112,76 @@
           <div class="px-4 md:px-16 pb-16 md:py-32">
             <h2 class="text-3xl mb-6">Local Health Departments</h2>
             <p class="leading-relaxed text-xl">
-              <AccordionItem is-open class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
+              <AccordionItem is-open class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Cass County</template>
                 <template v-slot:body>
                   <p>Call: (877) 435-8411</p>
-                  <p><a href="https://www.casscounty.com/2450/COVID-19" target="_blank" class="underline text-comebackkc-blue">COVID-19 Info</a></p>
+                  <p><a href="https://www.casscounty.com/2450/COVID-19" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
+              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Clay County</template>
                 <template v-slot:body>
                   <p>Call: (877) 435-8411</p>
-                  <p><a href="https://www.clayhealth.com/279/COVID-19-2019-Novel-Coronavirus" target="_blank" class="underline text-comebackkc-blue">COVID-19 Info</a></p>
-                  <p><a href="https://www.highlandwebforms.com/LuxSci/CCPHC/COVID-19_Testing.html" target="_blank" class="underline text-comebackkc-blue">Symptom Reporting Form</a></p>
+                  <p><a href="https://www.clayhealth.com/279/COVID-19-2019-Novel-Coronavirus" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
+                  <p><a href="https://www.highlandwebforms.com/LuxSci/CCPHC/COVID-19_Testing.html" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
+              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Jackson County</template>
                 <template v-slot:body>
                   <p>Call: (877) 435-8411</p>
-                  <p><a href="https://www.jacohd.org/coronavirus" target="_blank" class="underline text-comebackkc-blue">COVID-19 Info</a></p>
-                  <p><a href="https://form.jotform.com/201005024298040" target="_blank" class="underline text-comebackkc-blue">Symptom Reporting Form</a></p>
-                  <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-blue">Stats Dashboard</a></p>
+                  <p><a href="https://www.jacohd.org/coronavirus" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
+                  <p><a href="https://form.jotform.com/201005024298040" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
+                  <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-darkblue">Stats Dashboard</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
+              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Johnson County</template>
                 <template v-slot:body>
                   <p>Call: (913) 715-2819</p>
-                  <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-comebackkc-blue">COVID-19 Info</a></p>
-                  <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-comebackkc-blue">Symptom Reporting Form</a></p>
-                  <p><a href="https://public.tableau.com/profile/mapper.of.the.day.mod.#!/vizhome/covid19_joco_public/Dashboard" target="_blank" class="underline text-comebackkc-blue">Stats Dashboard</a></p>
+                  <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
+                  <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
+                  <p><a href="https://public.tableau.com/profile/mapper.of.the.day.mod.#!/vizhome/covid19_joco_public/Dashboard" target="_blank" class="underline text-comebackkc-darkblue">Stats Dashboard</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
+              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>KCMO</template>
                 <template v-slot:body>
                   <p>Call: (877) 435-8411</p>
-                  <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus" target="_blank" class="underline text-comebackkc-blue">COVID-19 Info</a></p>
-                  <p><a href="https://us.openforms.com/Form/7558551f-763c-4ebb-a7ff-0ef5a333f541" target="_blank" class="underline text-comebackkc-blue">Symptom Reporting Form</a></p>
-                  <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus-covid-19/covid-19-totals" target="_blank" class="underline text-comebackkc-blue">Stats Dashboard</a></p>
+                  <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
+                  <p><a href="https://us.openforms.com/Form/7558551f-763c-4ebb-a7ff-0ef5a333f541" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
+                  <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus-covid-19/covid-19-totals" target="_blank" class="underline text-comebackkc-darkblue">Stats Dashboard</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
+              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Leavenworth County</template>
                 <template v-slot:body>
                   <p>Call: (913) 250-2000</p>
-                  <p><a href="https://www.leavenworthcounty.gov/covid/" target="_blank" class="underline text-comebackkc-blue">COVID-19 Info</a></p>
+                  <p><a href="https://www.leavenworthcounty.gov/covid/" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
+              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Miami County</template>
                 <template v-slot:body>
                   <p>Call: (913) 294-2431</p>
-                  <p><a href="https://www.miamicountyks.org/AlertCenter.aspx" target="_blank" class="underline text-comebackkc-blue">COVID-19 Info</a></p>
+                  <p><a href="https://www.miamicountyks.org/AlertCenter.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
+              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Platte County</template>
                 <template v-slot:body>
                   <p>Call: (913) 294-2431</p>
-                  <p><a href="https://www.plattecountyhealthdept.com/emergency.aspx" target="_blank" class="underline text-comebackkc-blue">COVID-19 Info</a></p>
+                  <p><a href="https://www.plattecountyhealthdept.com/emergency.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-blue">
+              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Wyandotte County</template>
                 <template v-slot:body>
                   <p>Call: (913) 573-8855</p>
-                  <p><a href="https://alpha.wycokck.org/Coronavirus-COVID-19-Information" target="_blank" class="underline text-comebackkc-blue">COVID-19 Info</a></p>
-                  <p><a href="https://survey123.arcgis.com/share/4173374fc06e48ae94df8c95aa2fb7a9?portalUrl=https://unifiedgov.maps.arcgis.com" target="_blank" class="underline text-comebackkc-blue">Symptom Reporting Form</a></p>
-                  <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-blue">Stats Dashboard</a></p>
+                  <p><a href="https://alpha.wycokck.org/Coronavirus-COVID-19-Information" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
+                  <p><a href="https://survey123.arcgis.com/share/4173374fc06e48ae94df8c95aa2fb7a9?portalUrl=https://unifiedgov.maps.arcgis.com" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
+                  <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-darkblue">Stats Dashboard</a></p>
                 </template>
               </AccordionItem>
             </p>
@@ -211,10 +211,10 @@
         </div>
       </template>
     </TwoColumnSection>
-    <div class="bg-comebackkc-light-gray">
-      <TwoColumnSection class="py-16 md:py-32">
+    <div class="bg-gradient-darkblue-red">
+      <TwoColumnSection class="">
         <template v-slot:column1>
-          <div class="px-4 md:pl-0 md:pr-16">
+          <div class="px-4 md:pl-0 md:pr-16 py-16 md:py-32 text-white bg-comebackkc-darkblue h-full">
             <h2 class="text-3xl mb-4">Stay Informed</h2>
             <p class="leading-relaxed text-xl">
               We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools, and opportunities to fight COVID-19.
@@ -243,27 +243,28 @@
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-4 md:px-16">
+          <div class="px-4 md:px-16 py-16 md:py-32 text-white bg-comebackkc-red h-full">
             <h2 class="text-3xl mb-4">KC COVID-19 Information</h2>
             <p class="leading-relaxed text-xl">
-              For more information on the impact of COVID-19 in the Kansas City region, check out <a class="text-comebackkc-blue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">MARC's KC COVID dashboard</a>.
+              For more information on the impact of COVID-19 in the Kansas City region, check out <a class="text-comebackkc-darkblue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">MARC's KC COVID dashboard</a>.
             </p>
           </div>
         </template>
       </TwoColumnSection>
     </div>
-    <OneColumnSection class="py-16 md:py-24">
-      <div class="px-4 md:pl-0 md:pr-16">
-        <h2 class="text-3xl mb-4">FAQs</h2>
-        <div v-for="faq in $page.faqs.edges" :key="faq.question" class="mb-8">
-          <AccordionItem class="border-b border-comebackkc-light-gray pb-8" title-classes="font-bold text-2xl text-comebackkc-blue">
-            <template v-slot:title>{{ faq.node.question }}</template>
-            <template v-slot:body><span v-html="styleRawHTML(faq.node.content)"></span></template>
-          </AccordionItem>
+    <div class="bg-comebackkc-black">
+      <OneColumnSection class="py-16 md:py-24 text-white">
+        <div class="px-4 md:pl-0 md:pr-16">
+          <h2 class="text-3xl mb-4">FAQs</h2>
+          <div v-for="faq in $page.faqs.edges" :key="faq.question" class="mb-8">
+            <AccordionItem class="border-b border-white pb-8" title-classes="font-bold text-2xl">
+              <template v-slot:title>{{ faq.node.question }}</template>
+              <template v-slot:body><span v-html="styleRawHTML(faq.node.content, 'white')"></span></template>
+            </AccordionItem>
+          </div>
         </div>
-      </div>
-    </OneColumnSection>
-    <div class="container mx-auto px-32 md:px-64"><div class="border-b-4 border-comebackkc-blue"></div></div>
+      </OneColumnSection>
+    </div>
     <OneColumnSection>
       <div class="py-12 md:py-24 px-4 md:px-0">
         <h2 class="text-3xl mb-8 text-center">Brought To You By</h2>

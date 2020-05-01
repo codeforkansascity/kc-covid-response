@@ -5,7 +5,6 @@ module.exports = {
         'comebackkc-darkblue': '#1E2857',
         'comebackkc-red': '#D9353F',
         'comebackkc-black': '#2D2C2B',
-        'comebackkc-blue': '#0166C0',
         'comebackkc-gray': '#A4b3B7',
         'comebackkc-dark-gray': '#394759',
         'comebackkc-light-gray': '#E6E7E8'

@@ -19,4 +19,8 @@ h6 {
   background-image: linear-gradient(90deg, #1e2857 50%, #2d2c2b 50%);
 }
 
+.bg-gradient-darkblue-red {
+  background-image: linear-gradient(90deg, #1e2857 50%, #d9353f 50%);
+}
+
 @tailwind utilities;
