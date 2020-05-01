@@ -24,4 +24,25 @@ export default function(Vue, { router, head, isClient }) {
 
   // Set font-awesome component globally
   Vue.component('font-awesome', FontAwesomeIcon);
+
+  // Add default meta data
+  head.meta.push(
+    {
+      name: 'og:title',
+      content: 'Comeback KC'
+    },
+    {
+      name: 'og:description',
+      content:
+        "Kansas City never quits. No matter the odds we always find a way to come together and overcome. Today is no different. Let's bring KC back the right way - safely and responsibly - to ensure that we come back better and stronger than ever."
+    },
+    {
+      name: 'og:image',
+      content: ''
+    },
+    {
+      name: 'og:url',
+      content: 'https://www.comebackkc.com'
+    }
+  );
 }
