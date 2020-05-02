@@ -14,9 +14,9 @@
           <a href="https://www.instagram.com/comeback_kc/" class="underline" target="_blank"><font-awesome class="mr-4" :icon="['fab', 'instagram']" size="lg"></font-awesome></a>
         </li>
       </ul>
-      <ul class="flex items-center">
+      <ul class="flex flex-col md:flex-row justify-between items-center">
         <li><g-link to="/privacy-policy/" class="font-bold uppercase underline mr-4">Privacy Policy</g-link></li>
-        <li><g-link to="/terms-of-use/" class="font-bold uppercase underline">Terms of Use</g-link></li>
+        <li><g-link to="/terms-conditions/" class="font-bold uppercase underline">Terms and Conditions</g-link></li>
       </ul>
     </div>
   </div>

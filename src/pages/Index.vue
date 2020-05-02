@@ -274,7 +274,6 @@
           <a href="https://www.idealect.is/" class="p-8" target="_blank"><g-image src="~/images/idealect-logo.png" width="200" /></a>
           <a href="https://www.marc.org/" class="p-8" target="_blank"><g-image src="~/images/mark-logo.jpg" width="200" /></a>
           <a href="https://ticoproductions.com/" class="p-8" target="_blank"><g-image src="~/images/tico-logo.png" width="200" /></a>
-          <a href="https://www.tico-sports.com/" class="p-8" target="_blank"><g-image src="~/images/tico-sports-logo.png" width="200" /></a>
           <a href="https://www.vmlyr.com/" class="p-8" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" /></a>
         </div>
       </div>
