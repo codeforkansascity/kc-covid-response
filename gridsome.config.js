@@ -53,7 +53,7 @@ module.exports = {
       options: {
         id: 'GTM-5RZCR8S',
         enabled: process.env.GTM_ENABLED ? true : false,
-        debug: true
+        debug: false
       }
     }
   ],
