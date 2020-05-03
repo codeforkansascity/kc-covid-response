@@ -38,7 +38,7 @@ export default function(Vue, { router, head, isClient }) {
     },
     {
       name: 'og:image',
-      content: ''
+      content: '/images/comebackkc-social.png'
     },
     {
       name: 'og:url',
