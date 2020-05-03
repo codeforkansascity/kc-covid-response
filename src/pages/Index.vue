@@ -54,11 +54,11 @@
       </ThreeColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4 md:px-0">COMING SOON - Fight COVID-19 With Your Phone</h2>
+      <h2 class="text-3xl px-4 md:px-0">Fight COVID-19 With Your Phone</h2>
     </OneColumnSection>
-    <TwoColumnSection class="pb-16 md:pb-32">
+    <TwoColumnSection order="reversed">
       <template v-slot:column1>
-        <div class="px-4 md:pl-0 md:pr-16">
+        <div class="px-4 md:pl-0 md:pr-16 pb-16 md:pb-32">
           <p>
             Safe. Secure. Private. COVID Safe Paths, a free app, will let you see where you’ve been and alerts you if you've been exposed to COVID-19.
           </p>
@@ -73,25 +73,18 @@
             COVID Safe Paths, a free app, lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID-19.
           </p>
           <p>
-            Check back soon for the download.
+            <a id="play-store-download" href="https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths&hl=en_US" target="_blank"><img class="inline-block mb-4 mr-4" src="/images/google-play.png" /></a>
+            <a id="app-store-download" href="https://apps.apple.com/us/app/covid-safe-paths/id1508266966" target="_blank"><img class="inline-block mb-4" src="/images/app-store.png" /></a>
+          </p>
           <p>
             <a href="https://covidsafepaths.org/" target="_blank" class="underline text-comebackkc-darkblue">Learn more about the COVID Safe Paths app</a>
           </p>
         </div>
       </template>
       <template v-slot:column2>
-        <div class="px-4 md:px-16">
-          <p>
-            <em>How it works</em>
-          </p>
-          <p>
-            <ol class="list-decimal ml-5 mb-4">
-              <li>Download the free app, enable location services, and anonymously connect to your local health department</li>
-              <li>Track where you go and get alerts if you’re exposed to anyone diagnosed with COVID-19.</li>
-              <li>Browse helpful hints about what to do if you’ve been exposed.</li>
-              <li>If you test positive for COVID-19, you may anonymously choose to share info about where you’ve been with your local health department</li>
-            </ol>
-          </p>
+        <div class="px-4 md:px-16 mb-8 md:mb-0 relative h-72 md:h-full flex justify-center overflow-hidden">
+          <g-image class="absolute md:-bottom-32 md:left-76" src="~/images/safe-paths-app-screen-2.png" />
+          <g-image class="absolute md:bottom-0 md:left-16" src="~/images/safe-paths-app-screen-1.png" />
         </div>
       </template>
     </TwoColumnSection>
@@ -312,11 +305,19 @@ export default {
   }
 };
 
-// holding pen for the app store buttons.
-//          <p>
-//            <a id="play-store-download" href="#" target="_blank"><img class="inline-block mb-4 mr-4" src="/images/google-play.png" /></a>
-//            <a id="app-store-download" href="#" target="_blank"><img class="inline-block mb-4" src="/images/app-store.png" /></a>
-//          </p>
+// holding pen for "how it works" section of app
+          // <p>
+          //   <em>How it works</em>
+          // </p>
+          // <p>
+          //   <ol class="list-decimal ml-5 mb-4">
+          //     <li>Download the free app, enable location services, and anonymously connect to your local health department</li>
+          //     <li>Track where you go and get alerts if you’re exposed to anyone diagnosed with COVID-19.</li>
+          //     <li>Browse helpful hints about what to do if you’ve been exposed.</li>
+          //     <li>If you test positive for COVID-19, you may anonymously choose to share info about where you’ve been with your local health department</li>
+          //   </ol>
+          // </p>
+
 </script>
 
 <page-query>
