@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <FullWidthSection class="md:h-screen-60 flex items-center" image="/images/crossroads-skyline-bg.jpg">
+    <FullWidthSection class="md:h-screen-60 flex items-center" image="/images/kc-skyline-bg.jpg">
       <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
         <h1 class="text-white text-4xl md:text-10xl text-shadow">Privacy Policy</h1>
       </div>
