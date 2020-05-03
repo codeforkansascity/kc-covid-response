@@ -54,11 +54,11 @@
       </ThreeColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4 md:px-0">Fight COVID-19 With Your Phone</h2>
+      <h2 class="text-3xl px-4 lg:px-4">Fight COVID-19 With Your Phone</h2>
     </OneColumnSection>
     <TwoColumnSection order="reversed">
       <template v-slot:column1>
-        <div class="px-4 md:pl-0 md:pr-16 pb-16 md:pb-32">
+        <div class="px-4 md:pr-16 pb-16 md:pb-32">
           <p>
             Safe. Secure. Private. COVID Safe Paths, a free app, will let you see where you’ve been and alerts you if you've been exposed to COVID-19.
           </p>
@@ -82,7 +82,7 @@
         </div>
       </template>
       <template v-slot:column2>
-        <div class="px-4 md:px-16 mb-8 md:mb-0 relative h-72 md:h-full flex md:block justify-center overflow-hidden">
+        <div class="px-4 md:pr-16 mb-8 md:mb-0 relative h-72 md:h-full flex md:block justify-center overflow-hidden">
           <g-image class="absolute md:-bottom-32 md:left-76" src="~/images/safe-paths-app-screen-2.png" />
           <g-image class="absolute md:bottom-0 md:left-16" src="~/images/safe-paths-app-screen-1.png" />
         </div>
@@ -91,7 +91,7 @@
     <div class="bg-comebackkc-light-gray">
       <TwoColumnSection>
         <template v-slot:column1>
-          <div class="px-4 md:pl-0 py-16 md:py-32 md:pr-16">
+          <div class="px-4 py-16 md:py-32 md:pr-16">
             <h2 class="text-3xl mb-4">Get Started</h2>
             <p>
               Find out about testing options and other initiatives in your area through your local health department.
@@ -102,7 +102,7 @@
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-4 md:px-16 pb-16 md:py-32">
+          <div class="px-4 pb-16 md:py-32">
             <h2 class="text-3xl mb-6">Local Health Departments</h2>
             <p class="leading-relaxed text-xl">
               <AccordionItem is-open class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
@@ -183,11 +183,11 @@
       </TwoColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4 md:px-0">Health Inequities</h2>
+      <h2 class="text-3xl px-4">Health Inequities</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
-        <div class="px-4 md:pl-0 md:pr-16">
+        <div class="px-4 md:pr-16">
           <p>The COVID-19 pandemic has not impacted all communities in our region equally. The black, Latinx and Native communities have shouldered an undue burden in these challenging times. Comeback KC is committed to providing testing, tracking, and support resources to the communities that need them the most. As we reopen and rebuild our economy, we can't just go back to normal, we have to take this opportunity to build a better, fairer Kansas City.</p>
         </div>
       </template>
@@ -207,7 +207,7 @@
     <div class="bg-gradient-darkblue-red">
       <TwoColumnSection class="">
         <template v-slot:column1>
-          <div class="px-4 md:pl-0 md:pr-16 py-16 md:py-32 text-white bg-comebackkc-darkblue h-full">
+          <div class="px-4 md:pr-16 py-16 md:py-32 text-white bg-comebackkc-darkblue h-full">
             <h2 class="text-3xl mb-4">Stay Informed</h2>
             <p class="leading-relaxed text-xl">
               We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools, and opportunities to fight COVID-19.
@@ -247,7 +247,7 @@
     </div>
     <div class="bg-comebackkc-black">
       <OneColumnSection class="py-16 md:py-24 text-white">
-        <div class="px-4 md:pl-0 md:pr-16">
+        <div class="px-4">
           <h2 class="text-3xl mb-4">FAQs</h2>
           <div v-for="faq in $page.faqs.edges" :key="faq.question" class="mb-8">
             <AccordionItem class="border-b border-white pb-8" title-classes="font-bold text-2xl">
@@ -259,7 +259,7 @@
       </OneColumnSection>
     </div>
     <OneColumnSection>
-      <div class="py-12 md:py-24 px-4 md:px-0">
+      <div class="py-12 md:py-24 px-4">
         <h2 class="text-3xl mb-8 text-center">Brought To You By</h2>
         <p class="text-center mb-8">This campaign is a collaboration between many Kansas City organizations. They include:</p>
         <div class="flex flex-wrap items-center justify-around">

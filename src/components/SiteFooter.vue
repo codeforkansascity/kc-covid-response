@@ -1,6 +1,6 @@
 <template>
   <div class="h-32 container mx-auto content-center">
-    <div class="h-full text-white flex flex-col md:flex-row justify-around md:justify-between items-center">
+    <div class="h-full px-4 text-white flex flex-col md:flex-row justify-around md:justify-between items-center">
       <ul class="flex items-center">
         <li>
           <a href="https://twitter.com/comebackkc" class="underline" target="_blank"><font-awesome class="mr-4" :icon="['fab', 'twitter']" size="lg"></font-awesome></a>
