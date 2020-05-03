@@ -82,9 +82,9 @@
         </div>
       </template>
       <template v-slot:column2>
-        <div class="px-4 md:pr-16 mb-8 md:mb-0 relative h-72 md:h-full flex md:block justify-center overflow-hidden">
-          <g-image class="absolute md:-bottom-32 md:left-76" src="~/images/safe-paths-app-screen-2.png" />
-          <g-image class="absolute md:bottom-0 md:left-16" src="~/images/safe-paths-app-screen-1.png" />
+        <div class="px-4 md:pr-16 mb-8 md:mb-0 relative h-72 md:h-full flex flex-col items-center xl:block overflow-hidden">
+          <g-image class="hidden xl:block xl:absolute -bottom-32 xl:left-72" src="~/images/safe-paths-app-screen-2.png" />
+          <g-image class="md:absolute bottom-0 xl:left-16" src="~/images/safe-paths-app-screen-1.png" />
         </div>
       </template>
     </TwoColumnSection>
