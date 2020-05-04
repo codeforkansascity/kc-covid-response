@@ -64,16 +64,13 @@
       <template v-slot:column1>
         <div class="px-4 md:pr-16 pb-16 md:pb-32">
           <p>
-            Safe. Secure. Private. COVID Safe Paths, a free app, will let you see where you’ve been and alerts you if you've been exposed to COVID-19.
+            Safe. Secure. Private. COVID Safe Paths, a free app, will lets you see where you’ve been and alerts you if you've been exposed to COVID-19.
           </p>
-          <ul class="list-disc ml-5 mb-4">
+          <ul class="list-disc ml-5 mb-8">
             <li>Find out if you’ve been exposed</li>
             <li>Privately log your location</li>
             <li>Completely control your data</li>
           </ul>
-          <p>
-            COVID Safe Paths lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID-19.
-          </p>
           <p>
             <a id="play-store-download" href="https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths&hl=en_US" target="_blank">
               <img class="inline-block mb-4 mr-4" src="/images/google-play.png" alt="Google Play store button" />
@@ -82,7 +79,7 @@
               <img class="inline-block mb-4" src="/images/app-store.png" alt="Apple store button" />
             </a>
           </p>
-          <p>
+          <p class="mb-16">
             <a href="https://covidsafepaths.org/" target="_blank" class="underline text-comebackkc-darkblue">Learn more about the COVID Safe Paths app</a>
           </p>
         </div>
