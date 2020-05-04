@@ -341,6 +341,7 @@
           <a href="https://www.idealect.is/" class="p-8" target="_blank"><g-image src="~/images/idealect-logo.png" width="200" alt="Idealect company logo"/></a>
           <a href="https://www.marc.org/" class="p-8" target="_blank"><g-image src="~/images/marc-logo.jpg" width="200" alt="Mid-America Regional Council logo"/></a>
           <a href="https://ticoproductions.com/" class="p-8" target="_blank"><g-image src="~/images/tico-logo.png" width="200" alt="Tico Productions company logo"/></a>
+          <a href="https://www.kcdigitaldrive.org/" class="p-8" target="_blank"><g-image src="~/images/kcdd-logo.png" width="200" alt="KC Digital Drive company logo"/></a>
           <a href="https://www.vmlyr.com/" class="p-8" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" alt="VMLY&R company logo"/></a>
         </div>
       </div>
