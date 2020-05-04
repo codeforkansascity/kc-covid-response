@@ -2,7 +2,9 @@
 
 @tailwind components;
 
-p {
+p,
+ul,
+ol {
   @apply font-sans leading-relaxed text-xl mb-4;
 }
 
