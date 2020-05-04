@@ -349,8 +349,6 @@
 </template>
 
 <script>
-import 'core-js/stable'
-import 'regenerator-runtime/runtime'
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
 import TwoColumnSection from '@/components/TwoColumnSection.vue'
