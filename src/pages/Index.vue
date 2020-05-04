@@ -76,10 +76,10 @@
           </p>
           <p>
             <a id="play-store-download" href="https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths&hl=en_US" target="_blank">
-              <img class="inline-block mb-4 mr-4" src="/images/google-play.png" />
+              <img class="inline-block mb-4 mr-4" src="/images/google-play.png" alt="Google Play store button" />
             </a>
             <a id="app-store-download" href="https://apps.apple.com/us/app/covid-safe-paths/id1508266966" target="_blank">
-              <img class="inline-block mb-4" src="/images/app-store.png" />
+              <img class="inline-block mb-4" src="/images/app-store.png" alt="Apple store button" />
             </a>
           </p>
           <p>
@@ -89,8 +89,8 @@
       </template>
       <template v-slot:column2>
         <div class="px-4 md:pr-16 mb-8 md:mb-0 relative h-72 md:h-full flex flex-col items-center xl:block overflow-hidden">
-          <g-image class="hidden xl:block xl:absolute -bottom-32 xl:left-72" src="~/images/safe-paths-app-screen-2.png" />
-          <g-image class="md:absolute bottom-0 xl:left-16" src="~/images/safe-paths-app-screen-1.png" />
+          <g-image class="hidden xl:block xl:absolute -bottom-32 xl:left-72" src="~/images/safe-paths-app-screen-2.png" alt="Safe Paths app screenshot" />
+          <g-image class="md:absolute bottom-0 xl:left-16" src="~/images/safe-paths-app-screen-1.png" alt="Safe Paths app screenshot" />
         </div>
       </template>
     </TwoColumnSection>
@@ -290,6 +290,7 @@
                       v-model="newsletterEmailAddress"
                       @input="setEmail($event.target.value)"
                       placeholder="Email address"
+                      aria-label="Email address"
                       class="text-comebackkc-black border border-comebackkc-gray h-12 rounded px-4 md:mr-4 w-full md:w-auto"
                     />
                     <button type="submit" class="px-4 py-2 mt-4 md:mt-0 rounded bg-comebackkc-red text-white">
@@ -339,11 +340,11 @@
         <h2 class="text-3xl mb-8 text-center">Brought To You By</h2>
         <p class="text-center mb-8">This campaign is a collaboration between many Kansas City organizations. They include:</p>
         <div class="flex flex-wrap items-center justify-around">
-          <a href="https://www.c19kc.org/" class="p-8" target="_blank"><g-image src="~/images/c19kc-logo.png" width="200"/></a>
-          <a href="https://www.idealect.is/" class="p-8" target="_blank"><g-image src="~/images/idealect-logo.png" width="200"/></a>
-          <a href="https://www.marc.org/" class="p-8" target="_blank"><g-image src="~/images/mark-logo.jpg" width="200"/></a>
-          <a href="https://ticoproductions.com/" class="p-8" target="_blank"><g-image src="~/images/tico-logo.png" width="200"/></a>
-          <a href="https://www.vmlyr.com/" class="p-8" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200"/></a>
+          <a href="https://www.c19kc.org/" class="p-8" target="_blank"><g-image src="~/images/c19kc-logo.png" width="200" alt="C19KC logo"/></a>
+          <a href="https://www.idealect.is/" class="p-8" target="_blank"><g-image src="~/images/idealect-logo.png" width="200" alt="Idealect company logo"/></a>
+          <a href="https://www.marc.org/" class="p-8" target="_blank"><g-image src="~/images/mark-logo.jpg" width="200" alt="Mid-America Regional Council logo"/></a>
+          <a href="https://ticoproductions.com/" class="p-8" target="_blank"><g-image src="~/images/tico-logo.png" width="200" alt="Tico Productions company logo"/></a>
+          <a href="https://www.vmlyr.com/" class="p-8" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" alt="VMLY&R company logo"/></a>
         </div>
       </div>
     </OneColumnSection>
