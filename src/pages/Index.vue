@@ -19,9 +19,9 @@
       <ThreeColumnSection>
         <template v-slot:column1>
           <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-darkblue h-full">
-            <p>
+            <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
-            </p>
+            </div>
             <h3 class="text-3xl mb-4 text-center">Test</h3>
             <p class="mb-0">
               With enough testing, we can understand the full extent of the pandemic in our region. That's why we are making more test kits available than ever before.
@@ -30,9 +30,9 @@
         </template>
         <template v-slot:column2>
           <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-red h-full">
-            <p>
+            <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
-            </p>
+            </div>
             <h3 class="text-3xl mb-4 text-center">Track</h3>
             <p class="mb-0">
               Through apps built with your privacy in mind, our contact tracing team can help those sick with COVID identify those they may have affected so they can be tested, too.
@@ -41,9 +41,9 @@
         </template>
         <template v-slot:column3>
           <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-black h-full">
-            <p>
+            <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'house-user']" size="7x"></font-awesome>
-            </p>
+            </div>
             <h3 class="text-3xl mb-4 text-center">Contain</h3>
             <p class="mb-0">
               If we test and track, we can make sure that only sick people have to self-isolate. We can ease social distancing restrictions and help Kansas City come back better
@@ -193,14 +193,12 @@
       </template>
       <template v-slot:column2>
         <div class="px-4 md:px-16">
-          <p>
             <ul class="list-disc ml-5 mb-4">
               <li>About 44% of KCMO's COVID-19 cases are black, but the black population makes up just 30% of the population</li>
               <li>In Wyandotte County, black people represent 53% of the COVID-19 deaths but just 23% of the population </li>
               <li>Nationally, black and Latinx populations are dying at higher rates than their white neighbors</li>
               <li>The Navajo Nation alone has experienced the 3rd highest infection rate outside of New York and New Jersey</li>
             </ul>
-          </p>
         </div>
       </template>
     </TwoColumnSection>
@@ -212,7 +210,7 @@
             <p class="leading-relaxed text-xl">
               We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools, and opportunities to fight COVID-19.
             </p>
-            <p class="leading-relaxed text-xl">
+            <div class="leading-relaxed text-xl">
               <mailchimp-subscribe
                 url="https://comebackkc.us8.list-manage.com/subscribe/post-json"
                 user-id="29e20716727b79f181330a1a0"
@@ -232,7 +230,7 @@
                   </form>
                 </template>
               </mailchimp-subscribe>
-            </p>
+            </div>
           </div>
         </template>
         <template v-slot:column2>
