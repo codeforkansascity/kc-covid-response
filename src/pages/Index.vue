@@ -104,7 +104,7 @@
         <template v-slot:column2>
           <div class="px-4 pb-16 md:py-32">
             <h2 class="text-3xl mb-6">Local Health Departments</h2>
-            <p class="leading-relaxed text-xl">
+            <div class="leading-relaxed text-xl">
               <AccordionItem is-open class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>Cass County</template>
                 <template v-slot:body>
@@ -177,7 +177,7 @@
                   <p><a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-darkblue">Stats Dashboard</a></p>
                 </template>
               </AccordionItem>
-            </p>
+            </div>
           </div>
         </template>
       </TwoColumnSection>
