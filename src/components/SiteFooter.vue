@@ -18,8 +18,8 @@
       </div>
       <div>
         <ul class="flex flex-col md:flex-row justify-between items-center">
-          <li><g-link to="/privacy-policy/" class="font-bold uppercase underline mr-4">Privacy Policy</g-link></li>
-          <li><g-link to="/terms-conditions/" class="font-bold uppercase underline">Terms and Conditions</g-link></li>
+          <li><a href="/privacy-policy/" class="font-bold uppercase underline mr-4">Privacy Policy</a></li>
+          <li><a href="/terms-conditions/" class="font-bold uppercase underline">Terms and Conditions</a></li>
         </ul>
       </div>
     </div>
