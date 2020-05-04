@@ -38,7 +38,7 @@
             </div>
             <h3 class="text-3xl mb-4 text-center">Track</h3>
             <p class="mb-0">
-              Through apps built with your privacy in mind, our contact tracing team can help those sick with COVID identify those they may have affected so they can be tested,
+              Through apps built with your privacy in mind, our contact tracing team can help those sick with COVID-19 identify those they may have affected so they can be tested,
               too.
             </p>
           </div>
