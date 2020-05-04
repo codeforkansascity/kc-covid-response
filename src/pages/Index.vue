@@ -64,7 +64,7 @@
       <template v-slot:column1>
         <div class="px-4 md:pr-16 pb-16 md:pb-32">
           <p>
-            Safe. Secure. Private. COVID Safe Paths, a free app, will lets you see where you’ve been and alerts you if you've been exposed to COVID-19.
+            Safe. Secure. Private. COVID Safe Paths, a free app, lets you see where you’ve been and alerts you if you've been exposed to COVID-19.
           </p>
           <ul class="list-disc ml-5 mb-8">
             <li>Find out if you’ve been exposed</li>
