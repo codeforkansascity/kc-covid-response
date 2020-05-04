@@ -72,7 +72,7 @@
             <li>Completely control your data</li>
           </ul>
           <p>
-            COVID Safe Paths, a free app, lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID-19.
+            COVID Safe Paths lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID-19.
           </p>
           <p>
             <a id="play-store-download" href="https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths&hl=en_US" target="_blank">
