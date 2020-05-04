@@ -75,12 +75,12 @@
             COVID Safe Paths, a free app, lets you see where you’ve been and tells you if you’ve been near anyone diagnosed with COVID-19.
           </p>
           <p>
-            <a id="play-store-download" href="https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths&hl=en_US" target="_blank"
-              ><img class="inline-block mb-4 mr-4" src="/images/google-play.png"
-            /></a>
-            <a id="app-store-download" href="https://apps.apple.com/us/app/covid-safe-paths/id1508266966" target="_blank"
-              ><img class="inline-block mb-4" src="/images/app-store.png"
-            /></a>
+            <a id="play-store-download" href="https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths&hl=en_US" target="_blank">
+              <img class="inline-block mb-4 mr-4" src="/images/google-play.png" />
+            </a>
+            <a id="app-store-download" href="https://apps.apple.com/us/app/covid-safe-paths/id1508266966" target="_blank">
+              <img class="inline-block mb-4" src="/images/app-store.png" />
+            </a>
           </p>
           <p>
             <a href="https://covidsafepaths.org/" target="_blank" class="underline text-comebackkc-darkblue">Learn more about the COVID Safe Paths app</a>
@@ -112,47 +112,47 @@
             <h2 class="text-3xl mb-6">Local Health Departments</h2>
             <div class="leading-relaxed text-xl">
               <AccordionItem is-open class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
-                <template v-slot:title
-                  >Cass County</template
-                >
+                <template v-slot:title>
+                  Cass County
+                </template>
                 <template v-slot:body>
                   <p>Call: <a href="tel:+1-877-435-8411">(877) 435-8411</a></p>
                   <p><a href="https://www.casscounty.com/2450/COVID-19" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
-                <template v-slot:title
-                  >Clay County</template
-                >
+                <template v-slot:title>
+                  Clay County
+                </template>
                 <template v-slot:body>
                   <p>Call: <a href="tel:+1-877-435-8411">(877) 435-8411</a></p>
                   <p><a href="https://www.clayhealth.com/279/COVID-19-2019-Novel-Coronavirus" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                   <p>
-                    <a href="https://www.highlandwebforms.com/LuxSci/CCPHC/COVID-19_Testing.html" target="_blank" class="underline text-comebackkc-darkblue"
-                      >Symptom Reporting Form</a
-                    >
+                    <a href="https://www.highlandwebforms.com/LuxSci/CCPHC/COVID-19_Testing.html" target="_blank" class="underline text-comebackkc-darkblue">
+                      Symptom Reporting Form
+                    </a>
                   </p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
-                <template v-slot:title
-                  >Jackson County</template
-                >
+                <template v-slot:title>
+                  Jackson County
+                </template>
                 <template v-slot:body>
                   <p>Call: <a href="tel:+1-877-435-8411">(877) 435-8411</a></p>
                   <p><a href="https://www.jacohd.org/coronavirus" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                   <p><a href="https://form.jotform.com/201005024298040" target="_blank" class="underline text-comebackkc-darkblue">Symptom Reporting Form</a></p>
                   <p>
-                    <a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-darkblue"
-                      >Stats Dashboard</a
-                    >
+                    <a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-darkblue">
+                      Stats Dashboard
+                    </a>
                   </p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
-                <template v-slot:title
-                  >Johnson County</template
-                >
+                <template v-slot:title>
+                  Johnson County
+                </template>
                 <template v-slot:body>
                   <p>Call: <a href="tel:+1-913-715-2819">(913) 715-2819</a></p>
                   <p><a href="https://www.jocogov.org/coronavirus-covid-19-update" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
@@ -162,61 +162,62 @@
                       href="https://public.tableau.com/profile/mapper.of.the.day.mod.#!/vizhome/covid19_joco_public/Dashboard"
                       target="_blank"
                       class="underline text-comebackkc-darkblue"
-                      >Stats Dashboard</a
                     >
+                      Stats Dashboard
+                    </a>
                   </p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
-                <template v-slot:title
-                  >KCMO</template
-                >
+                <template v-slot:title>
+                  KCMO
+                </template>
                 <template v-slot:body>
                   <p>Call: <a href="tel:+1-877-435-8411">(877) 435-8411</a></p>
                   <p><a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                   <p>
-                    <a href="https://us.openforms.com/Form/7558551f-763c-4ebb-a7ff-0ef5a333f541" target="_blank" class="underline text-comebackkc-darkblue"
-                      >Symptom Reporting Form</a
-                    >
+                    <a href="https://us.openforms.com/Form/7558551f-763c-4ebb-a7ff-0ef5a333f541" target="_blank" class="underline text-comebackkc-darkblue">
+                      Symptom Reporting Form
+                    </a>
                   </p>
                   <p>
-                    <a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus-covid-19/covid-19-totals" target="_blank" class="underline text-comebackkc-darkblue"
-                      >Stats Dashboard</a
-                    >
+                    <a href="https://www.kcmo.gov/city-hall/departments/health/coronavirus-covid-19/covid-19-totals" target="_blank" class="underline text-comebackkc-darkblue">
+                      Stats Dashboard
+                    </a>
                   </p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
-                <template v-slot:title
-                  >Leavenworth County</template
-                >
+                <template v-slot:title>
+                  Leavenworth County
+                </template>
                 <template v-slot:body>
                   <p>Call: <a href="tel:+1-913-250-2000">(913) 250-2000</a></p>
                   <p><a href="https://www.leavenworthcounty.gov/covid/" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
-                <template v-slot:title
-                  >Miami County</template
-                >
+                <template v-slot:title>
+                  Miami County
+                </template>
                 <template v-slot:body>
                   <p>Call: <a href="tel:+1-913-294-2431">(913) 294-2431</a></p>
                   <p><a href="https://www.miamicountyks.org/AlertCenter.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
-                <template v-slot:title
-                  >Platte County</template
-                >
+                <template v-slot:title>
+                  Platte County
+                </template>
                 <template v-slot:body>
                   <p>Call: <a href="tel:+1-913-294-2431">(913) 294-2431</a></p>
                   <p><a href="https://www.plattecountyhealthdept.com/emergency.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
               <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
-                <template v-slot:title
-                  >Wyandotte County</template
-                >
+                <template v-slot:title>
+                  Wyandotte County
+                </template>
                 <template v-slot:body>
                   <p>Call: <a href="tel:+1-913-573-8855">(913) 573-8855</a></p>
                   <p><a href="https://alpha.wycokck.org/Coronavirus-COVID-19-Information" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
@@ -225,13 +226,14 @@
                       href="https://survey123.arcgis.com/share/4173374fc06e48ae94df8c95aa2fb7a9?portalUrl=https://unifiedgov.maps.arcgis.com"
                       target="_blank"
                       class="underline text-comebackkc-darkblue"
-                      >Symptom Reporting Form</a
                     >
+                      Symptom Reporting Form
+                    </a>
                   </p>
                   <p>
-                    <a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-darkblue"
-                      >Stats Dashboard</a
-                    >
+                    <a href="https://experience.arcgis.com/experience/34a6ef5efe664974a3c1866aa77fbb6d/" target="_blank" class="underline text-comebackkc-darkblue">
+                      Stats Dashboard
+                    </a>
                   </p>
                 </template>
               </AccordionItem>
@@ -349,13 +351,13 @@
 </template>
 
 <script>
-import FullWidthSection from '@/components/FullWidthSection.vue';
-import OneColumnSection from '@/components/OneColumnSection.vue';
-import TwoColumnSection from '@/components/TwoColumnSection.vue';
-import ThreeColumnSection from '@/components/ThreeColumnSection.vue';
-import AccordionItem from '@/components/AccordionItem.vue';
-import MailchimpSubscribe from 'vue-mailchimp-subscribe';
-import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js';
+import FullWidthSection from '@/components/FullWidthSection.vue'
+import OneColumnSection from '@/components/OneColumnSection.vue'
+import TwoColumnSection from '@/components/TwoColumnSection.vue'
+import ThreeColumnSection from '@/components/ThreeColumnSection.vue'
+import AccordionItem from '@/components/AccordionItem.vue'
+import MailchimpSubscribe from 'vue-mailchimp-subscribe'
+import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
 export default {
   metaInfo: {
@@ -373,17 +375,17 @@ export default {
   data() {
     return {
       newsletterEmailAddress: ''
-    };
+    }
   },
   methods: {
     onError() {
-      this.newsletterEmailAddress = '';
+      this.newsletterEmailAddress = ''
     },
     onSuccess() {
       // handle success
     }
   }
-};
+}
 
 // holding pen for "how it works" section of app
 // <p>
