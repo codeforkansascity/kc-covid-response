@@ -264,7 +264,7 @@
       </template>
     </TwoColumnSection>
     <div class="bg-gradient-darkblue-red">
-      <TwoColumnSection class="">
+      <TwoColumnSection columnTwoImage="/images/marc-map-bg.png">
         <template v-slot:column1>
           <div class="px-4 md:pr-16 py-16 md:py-32 text-white bg-comebackkc-darkblue h-full">
             <h2 class="text-3xl mb-4">Stay Informed</h2>
@@ -305,7 +305,7 @@
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-4 md:px-16 py-16 md:py-32 text-white bg-comebackkc-red h-full">
+          <div class="px-4 md:px-16 py-16 md:py-32 text-white h-full">
             <h2 class="text-3xl mb-4">KC COVID-19 Information</h2>
             <p class="leading-relaxed text-xl">
               For more information on the impact of COVID-19 in the Kansas City region, check out
