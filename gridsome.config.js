@@ -21,6 +21,7 @@ module.exports = {
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
       anchorClassName: 'icon icon-link',
+      slug: false,
       plugins: [
         // ...global plugins
       ]
@@ -32,6 +33,18 @@ module.exports = {
       options: {
         path: 'content/faqs/**/*.md',
         typeName: 'FAQ',
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'content/pages/**/*.md',
+        typeName: 'BasicPage',
         remark: {
           plugins: [
             // ...local plugins
@@ -64,6 +77,9 @@ module.exports = {
       }
     }
   ],
+  templates: {
+    BasicPage: '/:title'
+  },
   css: {
     loaderOptions: {
       postcss: {

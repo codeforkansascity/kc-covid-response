@@ -7,6 +7,15 @@ media_folder: 'static/uploads'
 public_folder: '/uploads'
 
 collections:
+  - name: 'page'
+    label: 'FAQ'
+    summary: '{{title}}'
+    folder: 'content/pages'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'faq'
     label: 'FAQ'
     summary: '{{order}} - {{question}}'

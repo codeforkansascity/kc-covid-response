@@ -13,9 +13,9 @@
 </template>
 
 <script>
-import OneColumnSection from '@/components/OneColumnSection.vue';
+import OneColumnSection from '@/components/OneColumnSection.vue'
 
 export default {
-  components: [OneColumnSection]
-};
+  components: { OneColumnSection }
+}
 </script>
