@@ -19,7 +19,7 @@
       <div>
         <ul class="flex flex-col md:flex-row justify-between items-center mb-0">
           <li v-for="nav in $static.nav_items.edges[0].node.nav_items" :key="nav.path">
-            <g-link :to="nav.path" class="font-bold uppercase underline mr-4">{{ nav.label }}</g-link>
+            <g-link :to="nav.path" class="font-semibold uppercase underline mr-4">{{ nav.label }}</g-link>
           </li>
         </ul>
       </div>
