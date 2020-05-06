@@ -55,6 +55,18 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
+        path: 'content/updates/**/*.md',
+        typeName: 'Update',
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
         path: 'data/settings/**/*.yml',
         typeName: 'Settings'
       }
@@ -78,7 +90,8 @@ module.exports = {
     }
   ],
   templates: {
-    BasicPage: '/:title'
+    BasicPage: '/:title',
+    Update: '/updates/:title'
   },
   css: {
     loaderOptions: {
