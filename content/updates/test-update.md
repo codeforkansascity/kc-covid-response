@@ -10,7 +10,11 @@ Curabitur nisi. Sed aliquam ultrices mauris. Sed cursus turpis vitae tortor. Aen
 
 Morbi ac felis. Aenean vulputate eleifend tellus. Aenean massa. Suspendisse potenti. Fusce a quam.
 
-Proin magna. Pellentesque egestas, neque sit amet convallis pulvinar, justo nulla eleifend augue, ac auctor orci leo non est. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Quisque id mi. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam.
+Proin magna. 
+
+![Test image](/uploads/favicon1.png)
+
+Pellentesque egestas, neque sit amet convallis pulvinar, justo nulla eleifend augue, ac auctor orci leo non est. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Quisque id mi. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam.
 
 Pellentesque commodo eros a enim. Curabitur suscipit suscipit tellus. Vestibulum dapibus nunc ac augue. Sed fringilla mauris sit amet nibh. Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit.
 
