@@ -14,6 +14,7 @@ module.exports = {
         'screen-60': '60vh'
       },
       inset: {
+        '20': '5rem',
         '32': '8rem',
         '64': '16rem',
         '72': '18rem',
