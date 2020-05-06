@@ -18,10 +18,26 @@
       </div>
       <div>
         <ul class="flex flex-col md:flex-row justify-between items-center mb-0">
-          <li><g-link to="/privacy-policy/" class="font-bold uppercase underline mr-4">Privacy Policy</g-link></li>
-          <li><g-link to="/terms-conditions/" class="font-bold uppercase underline">Terms and Conditions</g-link></li>
+          <li v-for="nav in $static.nav_items.edges[0].node.nav_items" :key="nav.path">
+            <g-link :to="nav.path" class="font-bold uppercase underline mr-4">{{ nav.label }}</g-link>
+          </li>
         </ul>
       </div>
     </div>
   </div>
 </template>
+
+<static-query>
+query {
+  nav_items: allSettings(filter: {path: {eq: "/data/settings/footer-nav/"}}) {
+    edges {
+      node {
+       nav_items {
+        label
+        path
+      } 
+      }
+    }
+  }
+}
+</static-query>

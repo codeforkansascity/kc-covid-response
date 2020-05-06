@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: vml-kkedrovsky/kc-covid-response
-  branch: master
+  branch: add-navigation
 
 media_folder: 'static/uploads'
 public_folder: '/uploads'
@@ -18,3 +18,26 @@ collections:
       - { label: 'Question', name: 'question', widget: 'string' }
       - { label: 'Answer', name: 'body', widget: 'markdown' }
     sortableFields: ['order', 'question']
+  - name: settings
+    label: Settings
+    files:
+      - file: data/settings/main_nav.yml
+        label: Main Navigation
+        name: main_nav
+        fields:
+          - label: Main Navigation
+            name: nav_items
+            widget: list
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Path, name: path, widget: string }
+      - file: data/settings/footer_nav.yml
+        label: Footer Navigation
+        name: footer_nav
+        fields:
+          - label: Footer Navigation
+            name: nav_items
+            widget: list
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Path, name: path, widget: string }

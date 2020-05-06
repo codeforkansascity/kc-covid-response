@@ -1,0 +1,5 @@
+nav_items:
+  - label: Updates
+    path: /updates/
+  - label: Resources
+    path: /resources/
