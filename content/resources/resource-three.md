@@ -1,5 +1,5 @@
 ---
-title: Resource Three
+title: Resource Two
 metaDescription: Short meta description
 teaser: Vestibulum facilisis, purus nec pulvinar iaculis, ligula mi congue nunc,
   vitae euismod ligula urna in dolor. Vestibulum volutpat pretium libero.
