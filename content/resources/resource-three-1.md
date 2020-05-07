@@ -10,7 +10,7 @@ teaser: Etiam sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet
 thumbnail: /uploads/favicon1.png
 date: 2020-05-07T14:55:45.476Z
 organization: Idealect
-link: https://www.idealect.is/
+link: ""
 file: /uploads/flyover_camp_2020_prospectus.pdf
 ---
 Phasellus nec sem in justo pellentesque facilisis. Nullam accumsan lorem in dui. Praesent ac massa at ligula laoreet iaculis. Curabitur ullamcorper ultricies nisi. Curabitur ullamcorper ultricies nisi.
