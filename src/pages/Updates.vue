@@ -13,7 +13,11 @@
     <OneColumnSection>
       <div class="px-4 md:px-0 my-8 md:my-16">
         <h2 class="text-4xl mb-4">Updates</h2>
-        <p>Placeholder page</p>
+        <div v-for="update in $page.updates.edges" :key="update.title">
+          <h3 class="text-3xl mb-4" v-html="update.node.title"></h3>
+          <div v-html="styleRawHTML(update.node.teaser)"></div>
+          <p class="mb-8"><g-link class="text-comebackkc-darkblue underline" :to="update.node.path">Read more...</g-link></p>
+        </div>
       </div>
     </OneColumnSection>
   </Layout>
@@ -22,12 +26,28 @@
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
+import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
 export default {
   metaInfo: {
     title: 'COMEBACK KC Updates',
     meta: [{ key: 'description', name: 'description', content: 'Get the latest updates for COMEBACK KC here.' }]
   },
+  mixins: [rawHtmlMixin],
   components: { FullWidthSection, OneColumnSection }
 }
 </script>
+
+<page-query>
+query {
+  updates: allUpdate(sortBy: "date", order: DESC) {
+    edges {
+      node {
+        title
+        teaser
+        path
+      }
+    }
+  } 
+}
+</page-query>
