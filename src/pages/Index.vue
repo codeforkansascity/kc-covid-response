@@ -246,7 +246,7 @@
       <template v-slot:column1>
         <div class="px-4 md:pr-16">
           <p>
-            The COVID-19 pandemic has not impacted all communities in our region equally. The black, Latinx and Native communities have shouldered an undue burden in these
+            The COVID-19 pandemic has not impacted all communities in our region equally. The Black, Latino/Hispanic and Native communities have shouldered an undue burden in these
             challenging times. Comeback KC is committed to providing testing, tracking, and support resources to the communities that need them the most. As we reopen and rebuild
             our economy, we can't just go back to normal, we have to take this opportunity to build a better, fairer Kansas City.
           </p>
@@ -255,9 +255,9 @@
       <template v-slot:column2>
         <div class="px-4 md:px-16">
           <ul class="list-disc ml-5 mb-4">
-            <li>About 44% of KCMO's COVID-19 cases are black, but the black population makes up just 30% of the population</li>
-            <li>In Wyandotte County, black people represent 53% of the COVID-19 deaths but just 23% of the population</li>
-            <li>Nationally, black and Latinx populations are dying at higher rates than their white neighbors</li>
+            <li>About 44% of KCMO's COVID-19 cases are Black, but the Black population makes up just 30% of the population</li>
+            <li>In Wyandotte County, Black people represent 53% of the COVID-19 deaths but just 23% of the population</li>
+            <li>Nationally, Black and Latino/Hispanic populations are dying at higher rates than their white neighbors</li>
             <li>The Navajo Nation alone has experienced the 3rd highest infection rate outside of New York and New Jersey</li>
           </ul>
         </div>
@@ -332,6 +332,34 @@
         </div>
       </OneColumnSection>
     </div>
+    <OneColumnSection>
+      <div class="py-12 md:py-24 px-4">
+        <h2 class="text-3xl mb-8 text-center">In Coordination With These Area Health Departments</h2>
+        <div class="flex flex-wrap items-center justify-around">
+          <a href="https://www.kcmo.gov/city-hall/departments/health" class="p-8" target="_blank">
+            <g-image src="~/images/kcmo-public-health-logo.png" width="200" alt="KCMO Public Health" />
+          </a>
+          <a href="https://www.wycokck.org/Health.aspx" class="p-8" target="_blank">
+            <g-image src="~/images/wyandotte-county-public-health-logo.png" width="200" alt="Wyandotte County Public Health" />
+          </a>
+          <a href="https://www.jocogov.org/dept/health-and-environment/home" class="p-8" target="_blank">
+            <g-image src="~/images/johnson-county-health-environment-logo.png" width="200" alt="Johnson County Health and Environment" />
+          </a>
+          <a href="https://www.jacohd.org/" class="p-8" target="_blank">
+            <g-image src="~/images/jackson-county-health-department-logo.png" width="200" alt="Jackson County Health Department" />
+          </a>
+          <a href="https://www.casscounty.com/health" class="p-8" target="_blank">
+            <g-image src="~/images/cass-county-health-department-logo.jpg" width="200" alt="Cass County Health Department" />
+          </a>
+          <a href="https://www.plattecountyhealthdept.com/" class="p-8" target="_blank">
+            <g-image src="~/images/platte-county-health-department-logo.png" width="200" alt="Platte County Health Department" />
+          </a>
+          <a href="https://www.clayhealth.com/" class="p-8" target="_blank">
+            <g-image src="~/images/clay-county-public-health-center-logo.jpg" width="200" alt="Clay County Public Health Center" />
+          </a>
+        </div>
+      </div>
+    </OneColumnSection>
     <OneColumnSection>
       <div class="py-12 md:py-24 px-4">
         <h2 class="text-3xl mb-8 text-center">Brought To You By</h2>
