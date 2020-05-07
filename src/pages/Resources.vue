@@ -16,14 +16,14 @@
     <FullWidthSection v-for="(resource, index) in $page.resources.edges" :key="resource.title">
       <div class="py-8" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
         <div class="container mx-auto px-4 flex flex-wrap items-center justify-start md:justify-between lg:h-56 my-8">
-          <div class="w-full md:w-1/2 lg:w-2/12"><img :src="resource.node.thumbnail" /></div>
-          <div class="w-full md:w-1/2 md:pl-8 lg:w-3/12 lg:px-8 py-8 lg:py-16">
-            <div class="font-bold mb-6" v-html="resource.node.title"></div>
+          <div class="w-1/2 lg:w-2/12"><img :src="resource.node.thumbnail" /></div>
+          <div class="w-1/2 md:pl-8 lg:w-3/12 pl-4 lg:px-8 py-8 lg:py-16">
+            <div class="font-bold mb-6 text-comebackkc-darkblue" v-html="resource.node.title"></div>
             <div class="mb-6" v-html="formatedDate(Date.parse(resource.node.date))"></div>
             <div v-html="resource.node.organization"></div>
           </div>
-          <div class="w-full lg:w-5/12 md:py-8 lg:px-8 h-full overflow-hidden" v-html="styleRawHTML(resource.node.teaser)"></div>
-          <div class="w-full mt-8 md:mt-0 lg:w-2/12">
+          <div class="w-full lg:w-5/12 py-8 lg:px-8 h-full overflow-hidden" v-html="styleRawHTML(resource.node.teaser)"></div>
+          <div class="w-full lg:w-2/12">
             <g-link class="text-white bg-comebackkc-red font-bold px-4 py-2 rounded-md" :to="resource.node.path">
               View <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
             </g-link>
