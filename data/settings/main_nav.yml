@@ -3,3 +3,5 @@ nav_items:
     path: /updates/
   - label: Resources
     path: /resources/
+  - label: Creative Kit
+    path: /creative-kit/

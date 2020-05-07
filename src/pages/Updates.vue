@@ -10,8 +10,14 @@
         <h2 class="text-4xl text-center text-white">Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span></h2>
       </div>
     </FullWidthSection>
+    <OneColumnSection class="px-4 mt-8 md:mt-16">
+      <h2 class="text-4xl">The Latest Updates & Helpful Information</h2>
+      <p class="pb-8 md:bp-16 text-comebackkc-darkblue italic">Reliable information, trustworthy sources.</p>
+      <p>
+        Keep up to date on important information, COVID-19 updates, and news about testing and contact tracing throughout the KC metro area.
+      </p>
+    </OneColumnSection>
     <OneColumnSection class="px-4 my-8 md:my-16">
-      <h2 class="text-4xl mb-8 md:mb-16">Updates</h2>
       <div v-for="update in $page.updates.edges" :key="update.title">
         <h3 class="text-3xl mb-4" v-html="update.node.title"></h3>
         <div v-html="styleRawHTML(update.node.teaser)"></div>
