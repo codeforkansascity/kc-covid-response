@@ -264,7 +264,7 @@
       </template>
     </TwoColumnSection>
     <div class="bg-gradient-darkblue-red">
-      <TwoColumnSection columnTwoImage="/images/marc-map-bg.png">
+      <TwoColumnSection columnTwoColor="bg-comebackkc-red" columnTwoImage="/images/marc-map-bg.png">
         <template v-slot:column1>
           <div class="px-4 md:pr-16 py-16 md:py-32 text-white bg-comebackkc-darkblue h-full">
             <h2 class="text-3xl mb-4">Stay Informed</h2>
