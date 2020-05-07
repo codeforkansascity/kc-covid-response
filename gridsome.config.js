@@ -67,6 +67,18 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
+        path: 'content/resources/**/*.md',
+        typeName: 'Resource',
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
         path: 'data/settings/**/*.yml',
         typeName: 'Settings'
       }
@@ -91,7 +103,8 @@ module.exports = {
   ],
   templates: {
     BasicPage: '/:title',
-    Update: '/updates/:title'
+    Update: '/updates/:title',
+    Resource: '/resources/:title'
   },
   css: {
     loaderOptions: {

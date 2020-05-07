@@ -11,23 +11,66 @@
       </div>
     </FullWidthSection>
     <OneColumnSection>
-      <div class="px-4 md:px-0 my-8 md:my-16">
-        <h2 class="text-4xl mb-4">Resources</h2>
-        <p>Placeholder page</p>
+      <div class="px-4 mt-8 md:mt-16">
+        <h2 class="text-4xl">Resources</h2>
       </div>
     </OneColumnSection>
+    <FullWidthSection v-for="(resource, index) in $page.resources.edges" :key="resource.title">
+      <div class="px-4 py-8" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
+        <div class="container mx-auto flex flex-wrap items-center justify-start md:justify-between lg:h-56 my-8">
+          <div class="w-full md:w-1/2 lg:w-2/12"><img :src="resource.node.thumbnail" /></div>
+          <div class="w-full md:w-1/2 md:pl-8 lg:w-3/12 lg:px-8 py-8 lg:py-16">
+            <div class="font-bold mb-6" v-html="resource.node.title"></div>
+            <div class="mb-6" v-html="formatedDate(Date.parse(resource.node.date))"></div>
+            <div v-html="resource.node.organization"></div>
+          </div>
+          <div class="w-full lg:w-5/12 md:py-8 lg:px-8 h-full overflow-hidden" v-html="styleRawHTML(resource.node.teaser)"></div>
+          <div class="w-full mt-8 md:mt-0 lg:w-2/12">
+            <g-link class="text-white bg-comebackkc-red font-bold px-4 py-2 rounded-md" :to="resource.node.path">
+              View <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
+            </g-link>
+          </div>
+        </div>
+      </div>
+    </FullWidthSection>
   </Layout>
 </template>
 
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
+import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
+const moment = require('moment')
 
 export default {
   metaInfo: {
     title: 'COMEBACK KC Resources',
     meta: [{ key: 'description', name: 'description', content: 'Get the latest resources for COMEBACK KC here.' }]
   },
-  components: { FullWidthSection, OneColumnSection }
+  mixins: [rawHtmlMixin],
+  components: { FullWidthSection, OneColumnSection },
+  methods: {
+    formatedDate(dateString) {
+      var date = new Date(dateString)
+      return moment().format('MMM Do, YYYY')
+    }
+  }
 }
 </script>
+
+<page-query>
+query {
+  resources: allResource(sortBy: "date", order: DESC) {
+    edges {
+      node {
+        title
+        teaser
+        thumbnail
+        date
+        organization
+        path
+      }
+    }
+  } 
+}
+</page-query>
