@@ -10,14 +10,16 @@
         <h2 class="text-4xl text-center text-white">Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span></h2>
       </div>
     </FullWidthSection>
-    <OneColumnSection>
-      <div class="px-4 md:px-0 my-8 md:my-16">
-        <h2 class="text-4xl mb-4">Updates</h2>
-        <div v-for="update in $page.updates.edges" :key="update.title">
-          <h3 class="text-3xl mb-4" v-html="update.node.title"></h3>
-          <div v-html="styleRawHTML(update.node.teaser)"></div>
-          <p class="mb-8"><g-link class="text-comebackkc-darkblue underline" :to="update.node.path">Read more...</g-link></p>
-        </div>
+    <OneColumnSection class="px-4 my-8 md:my-16">
+      <h2 class="text-4xl mb-8 md:mb-16">Updates</h2>
+      <div v-for="update in $page.updates.edges" :key="update.title">
+        <h3 class="text-3xl mb-4" v-html="update.node.title"></h3>
+        <div v-html="styleRawHTML(update.node.teaser)"></div>
+        <p class="mb-8 mt-4">
+          <g-link class="text-white bg-comebackkc-red font-bold px-4 py-2 rounded-md" :to="update.node.path">
+            View <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
+          </g-link>
+        </p>
       </div>
     </OneColumnSection>
   </Layout>

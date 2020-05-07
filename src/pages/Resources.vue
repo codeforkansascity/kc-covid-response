@@ -10,14 +10,12 @@
         <h2 class="text-4xl text-center text-white">Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span></h2>
       </div>
     </FullWidthSection>
-    <OneColumnSection>
-      <div class="px-4 mt-8 md:mt-16">
-        <h2 class="text-4xl">Resources</h2>
-      </div>
+    <OneColumnSection class="px-4 mt-8 md:mt-16">
+      <h2 class="text-4xl">Resources</h2>
     </OneColumnSection>
     <FullWidthSection v-for="(resource, index) in $page.resources.edges" :key="resource.title">
-      <div class="px-4 py-8" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
-        <div class="container mx-auto flex flex-wrap items-center justify-start md:justify-between lg:h-56 my-8">
+      <div class="py-8" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
+        <div class="container mx-auto px-4 flex flex-wrap items-center justify-start md:justify-between lg:h-56 my-8">
           <div class="w-full md:w-1/2 lg:w-2/12"><img :src="resource.node.thumbnail" /></div>
           <div class="w-full md:w-1/2 md:pl-8 lg:w-3/12 lg:px-8 py-8 lg:py-16">
             <div class="font-bold mb-6" v-html="resource.node.title"></div>
