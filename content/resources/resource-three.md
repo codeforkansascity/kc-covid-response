@@ -8,7 +8,7 @@ thumbnail: /uploads/favicon1.png
 date: 2020-05-07T14:54:22.346Z
 organization: Blue Cross Blue Shield
 link: http://www.bluekc.com
-file: /uploads/flyover_camp_2020_prospectus.pdf
+file: ""
 ---
 Mauris sollicitudin fermentum libero. Fusce vel dui. Fusce convallis metus id felis luctus adipiscing. Maecenas egestas arcu quis ligula mattis placerat. Vestibulum ullamcorper mauris at ligula.
 
