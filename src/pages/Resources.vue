@@ -11,7 +11,12 @@
       </div>
     </FullWidthSection>
     <OneColumnSection class="px-4 mt-8 md:mt-16">
-      <h2 class="text-4xl">Resources</h2>
+      <h2 class="text-4xl">Your Go-To Resource</h2>
+      <p class="pb-8 md:bp-16 text-comebackkc-darkblue italic">Up-to-date plans and actionable COVID-19 content for the Metro, Kansas and Missouri.</p>
+      <p>
+        Comeback KC is one of many groups working together to bring our city back safely and responsibly. We’re providing a single page where you can find documents from each of
+        these groups as well as downloadable materials for sharing key messages with family and coworkers, and more. We will update this page as more resources become available.
+      </p>
     </OneColumnSection>
     <FullWidthSection v-for="(resource, index) in $page.resources.edges" :key="resource.title">
       <div class="py-8" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
