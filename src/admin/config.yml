@@ -8,7 +8,7 @@ public_folder: '/uploads'
 
 collections:
   - name: 'page'
-    label: 'FAQ'
+    label: 'Page'
     summary: '{{title}}'
     folder: 'content/pages'
     create: true
