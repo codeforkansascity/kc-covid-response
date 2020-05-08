@@ -12,7 +12,7 @@
     </FullWidthSection>
     <OneColumnSection class="px-4">
       <h2 class="text-5xl mt-8 md:mt-16 mb-2" v-html="$page.resource.title"></h2>
-      <div class="mb-2 font-semibold" v-html="$page.resource.date"></div>
+      <div class="mb-2 font-semibold" v-html="formatedDate(Date.parse($page.resource.date))"></div>
       <div class="mb-8 md:mb-16 font-semibold" v-html="$page.resource.organization"></div>
       <div class="mb-4 md:mb-8" v-html="styleRawHTML($page.resource.content)"></div>
       <div class="mb-4 md:mb-8" v-if="$page.resource.link">
@@ -29,6 +29,7 @@
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
+const moment = require('moment')
 
 export default {
   metaInfo() {
@@ -38,7 +39,13 @@ export default {
     }
   },
   mixins: [rawHtmlMixin],
-  components: { FullWidthSection, OneColumnSection }
+  components: { FullWidthSection, OneColumnSection },
+  methods: {
+    formatedDate(dateString) {
+      var date = new Date(dateString)
+      return moment().format('MMM Do, YYYY')
+    }
+  }
 }
 </script>
 
