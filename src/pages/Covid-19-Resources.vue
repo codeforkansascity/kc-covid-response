@@ -48,7 +48,6 @@ const moment = require('moment')
 export default {
   metaInfo: {
     title: 'Kansas City COVID-19 Resources',
-    path: '/covid-19-resources/',
     meta: [
       {
         key: 'description',
