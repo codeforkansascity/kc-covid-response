@@ -26,13 +26,13 @@ export default {
       return this.columnOneColor ? this.columnOneColor : false
     },
     columnOneBackgroundImage() {
-      return this.columnOneImage ? 'url(' + this.columnOneImage + ')' : 'none'
+      return this.columnOneImage ? 'url(' + this.columnOneImage + ')' : false
     },
     columnTwoBackgroundColor() {
       return this.columnTwoColor ? this.columnTwoColor : false
     },
     columnTwoBackgroundImage() {
-      return this.columnTwoImage ? 'url(' + this.columnTwoImage + ')' : 'none'
+      return this.columnTwoImage ? 'url(' + this.columnTwoImage + ')' : false
     }
   }
 }

@@ -62,7 +62,7 @@
     </OneColumnSection>
     <TwoColumnSection order="reversed">
       <template v-slot:column1>
-        <div class="px-4 md:pr-16 pb-16 md:pb-32">
+        <div class="px-4 md:pr-16 pb-16">
           <p>
             Safe. Secure. Private. COVID Safe Paths, a free app, lets you see where you’ve been and alerts you if you've been exposed to COVID-19.
           </p>
@@ -85,9 +85,8 @@
         </div>
       </template>
       <template v-slot:column2>
-        <div class="px-4 md:pr-16 mb-8 md:mb-0 relative h-72 md:h-full flex flex-col items-center xl:block overflow-hidden">
-          <g-image class="hidden xl:block xl:absolute -bottom-16 xl:left-72" src="~/images/safe-paths-app-screen-2.png" alt="Safe Paths app screenshot" />
-          <g-image class="md:absolute bottom-0 xl:left-16" src="~/images/safe-paths-app-screen-1.png" alt="Safe Paths app screenshot" />
+        <div class="px-4 pb-8 md:pb-0 h-full flex flex-col justify-end items-center">
+          <g-image class="" src="~/images/safe-paths-app-screens.png" alt="Safe Paths app screenshot" />
         </div>
       </template>
     </TwoColumnSection>
