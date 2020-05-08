@@ -1,4 +1,4 @@
-# KC Covid Response Website
+# Comeback KC Website
 
 This is a simple static site generated using Gridsome.
 
@@ -32,7 +32,7 @@ The site is generating using a standard [Gridsome](https://gridsome.org/) setup 
 - [MailChimp](https://mailchimp.com/) for gathering email newsletter subscriptions.
 - [Google Fonts](https://fonts.google.com/) for the custom fonts.
 
-The package.json file has all the details regarding packages used to integrate all of the above technologies and resources.
+The package.json file has all the details regarding the packages used to integrate all of the above technologies and resources.
 
 ### CMS
 
@@ -54,3 +54,7 @@ There are also two yaml files under /data/settings that are used to define the m
 ### Hosting
 
 Hosting is assumed to be Netlify which also handles the automated [build and deployment process](https://gridsome.org/docs/deploy-to-netlify/). The only Netlify specific functionality used is for [redirects](https://docs.netlify.com/routing/redirects/) which looks for a "\_redirects" file at the root of the site. This file can be found at /static/\_redirects.
+
+### Browser Support
+
+An important thing to note is that while the site can be viewed in IE11 the experience isn't as good as other browsers. Primarily the lazy loading of images provided by Gridsome is broken by the MailChimp integration library. That library, and its supporting libraries, do not support IE11 and their authors have no intention of doing so. This library was used to get the site up and running quickly and if official support of IE11 is desired the MailChimp integration will need to be reworked, at a minimum.
