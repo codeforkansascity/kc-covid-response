@@ -1,7 +1,7 @@
 nav_items:
   - label: Updates
-    path: /updates/
+    path: /news-updates/
   - label: Resources
-    path: /resources/
-  - label: Creative Kit
-    path: /creative-kit/
+    path: /covid-19-resources/
+  - label: Creative Assets
+    path: /creative-assets/

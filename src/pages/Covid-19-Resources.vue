@@ -47,8 +47,15 @@ const moment = require('moment')
 
 export default {
   metaInfo: {
-    title: 'COMEBACK KC Resources',
-    meta: [{ key: 'description', name: 'description', content: 'Get the latest resources for COMEBACK KC here.' }]
+    title: 'Kansas City COVID-19 Resources',
+    path: '/covid-19-resources/',
+    meta: [
+      {
+        key: 'description',
+        name: 'description',
+        content: 'Find up-to-date plans and actionable COVID-19 resources for the Kansas City metro area. Click here to learn more from COMEBACK KC.'
+      }
+    ]
   },
   mixins: [rawHtmlMixin],
   components: { FullWidthSection, OneColumnSection },

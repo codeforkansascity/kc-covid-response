@@ -14,8 +14,9 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 module.exports = {
-  siteName: 'Come Back KC',
+  siteName: 'Comeback KC',
   siteUrl: 'https://www.comebackkc.com',
+  titleTemplate: '%s | COMEBACK KC',
   transformers: {
     remark: {
       externalLinksTarget: '_blank',

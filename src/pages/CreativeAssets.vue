@@ -2,7 +2,7 @@
   <Layout>
     <FullWidthSection class="md:h-screen-60 flex items-center" image="/images/kc-skyline-bg.jpg">
       <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
-        <h1 class="text-white text-4xl md:text-10xl text-shadow">Creative Kit</h1>
+        <h1 class="text-white text-4xl md:text-10xl text-shadow">Creative Assets</h1>
       </div>
     </FullWidthSection>
     <FullWidthSection class="bg-comebackkc-red">
@@ -42,8 +42,14 @@ import OneColumnSection from '@/components/OneColumnSection.vue'
 
 export default {
   metaInfo: {
-    title: 'COMEBACK KC Creative Kit',
-    meta: [{ key: 'description', name: 'description', content: 'Get the latest creative kit for COMEBACK KC here.' }]
+    title: 'Download COMEBACK KC Campaign Assets Here',
+    meta: [
+      {
+        key: 'description',
+        name: 'description',
+        content: 'All COMEBACK KC campaign assets are available for free download, usage on social channels, and more. Download the creative assets here.'
+      }
+    ]
   },
   components: { FullWidthSection, OneColumnSection }
 }

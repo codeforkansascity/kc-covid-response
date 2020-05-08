@@ -38,8 +38,14 @@ import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
 export default {
   metaInfo: {
-    title: 'COMEBACK KC Updates',
-    meta: [{ key: 'description', name: 'description', content: 'Get the latest updates for COMEBACK KC here.' }]
+    title: 'Kansas City COVID-19 Updates & News',
+    meta: [
+      {
+        key: 'description',
+        name: 'description',
+        content: 'Keep up-to-date on important information and updates about COVID-19 testing and contact tracing within the Kansas City metro area. Learn more here.'
+      }
+    ]
   },
   mixins: [rawHtmlMixin],
   components: { FullWidthSection, OneColumnSection }
