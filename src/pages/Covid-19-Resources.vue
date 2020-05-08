@@ -19,10 +19,10 @@
       </p>
     </OneColumnSection>
     <FullWidthSection v-for="(resource, index) in $page.resources.edges" :key="resource.title">
-      <div class="py-8" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
-        <div class="container mx-auto px-4 flex flex-wrap items-center justify-start md:justify-between lg:h-56 my-8">
+      <div class="py-8 md:py-16" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
+        <div class="container mx-auto px-4 flex flex-wrap items-center justify-start md:justify-between">
           <div class="w-1/2 lg:w-2/12"><img :src="resource.node.thumbnail" /></div>
-          <div class="w-1/2 md:pl-8 lg:w-3/12 pl-4 lg:px-8 py-8 lg:py-16">
+          <div class="w-1/2 md:pl-8 lg:w-3/12 pl-4 lg:px-8">
             <div class="font-bold mb-6 text-comebackkc-darkblue" v-html="resource.node.title"></div>
             <div class="mb-6" v-html="formatedDate(Date.parse(resource.node.date))"></div>
             <div v-html="resource.node.organization"></div>
