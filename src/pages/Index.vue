@@ -108,7 +108,7 @@
           <div class="px-4 pb-16 md:py-32">
             <h2 class="text-3xl mb-6">Local Health Departments</h2>
             <div class="leading-relaxed text-xl">
-              <AccordionItem is-open class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Cass County
                 </template>

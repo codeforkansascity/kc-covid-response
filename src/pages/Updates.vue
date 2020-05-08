@@ -17,8 +17,8 @@
         Keep up to date on important information, COVID-19 updates, and news about testing and contact tracing throughout the KC metro area.
       </p>
     </OneColumnSection>
-    <OneColumnSection class="px-4 my-8 md:my-16">
-      <div v-for="update in $page.updates.edges" :key="update.title">
+    <FullWidthSection v-for="(update, index) in $page.updates.edges" :key="update.title" class="py-8 md:py-16" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
+      <div class="container mx-auto px-4">
         <h3 class="text-3xl mb-4" v-html="update.node.title"></h3>
         <div v-html="styleRawHTML(update.node.teaser)"></div>
         <p class="mb-8 mt-4">
@@ -27,7 +27,7 @@
           </g-link>
         </p>
       </div>
-    </OneColumnSection>
+    </FullWidthSection>
   </Layout>
 </template>
 
