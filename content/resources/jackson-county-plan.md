@@ -1,23 +1,12 @@
 ---
 title: Jackson County Plan
 metaDescription: Jackson County plan
-teaser: Etiam sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet
-  sapien, quis venenatis ante odio sit amet eros. Donec interdum, metus et
-  hendrerit aliquet, dolor diam sagittis ligula, eget egestas libero turpis vel
-  mi. Aenean viverra rhoncus pede.
+teaser: The goals of the Eastern Jackson County recovery plan are to protect the health and safety of Jackson County residents, facilitate a safe start and transition to economic recovery and support all people and communities.
 thumbnail: /uploads/jackson-county-health-department-logo.png
-date: 2020-05-07T14:55:45.476Z
+date: 2020-05-06T14:55:45.476Z
 organization: Jackson County Health Department
-link: ''
+link: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&ved=2ahUKEwiagYW34aTpAhVGgK0KHRhvCU8QFjAIegQIBRAB&url=https%3A%2F%2Fwww.jacksongov.org%2FDocumentCenter%2FView%2F6748%2FRecovery-Plan-Phase-1&usg=AOvVaw2UGjbme8zFx5RLCvNjFKO8'
 file: ''
 ---
 
-Phasellus nec sem in justo pellentesque facilisis. Nullam accumsan lorem in dui. Praesent ac massa at ligula laoreet iaculis. Curabitur ullamcorper ultricies nisi. Curabitur ullamcorper ultricies nisi.
-
-Morbi mattis ullamcorper velit. Nulla facilisi. In consectetuer turpis ut velit. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Praesent nec nisl a purus blandit viverra.
-
-Quisque ut nisi. Etiam rhoncus. Sed in libero ut nibh placerat accumsan. Proin magna. Phasellus ullamcorper ipsum rutrum nunc.
-
-Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Vestibulum ullamcorper mauris at ligula. Sed magna purus, fermentum eu, tincidunt eu, varius ut, felis. Nulla consequat massa quis enim. Sed lectus.
-
-In hac habitasse platea dictumst. Vestibulum volutpat pretium libero. Praesent congue erat at massa. Etiam feugiat lorem non metus. Aliquam erat volutpat.
+The goals of the Eastern Jackson County recovery plan are to protect the health and safety of Jackson County residents, facilitate a safe start and transition to economic recovery and support all people and communities.
