@@ -335,26 +335,14 @@
       <div class="py-8 md:py-16 px-4">
         <h2 class="text-3xl mb-4 text-center">In Coordination With These Area Health Departments</h2>
         <div class="flex flex-wrap items-center justify-around">
-          <a href="https://www.kcmo.gov/city-hall/departments/health" class="px-8 py-4" target="_blank">
-            <g-image src="~/images/kcmo-public-health-logo.png" width="200" alt="KCMO Public Health" />
-          </a>
           <a href="https://www.wycokck.org/Health.aspx" class="px-8 py-4" target="_blank">
             <g-image src="~/images/wyandotte-county-public-health-logo.png" width="200" alt="Wyandotte County Public Health" />
           </a>
           <a href="https://www.jocogov.org/dept/health-and-environment/home" class="px-8 py-4" target="_blank">
             <g-image src="~/images/johnson-county-health-environment-logo.png" width="200" alt="Johnson County Health and Environment" />
           </a>
-          <a href="https://www.jacohd.org/" class="px-8 py-4" target="_blank">
-            <g-image src="~/images/jackson-county-health-department-logo.png" width="200" alt="Jackson County Health Department" />
-          </a>
-          <a href="https://www.casscounty.com/health" class="px-8 py-4" target="_blank">
-            <g-image src="~/images/cass-county-health-department-logo.jpg" width="200" alt="Cass County Health Department" />
-          </a>
           <a href="https://www.plattecountyhealthdept.com/" class="px-8 py-4" target="_blank">
             <g-image src="~/images/platte-county-health-department-logo.png" width="200" alt="Platte County Health Department" />
-          </a>
-          <a href="https://www.clayhealth.com/" class="px-8 py-4" target="_blank">
-            <g-image src="~/images/clay-county-public-health-center-logo.jpg" width="200" alt="Clay County Public Health Center" />
           </a>
         </div>
       </div>
@@ -413,18 +401,19 @@ export default {
   }
 }
 
-// holding pen for "how it works" section of app
-// <p>
-//   <em>How it works</em>
-// </p>
-// <p>
-//   <ol class="list-decimal ml-5 mb-4">
-//     <li>Download the free app, enable location services, and anonymously connect to your local health department</li>
-//     <li>Track where you go and get alerts if you’re exposed to anyone diagnosed with COVID-19.</li>
-//     <li>Browse helpful hints about what to do if you’ve been exposed.</li>
-//     <li>If you test positive for COVID-19, you may anonymously choose to share info about where you’ve been with your local health department</li>
-//   </ol>
-// </p>
+// holding pen for health department logos
+//          <a href="https://www.kcmo.gov/city-hall/departments/health" class="px-8 py-4" target="_blank">
+//            <g-image src="~/images/kcmo-public-health-logo.png" width="200" alt="KCMO Public Health" />
+//          </a>
+//          <a href="https://www.jacohd.org/" class="px-8 py-4" target="_blank">
+//            <g-image src="~/images/jackson-county-health-department-logo.png" width="200" alt="Jackson County Health Department" />
+//          </a>
+//          <a href="https://www.casscounty.com/health" class="px-8 py-4" target="_blank">
+//            <g-image src="~/images/cass-county-health-department-logo.jpg" width="200" alt="Cass County Health Department" />
+//          </a>
+//          <a href="https://www.clayhealth.com/" class="px-8 py-4" target="_blank">
+//            <g-image src="~/images/clay-county-public-health-center-logo.jpg" width="200" alt="Clay County Public Health Center" />
+//          </a>
 </script>
 
 <page-query>
