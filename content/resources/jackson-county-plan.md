@@ -1,7 +1,6 @@
 ---
 title: Jackson County Plan
 metaDescription: Jackson County plan
-teaser: The goals of the Eastern Jackson County recovery plan are to protect the health and safety of Jackson County residents, facilitate a safe start and transition to economic recovery and support all people and communities.
 thumbnail: /uploads/jackson-county-health-department-logo.png
 date: 2020-05-06T14:55:45.476Z
 organization: Jackson County Health Department

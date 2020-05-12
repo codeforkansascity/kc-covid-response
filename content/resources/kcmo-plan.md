@@ -1,7 +1,6 @@
 ---
 title: KCMO Plan
 metaDescription: KCMO Plan
-teaser: Mayor Announces Plan for Reopening. Kansas City Mayor Quinton Lucas today - in consultation with Kansas City Health Department Director Rex Archer, M.D. - announced Kansas City’s phased reopening plan.
 thumbnail: /uploads/kcmo-public-health-logo.png
 date: 2020-04-29T14:54:22.346Z
 organization: KCMO Public Health

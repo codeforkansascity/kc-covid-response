@@ -11,8 +11,7 @@
       </div>
     </FullWidthSection>
     <OneColumnSection class="px-4 my-8 md:my-16">
-      <h2 class="text-4xl">Join the Comeback</h2>
-      <p class="pb-8 md:bp-16 text-comebackkc-darkblue italic">Help create the comeback.</p>
+      <h2 class="text-4xl pb-8 md:bp-16">Join the Comeback</h2>
       <p>
         Bringing Kansas City back the right way will take all of us. So, we’ve made all our campaign assets available free to download and share on your social channels and more.
         We invite you to create whatever you want with the campaign* - social content, posters, T-shirts, signs. If you make something fantastic, please share it with us! We’d love
@@ -23,10 +22,17 @@
         These assets are offered under the Creative Commons license, and commercial use is allowed. We ask that you include a link to comebackkc.com, a URL, or hashtag #comebackkc
         by way of attribution.
       </p>
+      <p class="mb-0">
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+          <img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+        </a>
+      </p>
       <p>
-        <a class="text-comebackkc-darkblue underline font-semibold" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"
-          >https://creativecommons.org/licenses/by-sa/4.0/</a
-        >
+        This work is licensed under a
+        <a class="text-comebackkc-darkblue underline" rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
+          Creative Commons Attribution 4.0 International License
+        </a>
+        .
       </p>
       <p>
         <span class="font-bold">*IMPORTANT:</span> The only thing that Comeback KC expressly forbids usage of these assets to spread misinformation or anything contrary to the
