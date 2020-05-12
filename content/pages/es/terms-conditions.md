@@ -1,7 +1,7 @@
 ---
-title: Terms and Conditions
+title: Términos y Condiciones
 metaDescription: Read the terms and conditions for COMEBACK KC here.
-language: en
+language: es
 ---
 
 Last updated: 4/30/2020

@@ -13,6 +13,7 @@ collections:
     folder: 'content/pages'
     create: true
     fields:
+      - { label: 'Language', name: 'language', widget: 'select', options: [{ label: 'English', value: 'en' }, { label: 'Spanish', value: 'es' }] }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -22,6 +23,7 @@ collections:
     folder: 'content/updates'
     create: true
     fields:
+      - { label: 'Language', name: 'language', widget: 'select', options: [{ label: 'English', value: 'en' }, { label: 'Spanish', value: 'es' }] }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -34,6 +36,7 @@ collections:
     folder: 'content/resources'
     create: true
     fields:
+      - { label: 'Language', name: 'language', widget: 'select', options: [{ label: 'English', value: 'en' }, { label: 'Spanish', value: 'es' }] }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -50,7 +53,7 @@ collections:
     create: true
     identifier_field: 'question'
     fields:
-      - { label: 'Locale', name: 'locale', widget: 'select', options: [{ label: 'English', value: 'en' }, { label: 'Spanish', value: 'es' }] }
+      - { label: 'Language', name: 'language', widget: 'select', options: [{ label: 'English', value: 'en' }, { label: 'Spanish', value: 'es' }] }
       - { label: 'Order', name: 'order', widget: 'number', valueType: 'int' }
       - { label: 'Question', name: 'question', widget: 'string' }
       - { label: 'Answer', name: 'body', widget: 'markdown' }

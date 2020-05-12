@@ -1,7 +1,7 @@
 ---
-title: Privacy Policy
+title: Política de Privacidad
 metaDescription: Read the privacy policy for COMEBACK KC here.
-language: en
+language: es
 ---
 
 Last updated: 4/30/2020
