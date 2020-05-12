@@ -30,6 +30,22 @@ module.exports = {
   },
   plugins: [
     {
+      use: 'gridsome-plugin-i18n',
+      options: {
+        locales: ['en-us', 'es-us'],
+        pathAliases: {
+          'en-us': 'en',
+          'es-us': 'es'
+        },
+        fallbackLocale: 'en-us',
+        defaultLocale: 'en-us',
+        messages: {
+          'en-us': require('./src/locales/en-us.json'),
+          'es-us': require('./src/locales/es-us.json')
+        }
+      }
+    },
+    {
       use: '@gridsome/source-filesystem',
       options: {
         path: 'content/faqs/**/*.md',
