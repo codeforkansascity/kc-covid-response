@@ -27,9 +27,9 @@
             <div class="mb-6" v-html="formatedDate(Date.parse(resource.node.date))"></div>
             <div v-html="resource.node.organization"></div>
           </div>
-          <div class="w-full lg:w-5/12 py-8 lg:px-8 h-full overflow-hidden" v-html="styleRawHTML(resource.node.teaser)"></div>
+          <div class="w-full lg:w-5/12 py-8 lg:px-8 h-full overflow-hidden">{{ resource.node.content | striphtml }}</div>
           <div class="w-full lg:w-2/12">
-            <g-link class="text-white bg-comebackkc-red font-bold px-4 py-2 rounded-md" :to="resource.node.path">
+            <g-link v-if="viewLink(resource)" class="text-white bg-comebackkc-red font-bold px-4 py-2 rounded-md" :to="viewLink(resource)">
               View <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
             </g-link>
           </div>
@@ -60,8 +60,15 @@ export default {
   components: { FullWidthSection, OneColumnSection },
   methods: {
     formatedDate(dateString) {
-      var date = new Date(dateString)
-      return moment().format('MMM Do, YYYY')
+      return moment(dateString).format('MMM Do, YYYY')
+    },
+    viewLink(resource) {
+      if (resource.node.link) {
+        return resource.node.link
+      } else if (resource.node.file) {
+        return resource.node.file
+      }
+      return false
     }
   }
 }
@@ -73,11 +80,12 @@ query {
     edges {
       node {
         title
-        teaser
         thumbnail
         date
         organization
-        path
+        link
+        file
+        content
       }
     }
   } 

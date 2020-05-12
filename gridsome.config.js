@@ -104,8 +104,7 @@ module.exports = {
   ],
   templates: {
     BasicPage: '/:title',
-    Update: '/updates/:title',
-    Resource: '/resources/:title'
+    Update: '/updates/:title'
   },
   css: {
     loaderOptions: {

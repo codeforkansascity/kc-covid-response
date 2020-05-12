@@ -37,7 +37,6 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Teaser', name: 'teaser', widget: 'markdown' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
       - { label: 'Organization', name: 'organization', widget: 'string' }

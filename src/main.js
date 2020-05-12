@@ -25,6 +25,11 @@ export default function(Vue, { router, head, isClient }) {
   // Set font-awesome component globally
   Vue.component('font-awesome', FontAwesomeIcon)
 
+  // Filter to strip html tags
+  Vue.filter('striphtml', function(content) {
+    return content.replace(/<\/?[^>]+(>|$)/g, '')
+  })
+
   // Add default meta data
   head.meta.push(
     {
