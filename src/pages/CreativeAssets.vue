@@ -17,6 +17,9 @@
         We invite you to create whatever you want with the campaign* - social content, posters, T-shirts, signs. If you make something fantastic, please share it with us! We’d love
         to see what you come up with.
       </p>
+      <p class="my-8 md:my-16 text-center">
+        <a id="asset-download" class="text-white bg-comebackkc-red font-bold px-8 py-4 rounded-md" href="/comebackkc-assets.zip">Download The Assets</a>
+      </p>
       <p>
         Terms:<br />
         These assets are offered under the Creative Commons license, and commercial use is allowed. We ask that you include a link to comebackkc.com, a URL, or hashtag #comebackkc
