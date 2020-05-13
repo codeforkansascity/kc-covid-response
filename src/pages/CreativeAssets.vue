@@ -18,7 +18,7 @@
         to see what you come up with.
       </p>
       <p class="my-8 md:my-16 text-center">
-        <a class="text-white bg-comebackkc-red font-bold px-8 py-4 rounded-md" href="/comebackkc-assets.zip">Download The Assets</a>
+        <a id="asset-download" class="text-white bg-comebackkc-red font-bold px-8 py-4 rounded-md" href="/comebackkc-assets.zip">Download The Assets</a>
       </p>
       <p>
         Terms:<br />
