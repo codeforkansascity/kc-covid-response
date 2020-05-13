@@ -1,11 +1,12 @@
 ---
-title: Kansas Plan
-metaDescription: Kansas plan
+title: Plan de Kansas
+metaDescription: Plan de Kansas
 thumbnail: /uploads/kansas-logo.png
 date: 2020-04-30T14:55:45.476Z
 organization: ''
 link: 'https://covid.ks.gov/ad-astra-a-plan-to-reopen-kansas/'
 file: ''
+language: es
 ---
 
-A plan to reopen Kansas. Reopening Kansas comes by milestones, not on a timetable. Progress will be measured by monitoring our testing rates, COVID-19 hospitalizations, ability to contact trace, and availability of personal protective equipment.
+Plan para la reapertura de Kansas. El reabrir Kansas viene con logros, no con el tiempo. El progreso se medirá mediante el monitoreo de las tasas en las pruebas, hospitalizaciones de COVID-19, la capacidad de localizar el contacto y disponibilidad de equipos de protección personal.

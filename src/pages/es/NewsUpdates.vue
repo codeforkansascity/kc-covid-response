@@ -2,17 +2,17 @@
   <Layout>
     <PageHeader image="/images/kc-skyline-bg.jpg">
       <template v-slot:title>
-        Updates
+        Actualizaciones
       </template>
       <template v-slot:sub-title>
-        Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span>
+        Prueba. Rastreo. <span class="text-comebackkc-darkblue">Victoria.</span>
       </template>
     </PageHeader>
     <OneColumnSection class="px-4 mt-8 md:mt-16">
-      <h2 class="text-4xl">The Latest Updates & Helpful Information</h2>
-      <p class="pb-8 md:bp-16 text-comebackkc-darkblue italic">Reliable information, trustworthy sources.</p>
+      <h2 class="text-4xl">Las Últimas Actualizaciones e Información Útil</h2>
+      <p class="pb-8 md:bp-16 text-comebackkc-darkblue italic">Información Fidedigna, Recursos Confiables</p>
       <p>
-        Keep up to date on important information, COVID-19 updates, and news about testing and contact tracing throughout the KC metro area.
+        Manténgase al día sobre información importante, actualizaciones sobre el COVID-19 y noticias sobre pruebas y rastreo de contactos en toda el área metropolitana de KC.
       </p>
     </OneColumnSection>
     <FullWidthSection v-for="(update, index) in $page.updates.edges" :key="update.title" class="py-8 md:py-16" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
@@ -21,7 +21,7 @@
         <div v-html="styleRawHTML(update.node.teaser)"></div>
         <p class="mb-8 mt-4">
           <g-link class="text-white bg-comebackkc-red font-bold px-4 py-2 rounded-md" :to="update.node.path">
-            View <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
+            Ver <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
           </g-link>
         </p>
       </div>
@@ -53,7 +53,7 @@ export default {
 
 <page-query>
 query {
-  updates: allUpdate(filter: { language: { eq: "en" }}, sortBy: "date", order: DESC) {
+  updates: allUpdate(filter: { language: { eq: "es" }}, sortBy: "date", order: DESC) {
     edges {
       node {
         title

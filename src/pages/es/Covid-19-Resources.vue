@@ -2,18 +2,19 @@
   <Layout>
     <PageHeader image="/images/kc-skyline-bg.jpg">
       <template v-slot:title>
-        Resources
+        Recursos
       </template>
       <template v-slot:sub-title>
-        Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span>
+        Prueba. Rastreo. <span class="text-comebackkc-darkblue">Victoria.</span>
       </template>
     </PageHeader>
     <OneColumnSection class="px-4 mt-8 md:mt-16">
-      <h2 class="text-4xl">Your Go-To Resource</h2>
-      <p class="pb-8 md:bp-16 text-comebackkc-darkblue italic">Up-to-date plans and actionable COVID-19 content for the Metro, Kansas and Missouri.</p>
+      <h2 class="text-4xl">Recursos</h2>
+      <p class="pb-8 md:bp-16 text-comebackkc-darkblue italic">Planes actualizados de acción contra el COVID-19 para el área metropolitana de Kansas y Misuri.</p>
       <p>
-        Comeback KC is one of many groups working together to bring our city back safely and responsibly. We’re providing a single page where you can find documents from each of
-        these groups as well as downloadable materials for sharing key messages with family and coworkers, and more. We will update this page as more resources become available.
+        Regresa KC es uno de los muchos grupos que trabajan juntos para que nuestra ciudad regrese de manera segura y responsable. Proporcionamos una página única donde se puede
+        encontrar documentos de cada uno de estos grupos, así como materiales descargables para compartir mensajes claves con familiares y compañeros de trabajo y más.
+        Actualizaremos esta página a medida que haya más recursos disponibles.
       </p>
     </OneColumnSection>
     <FullWidthSection v-for="(resource, index) in $page.resources.edges" :key="resource.title">
@@ -28,7 +29,7 @@
           <div class="w-full lg:w-5/12 py-8 lg:px-8 h-full overflow-hidden">{{ resource.node.content | striphtml }}</div>
           <div class="w-full lg:w-2/12">
             <g-link v-if="viewLink(resource)" class="text-white bg-comebackkc-red font-bold px-4 py-2 rounded-md" :to="viewLink(resource)">
-              View <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
+              Ver <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
             </g-link>
           </div>
         </div>
@@ -59,7 +60,8 @@ export default {
   components: { FullWidthSection, OneColumnSection, PageHeader },
   methods: {
     formatedDate(dateString) {
-      return moment(dateString).format('MMM Do, YYYY')
+      moment.locale('es')
+      return moment(dateString).format('D MMMM, YYYY')
     },
     viewLink(resource) {
       if (resource.node.link) {
@@ -75,7 +77,7 @@ export default {
 
 <page-query>
 query {
-  resources: allResource(filter: { language: { eq: "en" }}, sortBy: "date", order: DESC) {
+  resources: allResource(filter: { language: { eq: "es" }}, sortBy: "date", order: DESC) {
     edges {
       node {
         title

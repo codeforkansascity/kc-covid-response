@@ -6,6 +6,7 @@ date: 2020-04-29T14:54:22.346Z
 organization: KC Chamber, KCADC, MARC, Civic Council
 link: https://www.kcchamber.com/sites/default/files/2020-04/SafeReturn-GUIDE.pdf
 file: ''
+language: es
 ---
 
-#SafeReturnKC. The Safe Return KC Guide provides a roadmap for organizations of all types across the region to use as we re-open our workplaces while considering the public health needs of our workforce, stakeholders, customers and community. .
+#SafeReturnKC. La guía Safe Return KC proporciona un mapa para que las organizaciones de todo tipo en toda la región puedan usarla a medida que se reabren los lugares de trabajo tomando en cuenta las necesidades de la salud pública de la fuerza laboral, inversionistas, clientes y la comunidad.

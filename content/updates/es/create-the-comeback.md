@@ -1,11 +1,11 @@
 ---
 title: ¡El Regreso!
-metaDescription: Resources available to create the comeback.
-teaser: For Kansas City to make a healthy, safe comeback from COVID-19, it will take all of us working together. That's why Comeback KC is making our creative kit available for free reuse.
+metaDescription: ¡El Regreso!
+teaser: Para que Kansas City regrese de forma segura y saludable sin el COVID -19, tendremos todos que trabajar juntos.  Por lo mismo, el Kit Creativo de Regresa KC está disponible para que se utilice de manera gratis.
 date: 2020-05-12T08:20:00.040Z
 language: es
 ---
 
-For Kansas City to make a healthy, safe comeback from COVID-19, it will take all of us working together. That's why Comeback KC is making our creative kit available for free reuse. Kansas City is a city of makers and creators, and we want to encourage our creative community to use, create and share their own creations with our campaign. And yes, commercial reuse is allowed and encouraged. The only thing we forbid is using our creative assets to spread disinformation or anything deemed contrary to the interests of public health (as determined by our local public health agencies). Otherwise, go wild with it. We'd love to see what you create, so tag us on social media or shoot us a note.
+Para que Kansas City regrese de forma segura y saludable sin el COVID -19, tendremos todos que trabajar juntos. Por lo mismo, el Kit Creativo de Regresa KC está disponible para que se utilice de manera gratis. Kansas City es una ciudad de creadores y queremos alentar a nuestra comunidad a usar, crear y compartir sus propias ideas con nuestra campaña. Y sí, se permite el uso de esta, comercialmente. Lo único que no se permite es usar los elementos creativos para difundir información falsa o cualquier comunicación que se considere contraria a los intereses de la salud pública (según lo determinen nuestras agencias locales de salud pública). De lo contrario, haz todo lo que quieras. Nos gustaría ver como utilizas nuestros elementos, así que compártelos y etiquétanos en las redes sociales o envíanos una nota.
 
-[Download the Creative Kit here](/creative-assets).
+[Descarga el Kit Creativo aquí](/es/creative-assets).

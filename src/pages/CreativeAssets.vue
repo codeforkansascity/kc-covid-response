@@ -24,7 +24,7 @@
         by way of attribution.
       </p>
       <p class="mb-0">
-        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
           <img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
         </a>
       </p>

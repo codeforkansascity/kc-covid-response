@@ -2,17 +2,17 @@
   <Layout>
     <PageHeader image="/images/kc-skyline-bg.jpg">
       <template v-slot:title>
-        Comeback KC
+        Regresa KC
       </template>
       <template v-slot:sub-title>
-        Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span>
+        Prueba. Rastreo. <span class="text-comebackkc-darkblue">Victoria.</span>
       </template>
     </PageHeader>
     <OneColumnSection>
       <div class="py-8 md:py-16 px-8 md:px-64">
         <p class="text-xl text-center">
-          Kansas City never quits. No matter the odds we always find a way to come together and overcome. Today is no different. Let's bring KC back the right way &mdash; safely
-          and responsibly &mdash; to ensure that we come back better and stronger than ever.
+          Kansas City nunca se rinde. Sin importar las situaciones, siempre encontramos una manera de unirnos y superarlas. Hoy no es diferente. Regresemos a nuestra KC de manera
+          correcta, de manera segura y responsable, para garantizar que todos volvamos mejor y más fuertes que nunca.
         </p>
       </div>
     </OneColumnSection>
@@ -23,9 +23,9 @@
             <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
             </div>
-            <h3 class="text-3xl mb-4 text-center">Test</h3>
+            <h3 class="text-3xl mb-4 text-center">Prueba</h3>
             <p class="mb-0">
-              With enough testing, we can understand the full extent of the pandemic in our region. That's why we are making more test kits available than ever before.
+              Con suficientes pruebas, podemos entender el alcance total de la pandemia en nuestra región. Por eso es que estamos haciendo más kits de prueba disponibles que nunca.
             </p>
           </div>
         </template>
@@ -34,10 +34,10 @@
             <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
             </div>
-            <h3 class="text-3xl mb-4 text-center">Track</h3>
+            <h3 class="text-3xl mb-4 text-center">Rastreo</h3>
             <p class="mb-0">
-              Through apps built with your privacy in mind, our contact tracing team can help those sick with COVID-19 identify those they may have affected so they can be tested,
-              too.
+              A través de aplicaciones móviles creadas que toman en cuenta tu privacidad, nuestro equipo de rastreo de contactos puede ayudar a las personas enfermas con COVID-19 a
+              identificar a las personas que puedan haber sido afectadas, para que también puedan someterse a pruebas.
             </p>
           </div>
         </template>
@@ -46,28 +46,29 @@
             <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'house-user']" size="7x"></font-awesome>
             </div>
-            <h3 class="text-3xl mb-4 text-center">Triumph</h3>
+            <h3 class="text-3xl mb-4 text-center">Victoria</h3>
             <p class="mb-0">
-              If we test and track, we can make sure that only sick people have to self-isolate. We can ease social distancing restrictions and help Kansas City come back better
-              than before.
+              Si nos hacemos pruebas y rastreamos, podremos asegurarnos de que solo las personas enfermas tengan que auto aislarse. Podremos aliviar las restricciones de
+              distanciamiento social y ayudar a que Kansas City regrese mejor que antes.
             </p>
           </div>
         </template>
       </ThreeColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4 lg:px-4">Fight COVID-19 With Your Phone</h2>
+      <h2 class="text-3xl px-4 lg:px-4">Lucha contra el COVID-19 con tu teléfono</h2>
     </OneColumnSection>
     <TwoColumnSection order="reversed">
       <template v-slot:column1>
         <div class="px-4 md:pr-16 pb-16">
           <p>
-            Safe. Secure. Private. COVID Safe Paths, a free app, lets you see where you’ve been and alerts you if you've been exposed to COVID-19.
+            A salvo. Seguro. Privado. COVID Safe Paths (COVID Caminos Seguros), una aplicación móvil gratuita, que te permite ver dónde has estado y te alerta si has estado
+            expuesto al COVID-19.
           </p>
           <ul class="list-disc ml-5 mb-8">
-            <li>Find out if you’ve been exposed</li>
-            <li>Privately log your location</li>
-            <li>Completely control your data</li>
+            <li>Averigua si has estado expuesto</li>
+            <li>Registra tu ubicación de forma privada</li>
+            <li>Controla completamente tus datos personales</li>
           </ul>
           <p>
             <a id="play-store-download" href="https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths&hl=en_US" target="_blank">
@@ -78,7 +79,7 @@
             </a>
           </p>
           <p class="mb-16">
-            <a href="https://covidsafepaths.org/" target="_blank" class="underline text-comebackkc-darkblue">Learn more about the COVID Safe Paths app</a>
+            <a href="https://covidsafepaths.org/" target="_blank" class="underline text-comebackkc-darkblue">Obtén más información de la aplicación móvil COVID Safe Paths</a>
           </p>
         </div>
       </template>
@@ -92,12 +93,12 @@
       <TwoColumnSection>
         <template v-slot:column1>
           <div class="px-4 py-16 md:py-32 md:pr-16">
-            <h2 class="text-3xl mb-4">Get Started</h2>
+            <h2 class="text-3xl mb-4">Cómo Empezar</h2>
             <p>
-              Find out about testing options and other initiatives in your area through your local health department.
+              Infórmate sobre opciones para pruebas en tu área a través de tu departamento de salud local.
             </p>
             <p>
-              And, if you are feeling sick, call your healthcare provider first.
+              Y, si te sientes enfermo, llama primero a tu proveedor de atención médica.
             </p>
           </div>
         </template>
@@ -237,25 +238,26 @@
       </TwoColumnSection>
     </div>
     <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4">Health Inequities</h2>
+      <h2 class="text-3xl px-4">Desigualdades en Salud</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
         <div class="px-4 md:pr-16">
           <p>
-            The COVID-19 pandemic has not impacted all communities in our region equally. The Black, Latino/Hispanic and Native communities have shouldered an undue burden in these
-            challenging times. Comeback KC is committed to providing testing, tracking, and support resources to the communities that need them the most. As we reopen and rebuild
-            our economy, we can't just go back to normal, we have to take this opportunity to build a better, fairer Kansas City.
+            Sabemos que el COVID-19 no ha afectado a todas las comunidades de nuestra región por igual. Las comunidades Afroamericanas, Hispanas y Nativas Americanas han sido
+            especialmente afectadas. Regresa KC está comprometido a asegurar de que las pruebas, el rastreo y los recursos de soporte se dirijan a las comunidades que más los
+            necesitan. A medida que abrimos y reconstruimos nuestra economía, no podemos volver a la normalidad, tenemos que aprovechar esta oportunidad para construir una mejor y
+            justa Kansas City.
           </p>
         </div>
       </template>
       <template v-slot:column2>
         <div class="px-4 md:px-16">
           <ul class="list-disc ml-5 mb-4">
-            <li>About 44% of KCMO's COVID-19 cases are Black, but the Black population makes up just 30% of the population</li>
-            <li>In Wyandotte County, Black people represent 53% of the COVID-19 deaths but just 23% of the population</li>
-            <li>Nationally, Black and Latino/Hispanic populations are dying at higher rates than their white neighbors</li>
-            <li>The Navajo Nation alone has experienced the 3rd highest infection rate outside of New York and New Jersey</li>
+            <li>Alrededor del 44% de los casos de COVID-19 de KC son Afroamericanos, pero las personas Afroamericanas representan solo el 30% de la población de KC.</li>
+            <li>En el Condado de Wyandotte, las personas Afroamericanas representan el 53% de las muertas por el COVID-19 pero solo el 23% de la población.</li>
+            <li>A nivel nacional, las personas Afroamericanas e Hispanas mueren a tasas más altas que sus vecinos Anglos.</li>
+            <li>Solamente La Nación Navajo ha experimentado la tercera tasa de infección más alta fuera de Nueva York y Nueva Jersey.</li>
           </ul>
         </div>
       </template>
@@ -264,10 +266,10 @@
       <TwoColumnSection columnTwoColor="bg-comebackkc-red" columnTwoImage="/images/marc-map-bg.png">
         <template v-slot:column1>
           <div class="px-4 md:pr-16 py-16 md:py-32 text-white bg-comebackkc-darkblue h-full">
-            <h2 class="text-3xl mb-4">Stay Informed</h2>
+            <h2 class="text-3xl mb-4">MANTENTE INFORMADO</h2>
             <p class="leading-relaxed text-xl">
-              We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools,
-              and opportunities to fight COVID-19.
+              Recién empezamos. Este sitio se actualizará con frecuencia con información nueva. Suscríbete a nuestra lista de correo electrónico para recibir actualizaciones sobre
+              la disponibilidad de pruebas, herramientas de detección y oportunidades para luchar contra COVID-19.
             </p>
             <div class="leading-relaxed text-xl">
               <mailchimp-subscribe
@@ -303,12 +305,13 @@
         </template>
         <template v-slot:column2>
           <div class="px-4 md:px-16 py-16 md:py-32 text-white h-full">
-            <h2 class="text-3xl mb-4">KC COVID-19 Information</h2>
+            <h2 class="text-3xl mb-4">Información de KC COVID-19</h2>
             <p class="leading-relaxed text-xl">
-              For more information on the impact of COVID-19 in the Kansas City region, check out
-              <a class="text-comebackkc-darkblue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank"
-                >MARC's KC COVID dashboard</a
-              >.
+              Para obtener más información sobre el impacto de COVID-19 en la región de Kansas City, consulta
+              <a class="text-comebackkc-darkblue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">
+                la sección de KC COVID en la página de MARC
+              </a>
+              .
             </p>
           </div>
         </template>
@@ -317,7 +320,7 @@
     <div class="bg-comebackkc-black">
       <OneColumnSection class="py-16 md:py-24 text-white">
         <div class="px-4">
-          <h2 class="text-3xl mb-4">FAQs</h2>
+          <h2 class="text-3xl mb-4">PP. FF.</h2>
           <div v-for="faq in $page.faqs.edges" :key="faq.question" class="mb-8">
             <AccordionItem class="border-b border-white pb-8" title-classes="font-bold text-2xl">
               <template v-slot:title>{{ faq.node.question }}</template>

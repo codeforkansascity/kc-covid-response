@@ -1,11 +1,11 @@
 ---
 title: Noticias de Regresa KC
-metaDescription: Comeback KC is in the news.
-teaser: We've compiled all the area reopening plans and put them in one convenient page, so you can find guidance about how each jurisdiction in the Kansas City region is handling reopening.
+metaDescription: Noticias de Regresa KC
+teaser: Hemos compilado todos los planes de reapertura del área y los hemos puesto en una página para que los puedas encontrar fácilmente. En los mismos encontraras orientación sobre como cada jurisdicción en la región de Kansas City está procesando la reapertura.
 date: 2020-05-12T08:30:00.040Z
 language: es
 ---
 
-We've compiled all the area reopening plans and put them in one convenient page, so you can find guidance about how each jurisdiction in the Kansas City region is handling reopening.
+Hemos compilado todos los planes de reapertura del área y los hemos puesto en una página para que los puedas encontrar fácilmente. En los mismos encontraras orientación sobre como cada jurisdicción en la región de Kansas City está procesando la reapertura.
 
-Find the COVID-19 recovery plan for your part of Kansas City on our new [Resources Page](/covid-19-resources).
+Encuentra el plan de recuperación COVID-19 para la región tuya en Kansas City en nuestra nueva página de [Recursos](/es/covid-19-resources).
