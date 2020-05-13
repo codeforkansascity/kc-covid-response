@@ -417,7 +417,7 @@ export default {
 
 <page-query>
 query {
-  faqs: allFaq(filter: { language: { eq: "es" }}, sortBy: "order", order: ASC) {
+  faqs: allFaq(filter: { language: { eq: "en" }}, sortBy: "order", order: ASC) {
     edges {
       node {
         question
