@@ -1,16 +1,22 @@
 <template>
   <div class="flex items-center h-full">
-    <div class="hidden md:flex px-4 container mx-auto items-center justify-between">
+    <div class="hidden md:flex h-full px-4 container mx-auto items-center justify-between">
       <div class="w-1/2 flex items-center justify-start">
-        <g-link to="/"><img class="h-32" src="/images/site-logo.png" alt="Comeback KC logo"/></g-link>
+        <g-link :to="homePageUrl"><img class="h-32" src="/images/site-logo.png" alt="Comeback KC logo"/></g-link>
       </div>
-      <nav class="flex w-1/2 items-center justify-end">
-        <ul class="inline-flex">
-          <li v-for="nav in $static.nav_items.edges[0].node.nav_items" :key="nav.path" class="mr-4">
-            <g-link class="text-white uppercase underline font-semibold" :to="nav.path">{{ nav.label }}</g-link>
-          </li>
-        </ul>
-      </nav>
+      <div class="flex flex-col w-1/2 h-full py-4 items-end justify-between">
+        <div class="h-1/3">
+          <g-link class="text-white uppercase underline font-semibold" :to="otherLanguageLink">{{ otherLanguageLabel }}</g-link>
+        </div>
+        <nav class="h-1/3">
+          <ul class="inline-flex">
+            <li v-for="(nav, index) in navItems()" :key="nav.path" :class="{ 'mr-4': index != navItems().length - 1 }">
+              <g-link class="text-white uppercase underline font-semibold" :to="nav.path">{{ nav.label }}</g-link>
+            </li>
+          </ul>
+        </nav>
+        <div class="h-1/3"></div>
+      </div>
     </div>
     <div class="flex md:hidden w-full items-center justify-end">
       <div class="flex px-4 container mx-auto items-center justify-between">
@@ -27,12 +33,10 @@
     <div v-if="open" class="fixed top-20 left-0 w-full h-full overflow-auto bg-comebackkc-darkblue">
       <nav>
         <ul class="flex flex-col items-center">
-          <li
-            v-for="(nav, index) in $static.nav_items.edges[0].node.nav_items"
-            :key="nav.path"
-            class="py-8 border-b border-m4m-gray w-full text-center"
-            :class="{ 'border-t': index === 0 }"
-          >
+          <li class="py-8 border-b border-m4m-gray w-full text-center border-t">
+            <g-link class="text-white uppercase underline font-semibold" :to="otherLanguageLink">{{ otherLanguageLabel }}</g-link>
+          </li>
+          <li v-for="nav in navItems()" :key="nav.path" class="py-8 border-b border-m4m-gray w-full text-center">
             <g-link class="text-white uppercase underline font-semibold" :to="nav.path">{{ nav.label }}</g-link>
           </li>
         </ul>
@@ -46,15 +50,32 @@
 import SiteFooter from '@/components/SiteFooter.vue'
 
 export default {
+  props: {
+    language: String
+  },
   components: { SiteFooter },
   data() {
     return {
       open: false
     }
   },
+  computed: {
+    homePageUrl() {
+      return this.language == 'es' ? '/es' : '/'
+    },
+    otherLanguageLink() {
+      return this.language == 'es' ? '/' : '/es'
+    },
+    otherLanguageLabel() {
+      return this.language == 'es' ? 'English' : 'Español'
+    }
+  },
   methods: {
     toggle() {
       this.open = !this.open
+    },
+    navItems() {
+      return this.language == 'es' ? this.$static.es_nav_items.edges[0].node.nav_items : this.$static.en_nav_items.edges[0].node.nav_items
     }
   },
   mounted() {
@@ -65,7 +86,17 @@ export default {
 
 <static-query>
 query {
-  nav_items: allSettings(filter: {path: {eq: "/data/settings/main-nav/"}}) {
+  en_nav_items: allSettings(filter: {path: {eq: "/data/settings/main-nav/"}}) {
+    edges {
+      node {
+       nav_items {
+        label
+        path
+      } 
+      }
+    }
+  }
+  es_nav_items: allSettings(filter: {path: {eq: "/data/settings/main-nav-es/"}}) {
     edges {
       node {
        nav_items {

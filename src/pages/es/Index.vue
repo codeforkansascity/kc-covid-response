@@ -1,5 +1,5 @@
 <template>
-  <Layout>
+  <Layout language="es">
     <PageHeader image="/images/kc-skyline-bg.jpg">
       <template v-slot:title>
         Regresa KC
@@ -334,7 +334,7 @@
     </div>
     <OneColumnSection>
       <div class="py-8 md:py-16 px-4">
-        <h2 class="text-3xl mb-4 text-center">In Coordination With These Area Health Departments</h2>
+        <h2 class="text-3xl mb-4 text-center">EN COORDINACIÓN CON LOS DEPARTAMENTOS DE SALUD DE NUESTRA COMUNIDAD</h2>
         <div class="flex flex-wrap items-center justify-around">
           <a href="https://www.wycokck.org/Health.aspx" class="px-8 py-4" target="_blank">
             <g-image src="~/images/wyandotte-county-public-health-logo.png" width="200" alt="Wyandotte County Public Health" />
@@ -350,8 +350,8 @@
     </OneColumnSection>
     <OneColumnSection>
       <div class="pb-8 md:pb-16 px-4">
-        <h2 class="text-3xl mb-8 text-center">Brought To You By</h2>
-        <p class="text-center mb-8">This campaign is a collaboration between many Kansas City organizations. They include:</p>
+        <h2 class="text-3xl mb-8 text-center">TRAÍDO A USTED POR</h2>
+        <p class="text-center mb-8">Esta campaña es una colaboración entre muchas organizaciones de Kansas City que incluyen:</p>
         <div class="flex flex-wrap items-center justify-around">
           <a href="https://www.c19kc.org/" class="px-8 py-4" target="_blank"><g-image src="~/images/c19kc-logo.png" width="200" alt="C19KC logo"/></a>
           <a href="https://www.idealect.is/" class="px-8 py-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="200" alt="Idealect company logo"/></a>

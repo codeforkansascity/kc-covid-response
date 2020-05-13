@@ -1,5 +1,5 @@
 <template>
-  <Layout>
+  <Layout language="es">
     <PageHeader image="/images/kc-skyline-bg.jpg">
       <template v-slot:title>
         Actualizaciones

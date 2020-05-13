@@ -18,7 +18,7 @@
       </div>
       <div>
         <ul class="flex flex-col md:flex-row justify-between items-center mb-0">
-          <li v-for="nav in $static.nav_items.edges[0].node.nav_items" :key="nav.path">
+          <li v-for="nav in navItems()" :key="nav.path">
             <g-link :to="nav.path" class="font-semibold uppercase underline mr-4">{{ nav.label }}</g-link>
           </li>
         </ul>
@@ -27,9 +27,32 @@
   </div>
 </template>
 
+<script>
+export default {
+  props: {
+    language: String
+  },
+  methods: {
+    navItems() {
+      return this.language == 'es' ? this.$static.es_nav_items.edges[0].node.nav_items : this.$static.en_nav_items.edges[0].node.nav_items
+    }
+  }
+}
+</script>
+
 <static-query>
 query {
-  nav_items: allSettings(filter: {path: {eq: "/data/settings/footer-nav/"}}) {
+  en_nav_items: allSettings(filter: {path: {eq: "/data/settings/footer-nav/"}}) {
+    edges {
+      node {
+       nav_items {
+        label
+        path
+      } 
+      }
+    }
+  }
+  es_nav_items: allSettings(filter: {path: {eq: "/data/settings/footer-nav-es/"}}) {
     edges {
       node {
        nav_items {
