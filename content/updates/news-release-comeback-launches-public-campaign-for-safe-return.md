@@ -1,5 +1,5 @@
 ---
-title: NEWS RELEASE - Comeback Launches Public Campaign for Safe Return
+title: NEWS RELEASE - Comeback KC Launches
 metaDescription: Comeback KC provides facts and resources to help Kansas Citians
   return safely and responsibly
 teaser: 5/14/2020 - Kansas City, Mo. -- As a nearly two-month shelter-in-place
