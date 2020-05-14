@@ -2,7 +2,7 @@
 title: Missouri Plan
 metaDescription: Missouri Show Me Strong Recovery Plan
 thumbnail: /uploads/show-me-strong-logo.png
-date: 2020-05-14T18:46:31.292Z
+date: 2020-05-04T18:46:31.292Z
 organization: Missouri
 link: https://showmestrong.mo.gov/
 ---
