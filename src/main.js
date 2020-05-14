@@ -30,6 +30,10 @@ export default function(Vue, { router, head, isClient }) {
     return content.replace(/<\/?[^>]+(>|$)/g, '')
   })
 
+  head.script.push({
+    src: 'https://awesome-table.com/AwesomeTableInclude.js'
+  })
+
   // Add default meta data
   head.meta.push(
     {
