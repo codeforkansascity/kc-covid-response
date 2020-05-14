@@ -6,7 +6,9 @@
       </div>
       <div class="flex flex-col w-1/2 h-full py-4 items-end justify-between">
         <div class="h-1/3">
-          <g-link class="text-white uppercase underline font-semibold" :to="otherLanguageLink">{{ otherLanguageLabel }}</g-link>
+          <g-link class="text-white uppercase underline font-semibold text-sm" :to="otherLanguageLink">
+            <font-awesome class="mr-2" :icon="['fal', 'globe']"></font-awesome>{{ otherLanguageLabel }}
+          </g-link>
         </div>
         <nav class="h-1/3">
           <ul class="inline-flex">
@@ -34,7 +36,9 @@
       <nav>
         <ul class="flex flex-col items-center">
           <li class="py-8 border-b border-m4m-gray w-full text-center border-t">
-            <g-link class="text-white uppercase underline font-semibold" :to="otherLanguageLink">{{ otherLanguageLabel }}</g-link>
+            <g-link class="text-white uppercase underline font-semibold" :to="otherLanguageLink">
+              <font-awesome class="mr-2" :icon="['fal', 'globe']"></font-awesome>{{ otherLanguageLabel }}
+            </g-link>
           </li>
           <li v-for="nav in navItems()" :key="nav.path" class="py-8 border-b border-m4m-gray w-full text-center">
             <g-link class="text-white uppercase underline font-semibold" :to="nav.path">{{ nav.label }}</g-link>
