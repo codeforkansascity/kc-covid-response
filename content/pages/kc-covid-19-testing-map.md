@@ -1,5 +1,5 @@
 ---
-title: KC COVID-19 Testing Map
+title: KCTesting
 metaDescription: Map of COVID-19 Locations in Kansas City Metro
 ---
 <script src="https://awesome-table.com/AwesomeTableInclude.js"></script>
