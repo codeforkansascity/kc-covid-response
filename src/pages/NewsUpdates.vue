@@ -17,7 +17,7 @@
     </OneColumnSection>
     <FullWidthSection v-for="(update, index) in $page.updates.edges" :key="update.title" class="py-8 md:py-16" :class="{ 'bg-comebackkc-light-gray': index % 2 !== 0 }">
       <div class="container mx-auto px-4">
-        <h3 class="text-3xl mb-4" v-html="update.node.title"></h3>
+        <g-link :to="update.node.path"><h3 class="text-3xl mb-4" v-html="update.node.title"></h3></g-link>
         <div v-html="styleRawHTML(update.node.teaser)"></div>
         <p class="mb-8 mt-4">
           <g-link class="text-white bg-comebackkc-red font-bold px-4 py-2 rounded-md" :to="update.node.path">
