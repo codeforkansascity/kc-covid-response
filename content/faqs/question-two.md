@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 4
 question: Who will have access to my personal/health information? How will they use it?
 language: en
 ---

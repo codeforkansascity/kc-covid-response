@@ -1,7 +1,7 @@
 ---
 title: KC Chamber, KCADC, MARC, Civic Council
 metaDescription: Johnson County Plan
-thumbnail: /uploads/favicon1.png
+thumbnail: /uploads/news.jpg
 date: 2020-04-29T14:54:22.346Z
 organization: KC Chamber, KCADC, MARC, Civic Council
 link: https://www.kcchamber.com/sites/default/files/2020-04/SafeReturn-GUIDE.pdf

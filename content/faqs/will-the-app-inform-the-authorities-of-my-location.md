@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 5
 question: Will the app inform the authorities of my location?
 language: en
 ---
