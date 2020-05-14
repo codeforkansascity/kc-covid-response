@@ -18,7 +18,7 @@ Contact: [Jason Harper](mailto:jason@helixhealth.us)
 
 [Comeback KC](https://www/comebackkc.com) is a public service communications campaign that aims to provide a single source of information on COVID for the entire metro, in an inspiring way. The brainchild of business, nonprofit and public health leaders, ComebackKC is encouraging people to engage in testing, contact tracing and other COVID-19 precautions to reopen the economy the right way — safely and responsibly.
 
-The team has launched a website at comebackkc.com to collect regional news about COVID-19 along with recommendations from local health officials for how to reopen safely. This Friday, May 15, Comeback KC encourages people to recognize the importance of wearing a mask by taking to Instagram for a Virtual Mask Party \[link to blog].    
+The team has launched a website at comebackkc.com to collect regional news about COVID-19 along with recommendations from local health officials for how to reopen safely. This Friday, May 15, Comeback KC encourages people to recognize the importance of wearing a mask by taking to Instagram for a Virtual Mask Party.    
 
 In addition to mask-wearing Comeback KC advocates for widespread testing and contact tracing.
 
