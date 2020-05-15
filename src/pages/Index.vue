@@ -334,19 +334,19 @@
         <h2 class="text-3xl mb-4 text-center">In Coordination With These Area Health Departments</h2>
         <div class="flex flex-wrap items-center justify-around">
           <a href="https://www.kcmo.gov/city-hall/departments/health" class="px-12 py-4" target="_blank">
-            <g-image src="~/images/kcmo-public-health-logo.png" width="150" alt="KCMO Public Health" />
+            <g-image src="~/images/kcmo-public-health-logo.png" width="120" alt="KCMO Public Health" />
           </a>
           <a href="https://www.jacohd.org/" class="px-12 py-4" target="_blank">
-            <g-image src="~/images/jackson-county-health-department-logo.png" width="150" alt="Jackson County Health Department" />
+            <g-image src="~/images/jackson-county-health-department-logo.png" width="120" alt="Jackson County Health Department" />
           </a>
           <a href="https://www.wycokck.org/Health.aspx" class="px-12 py-4" target="_blank">
-            <g-image src="~/images/wyandotte-county-public-health-logo.png" width="150" alt="Wyandotte County Public Health" />
+            <g-image src="~/images/wyandotte-county-public-health-logo.png" width="120" alt="Wyandotte County Public Health" />
           </a>
           <a href="https://www.jocogov.org/dept/health-and-environment/home" class="px-12 py-4" target="_blank">
-            <g-image src="~/images/johnson-county-health-environment-logo.png" width="150" alt="Johnson County Health and Environment" />
+            <g-image src="~/images/johnson-county-health-environment-logo.png" width="120" alt="Johnson County Health and Environment" />
           </a>
           <a href="https://www.plattecountyhealthdept.com/" class="px-12 py-4" target="_blank">
-            <g-image src="~/images/platte-county-health-department-logo.jpg" width="150" alt="Platte County Health Department" />
+            <g-image src="~/images/platte-county-health-department-logo.png" width="120" alt="Platte County Health Department" />
           </a>
         </div>
       </div>
@@ -356,15 +356,15 @@
         <h2 class="text-3xl mb-8 text-center">Brought To You By</h2>
         <p class="text-center mb-8">This campaign is a collaboration between many Kansas City organizations. They include:</p>
         <div class="flex flex-wrap items-center justify-around">
-          <a href="https://www.c19kc.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/c19kc-logo.png" width="150" alt="C19KC logo"/></a>
+          <a href="https://www.c19kc.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/c19kc-logo.png" width="120" alt="C19KC logo"/></a>
           <a href="https://www.bluekc.com/" class="px-12 py-4" target="_blank">
             <g-image src="~/images/blue-cross-blue-shield-logo.png" width="180" alt="Blue Cross Blue Shield KCs logo" />
           </a>
-          <a href="https://www.marc.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/marc-logo.jpg" width="150" alt="Mid-America Regional Council logo"/></a>
-          <a href="https://ticoproductions.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/tico-logo.png" width="150" alt="Tico Productions company logo"/></a>
-          <a href="https://www.idealect.is/" class="px-12 py-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="150" alt="Idealect company logo"/></a>
-          <a href="https://www.kcdigitaldrive.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/kcdd-logo.png" width="150" alt="KC Digital Drive company logo"/></a>
-          <a href="https://www.vmlyr.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="150" alt="VMLY&R company logo"/></a>
+          <a href="https://www.marc.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/marc-logo.jpg" width="120" alt="Mid-America Regional Council logo"/></a>
+          <a href="https://ticoproductions.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/tico-logo.png" width="120" alt="Tico Productions company logo"/></a>
+          <a href="https://www.idealect.is/" class="px-12 py-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="120" alt="Idealect company logo"/></a>
+          <a href="https://www.kcdigitaldrive.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/kcdd-logo.png" width="120" alt="KC Digital Drive company logo"/></a>
+          <a href="https://www.vmlyr.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="120" alt="VMLY&R company logo"/></a>
         </div>
       </div>
     </OneColumnSection>
