@@ -1,6 +1,7 @@
 ---
 title: KC Covid Testing Locations
 metaDescription: Map of locations for COVID-19 testing in the Kansas City metro area
+language: en
 ---
 This map shows locations where you may be able to get testing for COVID-19 in Kansas City. Please click on the location pin on the map to see details about who can get a test and how to start the process. Each site has different criteria and processes.  \
 \

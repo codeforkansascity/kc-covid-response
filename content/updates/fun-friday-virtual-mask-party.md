@@ -3,6 +3,7 @@ title: "Fun Friday: Virtual Mask Party"
 metaDescription: Virtual Mask Party on Instagram Stories
 teaser: Show your support for mask-wearing this Friday with our Instagram story filter.
 date: 2020-05-15T02:43:20.165Z
+language: en
 ---
 To help spread the word about [Comeback KC](https://www.comebackkc.com/) and to encourage everyone to wear a face mask when out in public, we're hosting a virtual mask party on Instagram.
 

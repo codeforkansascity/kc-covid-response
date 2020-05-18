@@ -8,6 +8,7 @@ teaser: 5/14/2020 - Kansas City, Mo. -- As a nearly two-month shelter-in-place
   have to create a single source of public information about how to reopen the
   city amid a still clear and present risk from COVID-19.
 date: 2020-05-14T22:54:29.492Z
+language: en
 ---
 **FOR IMMEDIATE RELEASE** \
 Contact: [Jason Harper](mailto:jason@helixhealth.us)
