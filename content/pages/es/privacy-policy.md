@@ -3,7 +3,7 @@ language: es
 title: Política de Privacidad
 metaDescription: Read the privacy policy for COMEBACK KC here.
 ---
-Last updated: 5/30/2020
+Last updated: 4/30/2020
 
 C19KC ("us", "we", or "our") operates <http://www.comebackkc.com> (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
