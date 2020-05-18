@@ -9,7 +9,7 @@
       </template>
     </PageHeader>
     <OneColumnSection class="px-4 mt-8 md:mt-16">
-      <h2 class="text-4xl mb-8 md:mb-16">Sitemap</h2>
+      <h2 class="mb-8 text-4xl md:mb-16">Sitemap</h2>
       <h3 class="text-3xl">Pages</h3>
       <div class="mb-8 md:mb-16">
         <p v-for="page in $page.pages.edges" :key="page.title">

@@ -9,7 +9,7 @@
       </template>
     </PageHeader>
     <OneColumnSection>
-      <div class="py-8 md:py-16 px-8 md:px-64">
+      <div class="px-8 py-8 md:py-16 md:px-64">
         <p class="text-xl text-center">
           Kansas City never quits. No matter the odds we always find a way to come together and overcome. Today is no different. Let's bring KC back the right way &mdash; safely
           and responsibly &mdash; to ensure that we come back better and stronger than ever.
@@ -19,22 +19,22 @@
     <div class="bg-gradient-darkblue-black">
       <ThreeColumnSection>
         <template v-slot:column1>
-          <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-darkblue h-full">
+          <div class="h-full px-4 py-16 text-center text-white md:py-32 md:px-16 bg-comebackkc-darkblue">
             <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
             </div>
-            <h3 class="text-3xl mb-4 text-center">Test</h3>
+            <h3 class="mb-4 text-3xl text-center">Test</h3>
             <p class="mb-0">
               With enough testing, we can understand the full extent of the pandemic in our region. That's why we are making more test kits available than ever before.
             </p>
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-red h-full">
+          <div class="h-full px-4 py-16 text-center text-white md:py-32 md:px-16 bg-comebackkc-red">
             <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
             </div>
-            <h3 class="text-3xl mb-4 text-center">Track</h3>
+            <h3 class="mb-4 text-3xl text-center">Track</h3>
             <p class="mb-0">
               Through apps built with your privacy in mind, our contact tracing team can help those sick with COVID-19 identify those they may have affected so they can be tested,
               too.
@@ -42,11 +42,11 @@
           </div>
         </template>
         <template v-slot:column3>
-          <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-black h-full">
+          <div class="h-full px-4 py-16 text-center text-white md:py-32 md:px-16 bg-comebackkc-black">
             <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'house-user']" size="7x"></font-awesome>
             </div>
-            <h3 class="text-3xl mb-4 text-center">Triumph</h3>
+            <h3 class="mb-4 text-3xl text-center">Triumph</h3>
             <p class="mb-0">
               If we test and track, we can make sure that only sick people have to self-isolate. We can ease social distancing restrictions and help Kansas City come back better
               than before.
@@ -55,16 +55,16 @@
         </template>
       </ThreeColumnSection>
     </div>
-    <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4 lg:px-4">Fight COVID-19 With Your Phone</h2>
+    <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
+      <h2 class="px-4 text-3xl lg:px-4">Fight COVID-19 With Your Phone</h2>
     </OneColumnSection>
     <TwoColumnSection order="reversed">
       <template v-slot:column1>
-        <div class="px-4 md:pr-16 pb-16">
+        <div class="px-4 pb-16 md:pr-16">
           <p>
             Safe. Secure. Private. COVID Safe Paths, a free app, lets you see where you’ve been and alerts you if you've been exposed to COVID-19.
           </p>
-          <ul class="list-disc ml-5 mb-8">
+          <ul class="mb-8 ml-5 list-disc">
             <li>Find out if you’ve been exposed</li>
             <li>Privately log your location</li>
             <li>Completely control your data</li>
@@ -83,7 +83,7 @@
         </div>
       </template>
       <template v-slot:column2>
-        <div class="px-4 pb-8 md:pb-0 h-full flex flex-col justify-end items-center">
+        <div class="flex flex-col items-center justify-end h-full px-4 pb-8 md:pb-0">
           <g-image class="" src="~/images/safe-paths-app-screens.png" alt="Safe Paths app screenshot" />
         </div>
       </template>
@@ -92,7 +92,7 @@
       <TwoColumnSection>
         <template v-slot:column1>
           <div class="px-4 py-16 md:py-32 md:pr-16">
-            <h2 class="text-3xl mb-4">Get Started</h2>
+            <h2 class="mb-4 text-3xl">Get Started</h2>
             <p>
               Find out about testing options and other initiatives in your area through your local health department.
             </p>
@@ -103,9 +103,9 @@
         </template>
         <template v-slot:column2>
           <div class="px-4 pb-16 md:py-32">
-            <h2 class="text-3xl mb-6">Local Health Departments</h2>
-            <div class="leading-relaxed text-xl">
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+            <h2 class="mb-6 text-3xl">Local Health Departments</h2>
+            <div class="text-xl leading-relaxed">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Cass County
                 </template>
@@ -114,7 +114,7 @@
                   <p><a href="https://www.casscounty.com/2450/COVID-19" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Clay County
                 </template>
@@ -128,7 +128,7 @@
                   </p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Jackson County
                 </template>
@@ -143,7 +143,7 @@
                   </p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Johnson County
                 </template>
@@ -162,7 +162,7 @@
                   </p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   KCMO
                 </template>
@@ -181,7 +181,7 @@
                   </p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Leavenworth County
                 </template>
@@ -190,7 +190,7 @@
                   <p><a href="https://www.leavenworthcounty.gov/covid/" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Miami County
                 </template>
@@ -199,7 +199,7 @@
                   <p><a href="https://www.miamicountyks.org/AlertCenter.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Platte County
                 </template>
@@ -208,7 +208,7 @@
                   <p><a href="https://www.plattecountyhealthdept.com/emergency.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Wyandotte County
                 </template>
@@ -236,8 +236,8 @@
         </template>
       </TwoColumnSection>
     </div>
-    <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4">Health Inequities</h2>
+    <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
+      <h2 class="px-4 text-3xl">Health Inequities</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
@@ -251,7 +251,7 @@
       </template>
       <template v-slot:column2>
         <div class="px-4 md:px-16">
-          <ul class="list-disc ml-5 mb-4">
+          <ul class="mb-4 ml-5 list-disc">
             <li>About 44% of KCMO's COVID-19 cases are Black, but the Black population makes up just 30% of the population</li>
             <li>In Wyandotte County, Black people represent 53% of the COVID-19 deaths but just 23% of the population</li>
             <li>Nationally, Black and Latino/Hispanic populations are dying at higher rates than their white neighbors</li>
@@ -263,13 +263,13 @@
     <div class="bg-gradient-darkblue-red">
       <TwoColumnSection columnTwoColor="bg-comebackkc-red" columnTwoImage="/images/marc-map-bg.png">
         <template v-slot:column1>
-          <div class="px-4 md:pr-16 py-16 md:py-32 text-white bg-comebackkc-darkblue h-full">
-            <h2 class="text-3xl mb-4">Stay Informed</h2>
-            <p class="leading-relaxed text-xl">
+          <div class="h-full px-4 py-16 text-white md:pr-16 md:py-32 bg-comebackkc-darkblue">
+            <h2 class="mb-4 text-3xl">Stay Informed</h2>
+            <p class="text-xl leading-relaxed">
               We’re just getting started. This site will be updated frequently with new info. Subscribe to our email list for updates about testing availability, screening tools,
               and opportunities to fight COVID-19.
             </p>
-            <div class="leading-relaxed text-xl">
+            <div class="text-xl leading-relaxed">
               <mailchimp-subscribe
                 url="https://comebackkc.us8.list-manage.com/subscribe/post-json"
                 user-id="29e20716727b79f181330a1a0"
@@ -285,9 +285,9 @@
                       @input="setEmail($event.target.value)"
                       placeholder="Email address"
                       aria-label="Email address"
-                      class="text-comebackkc-black border border-comebackkc-gray h-12 rounded px-4 md:mr-4 w-full md:w-auto"
+                      class="w-full h-12 px-4 border rounded text-comebackkc-black border-comebackkc-gray md:mr-4 md:w-auto"
                     />
-                    <button type="submit" class="px-4 py-2 mt-4 md:mt-0 rounded bg-comebackkc-red text-white">
+                    <button type="submit" class="px-4 py-2 mt-4 text-white rounded md:mt-0 bg-comebackkc-red">
                       Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
                     </button>
                     <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error, 'white')"></span></div>
@@ -302,11 +302,11 @@
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-4 md:px-16 py-16 md:py-32 text-white h-full">
-            <h2 class="text-3xl mb-4">KC COVID-19 Information</h2>
-            <p class="leading-relaxed text-xl">
+          <div class="h-full px-4 py-16 text-white md:px-16 md:py-32">
+            <h2 class="mb-4 text-3xl">KC COVID-19 Information</h2>
+            <p class="text-xl leading-relaxed">
               For more information on the impact of COVID-19 in the Kansas City region, check out
-              <a class="text-comebackkc-darkblue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank"
+              <a class="underline text-comebackkc-darkblue" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank"
                 >MARC's KC COVID dashboard</a
               >.
             </p>
@@ -315,11 +315,11 @@
       </TwoColumnSection>
     </div>
     <div class="bg-comebackkc-black">
-      <OneColumnSection class="py-16 md:py-24 text-white">
+      <OneColumnSection class="py-16 text-white md:py-24">
         <div class="px-4">
-          <h2 class="text-3xl mb-4">FAQs</h2>
+          <h2 class="mb-4 text-3xl">FAQs</h2>
           <div v-for="faq in $page.faqs.edges" :key="faq.question" class="mb-8">
-            <AccordionItem class="border-b border-white pb-8" title-classes="font-bold text-2xl">
+            <AccordionItem class="pb-8 border-b border-white" title-classes="font-bold text-2xl">
               <template v-slot:title>{{ faq.node.question }}</template>
               <template v-slot:body
                 ><span v-html="styleRawHTML(faq.node.content, 'white')"></span
@@ -330,8 +330,8 @@
       </OneColumnSection>
     </div>
     <OneColumnSection>
-      <div class="py-8 md:py-16 px-4">
-        <h2 class="text-3xl mb-4 text-center">In Coordination With These Area Health Departments</h2>
+      <div class="px-4 py-8 md:py-16">
+        <h2 class="mb-4 text-3xl text-center">In Coordination With These Area Health Departments</h2>
         <div class="flex flex-wrap items-center justify-around">
           <a href="https://www.kcmo.gov/city-hall/departments/health" class="px-12 py-4" target="_blank">
             <g-image src="~/images/kcmo-public-health-logo.png" width="120" alt="KCMO Public Health" />
@@ -352,9 +352,9 @@
       </div>
     </OneColumnSection>
     <OneColumnSection>
-      <div class="pb-8 md:pb-16 px-4">
-        <h2 class="text-3xl mb-8 text-center">Brought To You By</h2>
-        <p class="text-center mb-8">This campaign is a collaboration between many Kansas City organizations. They include:</p>
+      <div class="px-4 pb-8 md:pb-16">
+        <h2 class="mb-8 text-3xl text-center">Brought To You By</h2>
+        <p class="mb-8 text-center">This campaign is a collaboration between many Kansas City organizations. They include:</p>
         <div class="flex flex-wrap items-center justify-around">
           <a href="https://www.c19kc.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/c19kc-logo.png" width="120" alt="C19KC logo"/></a>
           <a href="https://www.bluekc.com/" class="px-12 py-4" target="_blank">

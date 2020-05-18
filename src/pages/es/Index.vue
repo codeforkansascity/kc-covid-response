@@ -9,7 +9,7 @@
       </template>
     </PageHeader>
     <OneColumnSection>
-      <div class="py-8 md:py-16 px-8 md:px-64">
+      <div class="px-8 py-8 md:py-16 md:px-64">
         <p class="text-xl text-center">
           Kansas City nunca se rinde. Sin importar las situaciones, siempre encontramos una manera de unirnos y superarlas. Hoy no es diferente. Regresemos a nuestra KC de manera
           correcta, de manera segura y responsable, para garantizar que todos volvamos mejor y más fuertes que nunca.
@@ -19,22 +19,22 @@
     <div class="bg-gradient-darkblue-black">
       <ThreeColumnSection>
         <template v-slot:column1>
-          <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-darkblue h-full">
+          <div class="h-full px-4 py-16 text-center text-white md:py-32 md:px-16 bg-comebackkc-darkblue">
             <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
             </div>
-            <h3 class="text-3xl mb-4 text-center">Prueba</h3>
+            <h3 class="mb-4 text-3xl text-center">Prueba</h3>
             <p class="mb-0">
               Con suficientes pruebas, podemos entender el alcance total de la pandemia en nuestra región. Por eso es que estamos haciendo más kits de prueba disponibles que nunca.
             </p>
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-red h-full">
+          <div class="h-full px-4 py-16 text-center text-white md:py-32 md:px-16 bg-comebackkc-red">
             <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
             </div>
-            <h3 class="text-3xl mb-4 text-center">Rastreo</h3>
+            <h3 class="mb-4 text-3xl text-center">Rastreo</h3>
             <p class="mb-0">
               A través de aplicaciones móviles creadas que toman en cuenta tu privacidad, nuestro equipo de rastreo de contactos puede ayudar a las personas enfermas con COVID-19 a
               identificar a las personas que puedan haber sido afectadas, para que también puedan someterse a pruebas.
@@ -42,11 +42,11 @@
           </div>
         </template>
         <template v-slot:column3>
-          <div class="px-4 py-16 md:py-32 md:px-16 text-center text-white bg-comebackkc-black h-full">
+          <div class="h-full px-4 py-16 text-center text-white md:py-32 md:px-16 bg-comebackkc-black">
             <div class="mb-4">
               <font-awesome class="mb-4" :icon="['fal', 'house-user']" size="7x"></font-awesome>
             </div>
-            <h3 class="text-3xl mb-4 text-center">Victoria</h3>
+            <h3 class="mb-4 text-3xl text-center">Victoria</h3>
             <p class="mb-0">
               Si nos hacemos pruebas y rastreamos, podremos asegurarnos de que solo las personas enfermas tengan que auto aislarse. Podremos aliviar las restricciones de
               distanciamiento social y ayudar a que Kansas City regrese mejor que antes.
@@ -55,17 +55,17 @@
         </template>
       </ThreeColumnSection>
     </div>
-    <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4 lg:px-4">Lucha contra el COVID-19 con tu teléfono</h2>
+    <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
+      <h2 class="px-4 text-3xl lg:px-4">Lucha contra el COVID-19 con tu teléfono</h2>
     </OneColumnSection>
     <TwoColumnSection order="reversed">
       <template v-slot:column1>
-        <div class="px-4 md:pr-16 pb-16">
+        <div class="px-4 pb-16 md:pr-16">
           <p>
             A salvo. Seguro. Privado. COVID Safe Paths (COVID Caminos Seguros), una aplicación móvil gratuita, que te permite ver dónde has estado y te alerta si has estado
             expuesto al COVID-19.
           </p>
-          <ul class="list-disc ml-5 mb-8">
+          <ul class="mb-8 ml-5 list-disc">
             <li>Averigua si has estado expuesto</li>
             <li>Registra tu ubicación de forma privada</li>
             <li>Controla completamente tus datos personales</li>
@@ -84,7 +84,7 @@
         </div>
       </template>
       <template v-slot:column2>
-        <div class="px-4 pb-8 md:pb-0 h-full flex flex-col justify-end items-center">
+        <div class="flex flex-col items-center justify-end h-full px-4 pb-8 md:pb-0">
           <g-image class="" src="~/images/safe-paths-app-screens.png" alt="Safe Paths app screenshot" />
         </div>
       </template>
@@ -93,7 +93,7 @@
       <TwoColumnSection>
         <template v-slot:column1>
           <div class="px-4 py-16 md:py-32 md:pr-16">
-            <h2 class="text-3xl mb-4">Cómo Empezar</h2>
+            <h2 class="mb-4 text-3xl">Cómo Empezar</h2>
             <p>
               Infórmate sobre opciones para pruebas en tu área a través de tu departamento de salud local.
             </p>
@@ -104,9 +104,9 @@
         </template>
         <template v-slot:column2>
           <div class="px-4 pb-16 md:py-32">
-            <h2 class="text-3xl mb-6">Local Health Departments</h2>
-            <div class="leading-relaxed text-xl">
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+            <h2 class="mb-6 text-3xl">Local Health Departments</h2>
+            <div class="text-xl leading-relaxed">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Cass County
                 </template>
@@ -115,7 +115,7 @@
                   <p><a href="https://www.casscounty.com/2450/COVID-19" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Clay County
                 </template>
@@ -129,7 +129,7 @@
                   </p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Jackson County
                 </template>
@@ -144,7 +144,7 @@
                   </p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Johnson County
                 </template>
@@ -163,7 +163,7 @@
                   </p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   KCMO
                 </template>
@@ -182,7 +182,7 @@
                   </p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Leavenworth County
                 </template>
@@ -191,7 +191,7 @@
                   <p><a href="https://www.leavenworthcounty.gov/covid/" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Miami County
                 </template>
@@ -200,7 +200,7 @@
                   <p><a href="https://www.miamicountyks.org/AlertCenter.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Platte County
                 </template>
@@ -209,7 +209,7 @@
                   <p><a href="https://www.plattecountyhealthdept.com/emergency.aspx" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
                 </template>
               </AccordionItem>
-              <AccordionItem class="border-b border-comebackkc-gray pb-4 mb-4" title-classes="font-bold text-comebackkc-darkblue">
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
                   Wyandotte County
                 </template>
@@ -237,8 +237,8 @@
         </template>
       </TwoColumnSection>
     </div>
-    <OneColumnSection class="pt-16 md:pt-32 pb-4 md:pb-8">
-      <h2 class="text-3xl px-4">Desigualdades en Salud</h2>
+    <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
+      <h2 class="px-4 text-3xl">Desigualdades en Salud</h2>
     </OneColumnSection>
     <TwoColumnSection class="pb-16 md:pb-32">
       <template v-slot:column1>
@@ -253,7 +253,7 @@
       </template>
       <template v-slot:column2>
         <div class="px-4 md:px-16">
-          <ul class="list-disc ml-5 mb-4">
+          <ul class="mb-4 ml-5 list-disc">
             <li>Alrededor del 44% de los casos de COVID-19 de KC son Afroamericanos, pero las personas Afroamericanas representan solo el 30% de la población de KC.</li>
             <li>En el Condado de Wyandotte, las personas Afroamericanas representan el 53% de las muertas por el COVID-19 pero solo el 23% de la población.</li>
             <li>A nivel nacional, las personas Afroamericanas e Hispanas mueren a tasas más altas que sus vecinos Anglos.</li>
@@ -265,13 +265,13 @@
     <div class="bg-gradient-darkblue-red">
       <TwoColumnSection columnTwoColor="bg-comebackkc-red" columnTwoImage="/images/marc-map-bg.png">
         <template v-slot:column1>
-          <div class="px-4 md:pr-16 py-16 md:py-32 text-white bg-comebackkc-darkblue h-full">
-            <h2 class="text-3xl mb-4">MANTENTE INFORMADO</h2>
-            <p class="leading-relaxed text-xl">
+          <div class="h-full px-4 py-16 text-white md:pr-16 md:py-32 bg-comebackkc-darkblue">
+            <h2 class="mb-4 text-3xl">MANTENTE INFORMADO</h2>
+            <p class="text-xl leading-relaxed">
               Recién empezamos. Este sitio se actualizará con frecuencia con información nueva. Suscríbete a nuestra lista de correo electrónico para recibir actualizaciones sobre
               la disponibilidad de pruebas, herramientas de detección y oportunidades para luchar contra COVID-19.
             </p>
-            <div class="leading-relaxed text-xl">
+            <div class="text-xl leading-relaxed">
               <mailchimp-subscribe
                 url="https://comebackkc.us8.list-manage.com/subscribe/post-json"
                 user-id="29e20716727b79f181330a1a0"
@@ -287,9 +287,9 @@
                       @input="setEmail($event.target.value)"
                       placeholder="Email address"
                       aria-label="Email address"
-                      class="text-comebackkc-black border border-comebackkc-gray h-12 rounded px-4 md:mr-4 w-full md:w-auto"
+                      class="w-full h-12 px-4 border rounded text-comebackkc-black border-comebackkc-gray md:mr-4 md:w-auto"
                     />
-                    <button type="submit" class="px-4 py-2 mt-4 md:mt-0 rounded bg-comebackkc-red text-white">
+                    <button type="submit" class="px-4 py-2 mt-4 text-white rounded md:mt-0 bg-comebackkc-red">
                       Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
                     </button>
                     <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error, 'white')"></span></div>
@@ -304,11 +304,11 @@
           </div>
         </template>
         <template v-slot:column2>
-          <div class="px-4 md:px-16 py-16 md:py-32 text-white h-full">
-            <h2 class="text-3xl mb-4">Información de KC COVID-19</h2>
-            <p class="leading-relaxed text-xl">
+          <div class="h-full px-4 py-16 text-white md:px-16 md:py-32">
+            <h2 class="mb-4 text-3xl">Información de KC COVID-19</h2>
+            <p class="text-xl leading-relaxed">
               Para obtener más información sobre el impacto de COVID-19 en la región de Kansas City, consulta
-              <a class="text-comebackkc-darkblue underline" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">
+              <a class="underline text-comebackkc-darkblue" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">
                 la sección de KC COVID en la página de MARC
               </a>
               .
@@ -318,11 +318,11 @@
       </TwoColumnSection>
     </div>
     <div class="bg-comebackkc-black">
-      <OneColumnSection class="py-16 md:py-24 text-white">
+      <OneColumnSection class="py-16 text-white md:py-24">
         <div class="px-4">
-          <h2 class="text-3xl mb-4">PP. FF.</h2>
+          <h2 class="mb-4 text-3xl">PP. FF.</h2>
           <div v-for="faq in $page.faqs.edges" :key="faq.question" class="mb-8">
-            <AccordionItem class="border-b border-white pb-8" title-classes="font-bold text-2xl">
+            <AccordionItem class="pb-8 border-b border-white" title-classes="font-bold text-2xl">
               <template v-slot:title>{{ faq.node.question }}</template>
               <template v-slot:body
                 ><span v-html="styleRawHTML(faq.node.content, 'white')"></span
@@ -333,8 +333,8 @@
       </OneColumnSection>
     </div>
     <OneColumnSection>
-      <div class="py-8 md:py-16 px-4">
-        <h2 class="text-3xl mb-4 text-center">EN COORDINACIÓN CON LOS DEPARTAMENTOS DE SALUD DE NUESTRA COMUNIDAD</h2>
+      <div class="px-4 py-8 md:py-16">
+        <h2 class="mb-4 text-3xl text-center">EN COORDINACIÓN CON LOS DEPARTAMENTOS DE SALUD DE NUESTRA COMUNIDAD</h2>
         <div class="flex flex-wrap items-center justify-around">
           <a href="https://www.wycokck.org/Health.aspx" class="px-8 py-4" target="_blank">
             <g-image src="~/images/wyandotte-county-public-health-logo.png" width="200" alt="Wyandotte County Public Health" />
@@ -349,9 +349,9 @@
       </div>
     </OneColumnSection>
     <OneColumnSection>
-      <div class="pb-8 md:pb-16 px-4">
-        <h2 class="text-3xl mb-8 text-center">TRAÍDO A USTED POR</h2>
-        <p class="text-center mb-8">Esta campaña es una colaboración entre muchas organizaciones de Kansas City que incluyen:</p>
+      <div class="px-4 pb-8 md:pb-16">
+        <h2 class="mb-8 text-3xl text-center">TRAÍDO A USTED POR</h2>
+        <p class="mb-8 text-center">Esta campaña es una colaboración entre muchas organizaciones de Kansas City que incluyen:</p>
         <div class="flex flex-wrap items-center justify-around">
           <a href="https://www.c19kc.org/" class="px-8 py-4" target="_blank"><g-image src="~/images/c19kc-logo.png" width="200" alt="C19KC logo"/></a>
           <a href="https://www.idealect.is/" class="px-8 py-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="200" alt="Idealect company logo"/></a>

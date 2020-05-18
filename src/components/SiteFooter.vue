@@ -1,6 +1,6 @@
 <template>
-  <div class="h-32 container mx-auto content-center">
-    <div class="h-full px-4 text-white flex flex-col md:flex-row justify-around md:justify-between items-center">
+  <div class="container content-center h-32 mx-auto">
+    <div class="flex flex-col items-center justify-around h-full px-4 text-white md:flex-row md:justify-between">
       <div>
         <ul class="flex items-center mb-0">
           <li>
@@ -17,9 +17,9 @@
         </ul>
       </div>
       <div>
-        <ul class="flex flex-col md:flex-row justify-between items-center mb-0">
+        <ul class="flex flex-col items-center justify-between mb-0 md:flex-row">
           <li v-for="nav in navItems()" :key="nav.path">
-            <g-link :to="nav.path" class="font-semibold uppercase underline mr-4">{{ nav.label }}</g-link>
+            <g-link :to="nav.path" class="mr-4 font-semibold underline uppercase">{{ nav.label }}</g-link>
           </li>
         </ul>
       </div>

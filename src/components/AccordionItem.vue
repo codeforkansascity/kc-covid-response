@@ -21,15 +21,15 @@ export default {
   data() {
     return {
       open: false
-    };
+    }
   },
   methods: {
     toggle() {
-      this.open = !this.open;
+      this.open = !this.open
     }
   },
   mounted() {
-    this.open = this.isOpen;
+    this.open = this.isOpen
   }
-};
+}
 </script>

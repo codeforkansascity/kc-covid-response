@@ -1,18 +1,18 @@
 <template>
   <Layout>
-    <FullWidthSection class="md:h-screen-60 flex items-center" image="/images/kc-skyline-bg.jpg">
-      <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
-        <h1 class="text-white text-4xl md:text-10xl text-shadow" v-html="$page.basicPage.title"></h1>
+    <FullWidthSection class="flex items-center md:h-screen-60" image="/images/kc-skyline-bg.jpg">
+      <div class="container px-4 py-16 mx-auto text-center mx:pl-0 md:py-32">
+        <h1 class="text-4xl text-white md:text-10xl text-shadow" v-html="$page.basicPage.title"></h1>
       </div>
     </FullWidthSection>
     <FullWidthSection class="bg-comebackkc-red">
-      <div class="container mx-auto px-8 md:px-64 py-8 md:py-16">
+      <div class="container px-8 py-8 mx-auto md:px-64 md:py-16">
         <h2 class="text-4xl text-center text-white">Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span></h2>
       </div>
     </FullWidthSection>
     <OneColumnSection>
-      <div class="px-4 md:px-0 my-8 md:my-16">
-        <h2 class="text-5xl mb-4" v-html="$page.basicPage.title"></h2>
+      <div class="px-4 my-8 md:px-0 md:my-16">
+        <h2 class="mb-4 text-5xl" v-html="$page.basicPage.title"></h2>
       </div>
       <div class="mb-8 md:mb-16" v-html="styleRawHTML($page.basicPage.content)"></div>
     </OneColumnSection>

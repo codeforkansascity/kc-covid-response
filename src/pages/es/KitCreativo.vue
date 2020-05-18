@@ -9,14 +9,14 @@
       </template>
     </PageHeader>
     <OneColumnSection class="px-4 my-8 md:my-16">
-      <h2 class="text-4xl pb-8 md:bp-16">Únete al Regreso</h2>
+      <h2 class="pb-8 text-4xl md:bp-16">Únete al Regreso</h2>
       <p>
         Regresar a Kansas City dependerá de todos nosotros. Por lo mismo, hemos puesto a disposición todos los recursos de nuestra campaña para descargarlos y compartirlos en sus
         redes sociales y más. Te invitamos a crear lo que quieras con la campaña* - contenido para los medios sociales, carteles, camisetas, etc. Si haces algo fantástico,
         ¡compártelo con nosotros! Nos encantaría ver que has creado.
       </p>
-      <p class="my-8 md:my-16 text-center">
-        <a id="asset-download" class="text-white bg-comebackkc-red font-bold px-8 py-4 rounded-md" href="/comebackkc-assets.zip">Download The Assets</a>
+      <p class="my-8 text-center md:my-16">
+        <a id="asset-download" class="px-8 py-4 font-bold text-white rounded-md bg-comebackkc-red" href="/comebackkc-assets.zip">Download The Assets</a>
       </p>
       <p>
         Condiciones:<br />
@@ -30,7 +30,7 @@
       </p>
       <p>
         This work is licensed under a
-        <a class="text-comebackkc-darkblue underline" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">
+        <a class="underline text-comebackkc-darkblue" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">
           Creative Commons Attribution 4.0 International License
         </a>
         .

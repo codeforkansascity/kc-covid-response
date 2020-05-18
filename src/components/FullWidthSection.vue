@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full bg-cover bg-center" :style="{ backgroundImage: backgroundImage }">
+  <div class="w-full bg-center bg-cover" :style="{ backgroundImage: backgroundImage }">
     <slot></slot>
   </div>
 </template>
@@ -11,8 +11,8 @@ export default {
   },
   computed: {
     backgroundImage() {
-      return this.image ? 'url(' + this.image + ')' : 'none';
+      return this.image ? 'url(' + this.image + ')' : 'none'
     }
   }
-};
+}
 </script>

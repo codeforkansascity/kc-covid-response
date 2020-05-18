@@ -1,14 +1,14 @@
 <template>
   <div>
-    <FullWidthSection class="md:h-screen-60 flex items-center" :image="image">
-      <div class="container mx-auto text-center px-4 mx:pl-0 py-16 md:py-32">
-        <h1 class="text-white text-4xl md:text-10xl text-shadow">
+    <FullWidthSection class="flex items-center md:h-screen-60" :image="image">
+      <div class="container px-4 py-16 mx-auto text-center mx:pl-0 md:py-32">
+        <h1 class="text-4xl text-white md:text-10xl text-shadow">
           <slot name="title"></slot>
         </h1>
       </div>
     </FullWidthSection>
     <FullWidthSection class="bg-comebackkc-red">
-      <div class="container mx-auto px-8 md:px-64 py-8 md:py-16">
+      <div class="container px-8 py-8 mx-auto md:px-64 md:py-16">
         <h2 class="text-4xl text-center text-white">
           <slot name="sub-title"></slot>
         </h2>

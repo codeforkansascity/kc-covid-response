@@ -9,14 +9,14 @@
       </template>
     </PageHeader>
     <OneColumnSection class="px-4 my-8 md:my-16">
-      <h2 class="text-4xl pb-8 md:bp-16">Join the Comeback</h2>
+      <h2 class="pb-8 text-4xl md:bp-16">Join the Comeback</h2>
       <p>
         Bringing Kansas City back the right way will take all of us. So, we’ve made all our campaign assets available free to download and share on your social channels and more.
         We invite you to create whatever you want with the campaign* - social content, posters, T-shirts, signs. If you make something fantastic, please share it with us! We’d love
         to see what you come up with.
       </p>
-      <p class="my-8 md:my-16 text-center">
-        <a id="asset-download" class="text-white bg-comebackkc-red font-bold px-8 py-4 rounded-md" href="/comebackkc-assets.zip">Download The Assets</a>
+      <p class="my-8 text-center md:my-16">
+        <a id="asset-download" class="px-8 py-4 font-bold text-white rounded-md bg-comebackkc-red" href="/comebackkc-assets.zip">Download The Assets</a>
       </p>
       <p>
         Terms:<br />
@@ -30,7 +30,7 @@
       </p>
       <p>
         This work is licensed under a
-        <a class="text-comebackkc-darkblue underline" rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
+        <a class="underline text-comebackkc-darkblue" rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
           Creative Commons Attribution 4.0 International License
         </a>
         .
