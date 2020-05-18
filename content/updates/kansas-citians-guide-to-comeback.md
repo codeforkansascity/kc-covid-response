@@ -1,6 +1,6 @@
 ---
 language: en
-title: Kansas Citians' Guide to Comeback
+title: Kansas Citians' Guide to COVID-19 Comeback
 metaDescription: Guide to the New Normal(ish)
 teaser: Check out our field guide to the new normal(ish).
 date: 2020-05-18T20:43:14.403Z
