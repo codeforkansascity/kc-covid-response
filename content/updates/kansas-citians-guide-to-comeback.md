@@ -7,6 +7,9 @@ date: 2020-05-18T20:43:14.403Z
 ---
 Just like everyone in the metro, we here at Comeback KC are eager to return to normal(ish). We also know that even as restrictions are loosening up, it's still important to do everything we can to protect the vulnerable people in our population and our health care workers. That's why we put together our **Kansas Citian's Guide to a Safe Comeback**. Consider it a field guide to the new normal for now. \
 \
-Please feel free to share this everywhere!
+Please feel free to share this everywhere!\
+\
+[Download Poster](https://drive.google.com/open?id=1sGSLWnHccnoPEFV75JFgJw7Gettzz0WT) (pdf)\
+[Infografico en Español](https://drive.google.com/open?id=18YjxRWYGZ0jHVVjLycaOf6kqnLnBwG5y) (pdf)
 
 ![Kansas Citian's Guide to Safe Comeback](/uploads/comeback-kc_guidetocomeback.jpg "KC Guide to Comeback")
