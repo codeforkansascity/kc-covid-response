@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: vml-kkedrovsky/kc-covid-response
-  branch: master
+  branch: stage
 
 media_folder: 'static/uploads'
 public_folder: '/uploads'
@@ -13,7 +13,17 @@ collections:
     folder: 'content/pages'
     create: true
     fields:
-      - { label: 'Language', name: 'language', widget: 'select', options: [{ label: 'English', value: 'en' }, { label: 'Spanish', value: 'es' }] }
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'page_es'
+    label: 'Spanish Page'
+    summary: '{{title}}'
+    folder: 'content/pages/es'
+    create: true
+    fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -23,7 +33,20 @@ collections:
     folder: 'content/updates'
     create: true
     fields:
-      - { label: 'Language', name: 'language', widget: 'select', options: [{ label: 'English', value: 'en' }, { label: 'Spanish', value: 'es' }] }
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Teaser', name: 'teaser', widget: 'markdown' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+    sortableFields: ['field.date', 'title']
+  - name: 'update_es'
+    label: 'Spanish Update'
+    summary: '{{title}}'
+    folder: 'content/updates/es'
+    create: true
+    fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -36,7 +59,23 @@ collections:
     folder: 'content/resources'
     create: true
     fields:
-      - { label: 'Language', name: 'language', widget: 'select', options: [{ label: 'English', value: 'en' }, { label: 'Spanish', value: 'es' }] }
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Organization', name: 'organization', widget: 'string' }
+      - { label: 'Link', name: 'link', widget: 'string', required: false }
+      - { label: 'File', name: 'file', widget: 'file', required: false }
+    sortableFields: ['field.date', 'title']
+  - name: 'resource_es'
+    label: 'Spanish Resource'
+    summary: '{{title}}'
+    folder: 'content/resources/es'
+    create: true
+    fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -53,7 +92,19 @@ collections:
     create: true
     identifier_field: 'question'
     fields:
-      - { label: 'Language', name: 'language', widget: 'select', options: [{ label: 'English', value: 'en' }, { label: 'Spanish', value: 'es' }] }
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
+      - { label: 'Order', name: 'order', widget: 'number', valueType: 'int' }
+      - { label: 'Question', name: 'question', widget: 'string' }
+      - { label: 'Answer', name: 'body', widget: 'markdown' }
+    sortableFields: ['order', 'question']
+  - name: 'faq_es'
+    label: 'Spanish FAQ'
+    summary: '{{order}} - {{question}}'
+    folder: 'content/faqs/es'
+    create: true
+    identifier_field: 'question'
+    fields:
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Order', name: 'order', widget: 'number', valueType: 'int' }
       - { label: 'Question', name: 'question', widget: 'string' }
       - { label: 'Answer', name: 'body', widget: 'markdown' }
@@ -76,6 +127,26 @@ collections:
         name: footer_nav
         fields:
           - label: Footer Navigation
+            name: nav_items
+            widget: list
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Path, name: path, widget: string }
+      - file: data/settings/main_nav_es.yml
+        label: Spanish Main Navigation
+        name: main_nav_es
+        fields:
+          - label: Spanish Main Navigation
+            name: nav_items
+            widget: list
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Path, name: path, widget: string }
+      - file: data/settings/footer_nav_es.yml
+        label: Spanish Footer Navigation
+        name: footer_nav_is
+        fields:
+          - label: Spanish Footer Navigation
             name: nav_items
             widget: list
             fields:
