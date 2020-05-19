@@ -6,4 +6,4 @@ nav_items:
   - label: Creative
     path: /creative-assets/
   - label: Testing
-    path: https://www.comebackkc.com/kc-covid-testing-locations/
+    path: /kc-covid-testing-locations/
