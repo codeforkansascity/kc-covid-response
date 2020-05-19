@@ -5,3 +5,5 @@ nav_items:
     path: /covid-19-resources/
   - label: Creative Assets
     path: /creative-assets/
+  - label: Testing
+    path: https://www.comebackkc.com/kc-covid-testing-locations/
