@@ -10,11 +10,11 @@
         <h2 class="text-4xl text-center text-white">Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span></h2>
       </div>
     </FullWidthSection>
-    <OneColumnSection>
-      <div class="px-4 my-8 md:px-0 md:my-16">
-        <h2 class="mb-4 text-5xl" v-html="$page.basicPage.title"></h2>
+    <OneColumnSection class="px-4 my-8 md:my-16">
+      <div class="my-8 md:my-16">
+        <h2 class="text-5xl" v-html="$page.basicPage.title"></h2>
       </div>
-      <div class="mb-8 md:mb-16" v-html="styleRawHTML($page.basicPage.content)"></div>
+      <div v-html="styleRawHTML($page.basicPage.content)"></div>
     </OneColumnSection>
   </Layout>
 </template>
