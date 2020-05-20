@@ -10,7 +10,7 @@ The COVID-19 pandemic is shining a harsh light on health inequities in our metro
 
 ![COVID-19 health inequities in Kansas ](/uploads/34eaabf8-1801-432d-95f8-c0576b127b76.png "KS COVID-19 inequities")
 
-\
+
 The situation in Missouri is not much better. Black people make up around 12% of the population but more than 40% of the COVID-19 deaths. 
 
 ![COVID-19 health inequities in Missouri](/uploads/541483ba-73ec-401e-9919-22a5ab1bd11a.png "MO COVID-19 Inequities")
