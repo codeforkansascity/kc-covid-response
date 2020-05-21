@@ -3,3 +3,6 @@ nav_items:
     path: /privacy-policy/
   - label: Terms and Conditions
     path: /terms-and-conditions/
+  - label: Contact
+    path: javascript:void( window.open( 'https://form.jotform.com/201337626005143',
+      'blank', 'scrollbars=yes, toolbar=no, width=700, height=500' ) )
