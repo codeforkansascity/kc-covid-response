@@ -2,9 +2,7 @@
 language: en
 title: Comeback KC in The Pitch
 metaDescription: Comeback KC coverage in The Pitch
-teaser: Read about the [launch of Comeback
-  KC](https://www.thepitchkc.com/comeback-kc-launches-covid-19-donates-mask-launches-resources-for-responsible-return/)
-  in ***The Pitch***.
+teaser: Read about the launch of Comeback KC in The Pitch.
 date: 2020-05-21T14:22:54.562Z
 ---
 Check out ***The Pitch***'s [story on Comeback KC.](https://www.thepitchkc.com/comeback-kc-launches-covid-19-donates-mask-launches-resources-for-responsible-return/) 
