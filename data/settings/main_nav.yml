@@ -7,3 +7,5 @@ nav_items:
     path: /creative-assets/
   - label: Testing
     path: /kc-covid-testing-locations/
+  - label: Events
+    path: /testing-events/
