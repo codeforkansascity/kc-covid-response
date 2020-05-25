@@ -1,11 +1,11 @@
 ---
 language: en
-title: Tocktest
-metaDescription: Testing out Tockify
+title: Testing Events
+metaDescription: KC metro area COVID-19 testing events
 ---
-Here is the calendar.
-
-
+Several Kansas City area health departments and organizations are offering pop-up testing events at locations throughout the city. Some require an appointment, so make sure you check the details. If you're looking for permanent COVID-19 testing sites, visit our [testing locations](https://www.comebackkc.com/kc-covid-testing-locations/) page.
 
 <div data-tockify-component="calendar" data-tockify-calendar="kccovidtestevents"></div>
-<script data-cfasync="false" `data-tockify-view="pinboard" `data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
+<script data-cfasync="false" \`data-tockify-view="pinboard" \`data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
+
+If you know of a testing event or pop-up location that isn't shown on our calendar, [let us know.](https://forms.gle/fTWftBj6Wen3G4yRA)
