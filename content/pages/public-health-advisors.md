@@ -6,8 +6,8 @@ metaDescription: Public Health Advisors to Comeback KC
 <table style="table-layout:fixed" border="0">
       <tbody>
         <tr>
-          <td style="width:33%; text-align:left; vertical-align: top;">\
-<img src="http://www.kumc.edu/images/fammed/faculty/agreiner.jpg"
+          <td style="width:33%; text-align:left; vertical-align: top;">
+<img src="https://www.comebackkc.com/uploads/agreiner_re.jpg"
               alt="Allen Greiner, MD MPH"
               title="Allen Greiner, MD MPH"
               style="width: 160px; height: 214px"><br>
@@ -32,7 +32,7 @@ metaDescription: Public Health Advisors to Comeback KC
             </p>
           </td>
           <td style="width:33%; text-align: left; vertical-align: top;">
-<img src="http://www.kumc.edu/images/fammed/faculty/ecorriveau.jpg"
+<img src="https://www.comebackkc.com/uploads/ecorriveau_re.jpg"
               alt="Erin Corriveau, MD, MPH"
               title="Erin Corriveau, MD, MPH"
               style="width: 160px; height: 214px;"><br>
@@ -46,7 +46,7 @@ metaDescription: Public Health Advisors to Comeback KC
             Residency: Family and Community Medicine, University of New Mexico
             Hospital </td>
           <td style="width:33%; text-align: left; vertical-align: top;">
-            <h3><img src="https://www.comebackkc.com/uploads/dr.-jen-pic.jpg" alt="Jennifer Bacani McKenney, MD, FAAFP"
+            <h3><img src="https://www.comebackkc.com/uploads/JBMcKenney_re.jpg" alt="Jennifer Bacani McKenney, MD, FAAFP"
                 title="Jennifer Bacani McKenney, MD, FAAFP"
                 style="width: 160px; height: 214px"></h3>
             <h3>Jennifer Bacani McKenney, MD, FAAFP</h3>
