@@ -3,13 +3,15 @@ language: en
 title: Public Health Advisors
 metaDescription: Public Health Advisors to Comeback KC
 ---
+We are fortunate to have the guidance and expertise of these public health professionals. Our Public Health Advisors help set our objectives and strategy, and they review information and content that we produce to make sure it complies with best available information and public health priorities. 
+
 <table style="table-layout:fixed" border="0" cellspacing="15">
       <tbody>
         <tr>
           <td style="width:33%; text-align:left; vertical-align: top;">
 <img src="https://www.comebackkc.com/uploads/agreiner_re.jpg"
               alt="Allen Greiner, MD MPH"><br>
-            <h4>K. Allen Greiner, MD, MPH</h4>
+            <h5>K. Allen Greiner, MD, MPH</h5>
             
             <p>K. Allen Greiner, MD, MPH is currently Professor and Vice Chair of
             the Department of Family Medicine at the University of Kansas
@@ -29,13 +31,13 @@ metaDescription: Public Health Advisors to Comeback KC
           <td style="width:33%; text-align: left; vertical-align: top;">
 <img src="https://www.comebackkc.com/uploads/ecorriveau_re.jpg"
               alt="Erin Corriveau, MD, MPH"><br>
-            <h4>Erin A Corriveau, MD, MPH</strong></h4>
+            <h5>Erin A Corriveau, MD, MPH</strong></h5>
  <p>Erin Corriveau, MD, MPH is a practicing physician, mentor and educator in primary care and population health. She is also the Deputy Medical Officer for the Kansas City, Kansas, Wyandotte County Unified Government Health Department.  She is the director of undergraduate medical education at the University of Kansas department of Family Medicine and Community Health. Dr. Corriveau served as a member of the Council on Graduate Medical Education, which advises Congress on matters related to health professional workforce trends and future needs. She has an interest in health services, and while at the University of New Mexico, she helped develop and implement the Health Extension Rural Offices (HEROs) program. Dr. Corriveau received her BA from Middlebury College, her MPH from Johns Hopkins Bloomberg School of Public Health and her MD from the University of New Mexico. She completed residencies in Family and Community Medicine at the University of New Mexico, and Preventive Medicine at Johns Hopkins. </p>          
 
 </td>
           <td style="width:33%; text-align: left; vertical-align: top;">
 <img src="https://www.comebackkc.com/uploads/JBMcKenney_re.jpg" alt="Jennifer Bacani McKenney, MD, FAAFP"><br>
-            <h4>Jennifer Bacani McKenney, MD, FAAFP</h4>
+            <h5>Jennifer Bacani McKenney, MD, FAAFP</h5>
             <p>Jennifer Bacani McKenney, MD is a practicing family physician in her
             hometown of Fredonia, a community of approximately 2500 people in
             southeast Kansas. She has owned and managed an independent practice
