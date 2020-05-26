@@ -9,7 +9,7 @@ metaDescription: Public Health Advisors to Comeback KC
           <td style="width:33%; text-align:left; vertical-align: top;">
 <img src="https://www.comebackkc.com/uploads/agreiner_re.jpg"
               alt="Allen Greiner, MD MPH"><br>
-            <strong>K. Allen Greiner, MD, MPH</strong>
+            <h4>K. Allen Greiner, MD, MPH</h4>
             
             <p>K. Allen Greiner, MD, MPH is currently Professor and Vice Chair of
             the Department of Family Medicine at the University of Kansas
@@ -29,14 +29,13 @@ metaDescription: Public Health Advisors to Comeback KC
           <td style="width:33%; text-align: left; vertical-align: top;">
 <img src="https://www.comebackkc.com/uploads/ecorriveau_re.jpg"
               alt="Erin Corriveau, MD, MPH"><br>
-            <strong>Erin A Corriveau, MD, MPH</strong><br>
+            <h4>Erin A Corriveau, MD, MPH</strong></h4>
  <p>Erin Corriveau, MD, MPH is a practicing physician, mentor and educator in primary care and population health. She is also the Deputy Medical Officer for the Kansas City, Kansas, Wyandotte County Unified Government Health Department.  She is the director of undergraduate medical education at the University of Kansas department of Family Medicine and Community Health. Dr. Corriveau served as a member of the Council on Graduate Medical Education, which advises Congress on matters related to health professional workforce trends and future needs. She has an interest in health services, and while at the University of New Mexico, she helped develop and implement the Health Extension Rural Offices (HEROs) program. Dr. Corriveau received her BA from Middlebury College, her MPH from Johns Hopkins Bloomberg School of Public Health and her MD from the University of New Mexico. She completed residencies in Family and Community Medicine at the University of New Mexico, and Preventive Medicine at Johns Hopkins. </p>          
 
 </td>
           <td style="width:33%; text-align: left; vertical-align: top;">
 <img src="https://www.comebackkc.com/uploads/JBMcKenney_re.jpg" alt="Jennifer Bacani McKenney, MD, FAAFP"><br>
-            <strong>Jennifer Bacani McKenney, MD, FAAFP</strong>
-            <br>
+            <h4>Jennifer Bacani McKenney, MD, FAAFP</h4>
             <p>Jennifer Bacani McKenney, MD is a practicing family physician in her
             hometown of Fredonia, a community of approximately 2500 people in
             southeast Kansas. She has owned and managed an independent practice
