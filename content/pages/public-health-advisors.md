@@ -3,17 +3,17 @@ language: en
 title: Public Health Advisors
 metaDescription: Public Health Advisors to Comeback KC
 ---
-<table style="width: 100%;" border="0">
+<table style="table-layout:fixed" border="0">
       <tbody>
         <tr>
-          <td style="width: 270.567px;"><img src="http://www.kumc.edu/images/fammed/faculty/agreiner.jpg"
+          <td style="width:33%; text-align:left; vertical-align: top;">\
+<img src="http://www.kumc.edu/images/fammed/faculty/agreiner.jpg"
               alt="Allen Greiner, MD MPH"
               title="Allen Greiner, MD MPH"
-              style="width: 144px; height: 214px;"><br>
+              style="width: 160px; height: 214px"><br>
             <h3> <strong>K. Allen Greiner, MD, MPH</strong></h3>
             <strong></strong><strong> </strong><em>Professor and Vice Chair of
               Family Medicine, </em><br>
-            <br>
             <br>
             K. Allen Greiner, MD, MPH is currently Professor and Vice Chair of
             the Department of Family Medicine at the University of Kansas
@@ -28,11 +28,11 @@ metaDescription: Public Health Advisors to Comeback KC
             is a practicing family physician and is the Medical Officer for the
             Kansas City, Kansas, Wyandotte County Unified Government Health
             Department.<br>
-            <p><br>
+            <p>
             </p>
           </td>
-          <td style="width: 318px; margin-left: 15px; text-align: left; vertical-align: top;"><img
-              src="http://www.kumc.edu/images/fammed/faculty/ecorriveau.jpg"
+          <td style="width:33%; text-align: left; vertical-align: top;">
+<img src="http://www.kumc.edu/images/fammed/faculty/ecorriveau.jpg"
               alt="Erin Corriveau, MD, MPH"
               title="Erin Corriveau, MD, MPH"
               style="width: 160px; height: 214px;"><br>
@@ -45,10 +45,10 @@ metaDescription: Public Health Advisors to Comeback KC
             Residency: Preventive Medicine, Johns Hopkins University <br xmlns:a="http://www.w3.org/2005/Atom">
             Residency: Family and Community Medicine, University of New Mexico
             Hospital </td>
-          <td style="width: 351.717px; text-align: left; vertical-align: top;">
+          <td style="width:33%; text-align: left; vertical-align: top;">
             <h3><img src="https://www.comebackkc.com/uploads/dr.-jen-pic.jpg" alt="Jennifer Bacani McKenney, MD, FAAFP"
                 title="Jennifer Bacani McKenney, MD, FAAFP"
-                style="width: 175px; height: 225px;"></h3>
+                style="width: 160px; height: 214px"></h3>
             <h3>Jennifer Bacani McKenney, MD, FAAFP</h3>
             <br>
             Jennifer Bacani McKenney, MD is a practicing family physician in her
