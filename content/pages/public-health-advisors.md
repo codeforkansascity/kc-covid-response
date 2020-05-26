@@ -3,7 +3,7 @@ language: en
 title: Public Health Advisors
 metaDescription: Public Health Advisors to Comeback KC
 ---
-<table style="table-layout:fixed" border="0">
+<table style="table-layout:fixed" border="0" cellspacing="15">
       <tbody>
         <tr>
           <td style="width:33%; text-align:left; vertical-align: top;">
