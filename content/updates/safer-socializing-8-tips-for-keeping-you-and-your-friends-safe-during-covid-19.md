@@ -1,7 +1,6 @@
 ---
 language: en
-title: "Safer Socializing: 8 Tips for Keeping You and Your Friends Safe During
-  COVID-19"
+title: 8 Tips for Safer Socializing
 metaDescription: 8 Social Distancing Tips for Keeping You and Your Friends Safe During COVID-19
 teaser: What's more fun than a Lake of the Ozarks pool party? Not quarantining
   for 2 weeks.
