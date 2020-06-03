@@ -1,6 +1,6 @@
 ---
 language: en
-title: "Our Strategy: Test. Track. Triumph."
+title: Our Strategy
 metaDescription: The Kansas City Regional COVID-19 Comeback Plan
 ---
 # Kansas City COVID-19 Comeback Plan
@@ -12,8 +12,6 @@ There is a safe, scientifically-based way for the Kansas City region to come bac
 ![Comeback KC Test Track Triumph](/uploads/comeback-social-accounts.png "Comeback KC Test Track Triumph")
 
 **The Background:** The COVID-19 pandemic has overwhelmed U.S. communities. For regions like the Greater Kansas City metro area – home to many subdivided locales and private health systems – there is a powerful need for a unified authority and response to the pandemic. The Comeback KC plan provides the structure necessary to contain COVID-19 in our region and allow for the strategic, sustainable reopening of our economy.
-
-### Test • Track • Contain Strategy
 
 Comeback KC’s plan takes lessons from national and global scientific authorities. To reach our goal of 10% testing and decline of new cases, Comeback KC advocates for the following approach:
 
@@ -29,10 +27,6 @@ Comeback KC’s plan takes lessons from national and global scientific authoriti
 ![Contain Banner](/uploads/contain_banner.png "Contain Banner")
 
 **3. Containment:** People who are sick with COVID-19 must self-isolate for at least 14 days, and people who have been exposed must quarantine for 14 days. In order to make this part of the plan viable, we strongly recommend that city and county governments implement supported isolation policies, so that everyone who needs to quarantine or self-isolate has the resources to do so. Local health departments are providing food, medical and other support to qualified people in self-isolation. Call 2-1-1 for info. 
-
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fMl-ggSQBAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
 
 **4.** **Public Messaging:** Each element of this strategy requires public understanding, active participation, and compliance. We need to foster new social behaviors and norms for the duration of the pandemic. Regionally, this can best be accomplished with a unified campaign and message. Pooling resources in this way helps maximize the impact of every dollar spent on communications. Comeback KC has begun a public communications campaign to build awareness of the Test • Track • Contain strategy and to promote safer public behaviors, such as wearing a mask, washing hands often, and staying home as much as possible.
 
