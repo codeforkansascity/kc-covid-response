@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col flex-grow">
-    <div class="flex-grow-0 w-full h-20 md:h-40 bg-comebackkc-darkblue">
+    <div class="z-20 flex-grow-0 w-full h-20 md:h-40 bg-comebackkc-darkblue">
       <SiteHeader :language="language"></SiteHeader>
     </div>
     <div class="flex-grow">
