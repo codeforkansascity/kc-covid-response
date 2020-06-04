@@ -5,13 +5,15 @@ metaDescription: The Kansas City Regional COVID-19 Comeback Plan
 ---
 There is a safe, scientifically-based plan for the Kansas City region to make a comeback from COVID-19 and keep it contained until there is a vaccine or cure. The plan involves ramping up **public testing**, building regional **contact tracing** capacity, and providing resources for **supported isolation** to make sure that everyone who is sick can self-isolate and everyone who is exposed can quarantine. We need to work together and take a regional approach to implementing this plan, because the virus doesn't recognize state, county, and city boundaries.
 
+
+
 ![Comeback KC Test Track Triumph](/uploads/comeback-social-accounts.png "Comeback KC Test Track Triumph")
+
+
 
 The COVID-19 pandemic has overwhelmed U.S. communities. For regions like the Greater Kansas City metro area – home to many subdivided locales and private health systems – there is a powerful need for a unified response to the pandemic. The Comeback KC strategy provides the platform necessary for the strategic, sustainable reopening of our economy.
 
-Comeback KC’s plan takes lessons from national and global scientific authorities. To reach our goal of 10% testing and decline of new cases, Comeback KC advocates for the following approach:
-
-![Test Banner](/uploads/test_banner.png "Test Banner")
+Comeback KC’s plan takes lessons from national and global scientific authorities. To reach our goal of 10% testing and decline of new cases, Comeback KC advocates for the following approach.
 
 ### **1. Testing**
 
@@ -19,9 +21,7 @@ Countries that have curbed the coronavirus have conducted widespread testing and
 
 If you are sick with COVID-19 symptoms or if you have had close contact with someone who has tested positive, call your doctor or health department and get tested. You can visit Comeback KC's [testing site map](https://www.comebackkc.com/kc-covid-testing-locations/) to find a testing location near you. You must call ahead and make arrangements before you get tested.
 
-
-
-![Track Banner](/uploads/track_banner.png "Track Banner")
+![Test Banner](/uploads/test_banner.png "Test Banner")
 
 #### **2. Contact Tracing**
 
@@ -29,7 +29,7 @@ Contact tracing allows public health officials to understand the spread of the v
 
 If you test positive for COVID-19, please cooperate with contact tracers from your public health department. They will notify people you've had contact with, so that they can quarantine and possibly get tested. This is a vital step in stopping asymptomatic spread of the virus.
 
-![Contain Banner](/uploads/contain_banner.png "Contain Banner")
+![Track Banner](/uploads/track_banner.png "Track Banner")
 
 #### **3. Containment** 
 
@@ -37,11 +37,13 @@ People who are sick with COVID-19 must self-isolate until 10 days have passed si
 \
 If you are sick and need to self-isolate or if you have been exposed and need to quarantine and you need help, call 3-1-1 or your local health department to get connected with local support resources.
 
-
+![Contain Banner](/uploads/contain_banner.png "Contain Banner")
 
 #### **Test.Track.Triumph**
 
 If everyone in the Kansas City region works together in this way, we can contain the coronavirus, get COVID-19 under control, and keep it under control until there is a vaccine or cure. Through testing, contact tracing, and containment, we can focus on isolating the sick and quarantining people who are exposed. Everyone else will be able to move around with greater freedom, and we'll get our economy back on track in a sustainable way. This is the right way for Kansas City to make our comeback from COVID.
+
+
 
 
 
