@@ -35,8 +35,8 @@ If you test positive for COVID-19, please cooperate with contact tracers from yo
 
 #### **3. Containment**
 
-People who are sick with COVID-19 must self-isolate until 10 days have passed since symptoms resolve, and people who have been exposed must quarantine for 14 days. In order to make this part of the plan viable, we strongly recommend that city and county governments implement supported isolation policies, so that everyone who needs to quarantine or self-isolate has the resources to do so. Local health departments are providing food, medical and other support to qualified people in self-isolation. \
-\
+People who are sick with COVID-19 must self-isolate until 10 days have passed since symptoms resolve, and people who have been exposed must quarantine for 14 days. In order to make this part of the plan viable, we strongly recommend that city and county governments implement supported isolation policies, so that everyone who needs to quarantine or self-isolate has the resources to do so. Local health departments are providing food, medical and other support to qualified people in self-isolation. 
+
 If you are sick and need to self-isolate or if you have been exposed and need to quarantine and you need help, call 3-1-1 or your local health department to get connected with local support resources.
 
 ![Contain Banner](/uploads/contain_banner.png "Contain Banner")
