@@ -7,7 +7,8 @@ There is a safe, scientifically-based plan for the Kansas City region to make a 
 
 ![Comeback KC Test Track Triumph](/uploads/comeback-social-accounts.png "Comeback KC Test Track Triumph")
 
-<p>The COVID-19 pandemic has overwhelmed U.S. communities. For regions like the Greater Kansas City metro area – home to many subdivided locales and private health systems – there is a powerful need for a unified response to the pandemic. The Comeback KC strategy provides the platform necessary for the strategic, sustainable reopening of our economy.
+<br>
+The COVID-19 pandemic has overwhelmed U.S. communities. For regions like the Greater Kansas City metro area – home to many subdivided locales and private health systems – there is a powerful need for a unified response to the pandemic. The Comeback KC strategy provides the platform necessary for the strategic, sustainable reopening of our economy.
 
 Comeback KC’s plan takes lessons from national and global scientific authorities. To reach our goal of 10% testing and decline of new cases, Comeback KC advocates for the following approach.
 
@@ -19,7 +20,7 @@ If you are sick with COVID-19 symptoms or if you have had close contact with som
 
 ![Test Banner](/uploads/test_banner.png "Test Banner")
 
-###### **<p>**
+<br>
 
 #### **2. Contact Tracing**
 
@@ -29,7 +30,8 @@ If you test positive for COVID-19, please cooperate with contact tracers from yo
 
 ![Track Banner](/uploads/track_banner.png "Track Banner")
 
-#### **<p>**
+
+<br>
 
 #### **3. Containment**
 
@@ -39,11 +41,13 @@ If you are sick and need to self-isolate or if you have been exposed and need to
 
 ![Contain Banner](/uploads/contain_banner.png "Contain Banner")
 
-#### **<p>**
+<br>
 
 #### **Test.Track.Triumph**
 
 If everyone in the Kansas City region works together in this way, we can contain the coronavirus, get COVID-19 under control, and keep it under control until there is a vaccine or cure. Through testing, contact tracing, and containment, we can focus on isolating the sick and quarantining people who are exposed. Everyone else will be able to move around with greater freedom, and we'll get our economy back on track in a sustainable way. This is the right way for Kansas City to make our comeback from COVID.
+
+<br>
 
 **About Comeback KC**
 
