@@ -1,9 +1,6 @@
 <template>
   <Layout language="en">
-    <PageHeader image="/images/kc-skyline-bg.jpg">
-      <template v-slot:title>
-        Comeback KC
-      </template>
+    <PageHeader video="/videos/hero.mp4" image="/images/video-poster.jpg">
       <template v-slot:sub-title>
         Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span>
       </template>
