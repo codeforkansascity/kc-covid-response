@@ -21,7 +21,11 @@ module.exports = {
         '76': '19rem',
         '-16': '-4rem',
         '-32': '-8rem',
-        '-64': '-16rem'
+        '-64': '-16rem',
+        '1/2': '50%'
+      },
+      zIndex: {
+        '-10': '-10'
       },
       fontSize: {
         '7xl': '5rem',
@@ -48,6 +52,10 @@ module.exports = {
         ],
         serif: ['Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
         heading: ['raleway']
+      },
+      screens: {
+        widescreen: { raw: '(min-aspect-ratio: 16/9)' },
+        narrowscreen: { raw: '(max-aspect-ratio: 16/9)' }
       }
     }
   }

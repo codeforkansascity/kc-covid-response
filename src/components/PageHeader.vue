@@ -1,8 +1,8 @@
 <template>
   <div>
-    <FullWidthSection class="flex items-center md:h-screen-60" :image="image">
-      <div class="container px-4 py-16 mx-auto text-center mx:pl-0 md:py-32">
-        <h1 class="text-4xl text-white md:text-10xl text-shadow">
+    <FullWidthSection class="flex items-center lg:h-screen-60" :image="image" :video="video">
+      <div class="container px-4 py-16 mx-auto text-center md:py-32">
+        <h1 class="text-4xl text-white md:text-6xl lg:text-10xl text-shadow">
           <slot name="title"></slot>
         </h1>
       </div>
@@ -22,7 +22,8 @@ import FullWidthSection from '@/components/FullWidthSection.vue'
 
 export default {
   props: {
-    image: String
+    image: String,
+    video: String
   },
   components: { FullWidthSection }
 }
