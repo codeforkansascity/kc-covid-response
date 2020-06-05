@@ -2,8 +2,6 @@
 language: en
 title: Our Strategy
 metaDescription: The Kansas City Regional COVID-19 Comeback Plan
-ogDescription: The Kansas City Regional COVID-19 Comeback Plan
-ogImage: /uploads/clay-county-public-health-center-logo.jpg
 ---
 There is a safe, scientifically-based plan for the Kansas City region to make a comeback from COVID-19 and keep it contained until there is a vaccine or cure. The plan involves ramping up **public testing**, building regional **contact tracing** capacity, and providing resources for **supported isolation** to make sure that everyone who is sick can self-isolate and everyone who is exposed can quarantine. We need to work together and take a regional approach to implementing this plan, because the virus doesn't recognize state, county, and city boundaries.
 
