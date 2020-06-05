@@ -46,10 +46,6 @@ export default function(Vue, { router, head, isClient }) {
       content: '/images/comebackkc-social.png'
     },
     {
-      name: 'og:url',
-      content: 'https://www.comebackkc.com'
-    },
-    {
       name: 'google-site-verification',
       content: 'zslkj1KAH8yqImJA-eeyYzXcDFif2WKq61AiasZ5Wxo'
     }
