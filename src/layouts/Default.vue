@@ -20,7 +20,19 @@ export default {
   props: {
     language: String
   },
-  components: { SiteHeader, SiteFooter }
+  components: { SiteHeader, SiteFooter },
+  computed: {
+    metaUrl() {
+      const path = this.$route && this.$route.path
+      return { content: `${this.$static.metadata.siteUrl}${path}` }
+    }
+  },
+  metaInfo() {
+    console.log(this.metaUrl)
+    return {
+      meta: [{ key: 'og:url', property: 'og:url', content: this.metaUrl.content }]
+    }
+  }
 }
 </script>
 
@@ -28,6 +40,7 @@ export default {
 query {
   metadata {
     siteName
+    siteUrl
   }
 }
 </static-query>
