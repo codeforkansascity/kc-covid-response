@@ -27,7 +27,7 @@ export default {
   metaInfo() {
     return {
       title: this.$page.basicPage.title,
-      meta: [{ key: 'description', name: 'description', content: this.$page.basicPage.metaDescription },{ key: 'og:title', name: 'og:title', content: this.$page.basicPage.title },{ key: 'og:description', name: 'og:description', content: this.$page.basicPage.ogDescription },{ key: 'og:image', name: 'og:image', content: 'https://comebackkc.com' + this.$page.basicPage.ogImage }]
+      meta: [{ key: 'description', name: 'description', content: this.$page.basicPage.metaDescription },{ key: 'og:title', name: 'og:title', content: this.$page.basicPage.title },{ key: 'og:description', name: 'og:description', content: this.$page.basicPage.ogDescription },{ key: 'og:image', name: 'og:image', content: 'https://comebackkc.com' + this.$page.basicPage.ogImage },{ key: 'og:url', name: 'og:url', content: 'https://comebackkc.com' + this.$page.basicPage.path }]
     }
   },
   mixins: [rawHtmlMixin],
@@ -42,6 +42,7 @@ query ($id: ID!) {
     metaDescription
     ogDescription
     ogImage
+    path
     content
   }
 }
