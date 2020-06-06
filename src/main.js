@@ -50,4 +50,16 @@ export default function(Vue, { router, head, isClient }) {
       content: 'zslkj1KAH8yqImJA-eeyYzXcDFif2WKq61AiasZ5Wxo'
     }
   )
+
+  // add page URL to og:url
+  router.beforeEach((to, _from, next) => {
+    head.meta.push({
+      key: 'og:url',
+      name: 'og:url',
+      content: 'https://comebackkc.com' + to.path,
+    })
+    next()
+  })
+
 }
+

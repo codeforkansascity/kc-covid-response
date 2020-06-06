@@ -16,6 +16,8 @@ collections:
       - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Facebook Description', name: 'ogDescription', widget: 'string', required: false }
+      - { label: 'Facebook Image', name: 'ogImage', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'page_es'
     label: 'Spanish Page'
@@ -26,6 +28,8 @@ collections:
       - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Facebook Description', name: 'ogDescription', widget: 'string', required: false }
+      - { label: 'Facebook Image', name: 'ogImage', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'update'
     label: 'Update'
@@ -36,6 +40,8 @@ collections:
       - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Facebook Description', name: 'ogDescription', widget: 'string', required: false }
+      - { label: 'Facebook Image', name: 'ogImage', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Teaser', name: 'teaser', widget: 'markdown' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
@@ -49,6 +55,8 @@ collections:
       - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Facebook Description', name: 'ogDescription', widget: 'string', required: false }
+      - { label: 'Facebook Image', name: 'ogImage', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Teaser', name: 'teaser', widget: 'markdown' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
@@ -62,6 +70,8 @@ collections:
       - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Facebook Description', name: 'ogDescription', widget: 'string', required: false }
+      - { label: 'Facebook Image', name: 'ogImage', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
@@ -78,6 +88,8 @@ collections:
       - { label: 'Language', name: 'language', widget: 'hidden', default: 'es' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Meta Description', name: 'metaDescription', widget: 'string' }
+      - { label: 'Facebook Description', name: 'ogDescription', widget: 'string', required: false }
+      - { label: 'Facebook Image', name: 'ogImage', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Date', name: 'date', widget: 'datetime' }

@@ -25,7 +25,7 @@ export default {
   metaInfo() {
     return {
       title: this.$page.update.title,
-      meta: [{ key: 'description', name: 'description', content: this.$page.update.metaDescription }]
+      meta: [{ key: 'description', name: 'description', content: this.$page.update.metaDescription },{ key: 'og:title', name: 'og:title', content: this.$page.update.title },{ key: 'og:description', name: 'og:description', content: this.$page.update.ogDescription },{ key: 'og:image', name: 'og:image', content: 'https://comebackkc.com' + this.$page.update.ogImage }]
     }
   },
   mixins: [rawHtmlMixin],
@@ -38,6 +38,8 @@ query ($id: ID!) {
   update(id: $id) {
     title
     metaDescription
+    ogDescription
+    ogImage
     date
     content
   }
