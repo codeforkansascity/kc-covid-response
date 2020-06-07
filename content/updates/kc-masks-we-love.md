@@ -11,4 +11,4 @@ If your mask game is just meh, check out these Kansas City made masks. Whether y
 
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-b9ffcbcd-b5ad-45e1-b0a6-63ebe4ea1b33"; align:center ></div>
+<div class="elfsight-app-b9ffcbcd-b5ad-45e1-b0a6-63ebe4ea1b33"; margin: auto; ></div>
