@@ -7,6 +7,7 @@ teaser: "If your mask game is meh, we've got you. "
 date: 2020-06-07T20:10:46.936Z
 ---
 If your mask game is just meh, check out these Kansas City made masks. Whether you want to show off your hometown love or go out for a glamorous evening in your favorite, newly reopened romantic restaurant, these masks have you covered.
+<p>
 
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
