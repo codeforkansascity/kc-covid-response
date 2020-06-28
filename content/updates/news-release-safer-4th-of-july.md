@@ -17,7 +17,7 @@ Contact: Jason Harper, jason@helixhealth.us / 816-695-8770
 
 MONDAY, JUNE 29, 2020 - KANSAS CITY, MO. – As Kansas Citians throughout the metro area prepare to celebrate the 4th of July weekend, the community leaders at Comeback KC are offering common sense guidelines to prevent the spread COVID-19.
 
-![Comeback KC Safe & Happy 4th of July](/uploads/july4-comebackkc_fb.jpg "Comeback KC Safe & Happy 4th of July")
+<center>![Comeback KC Safe & Happy 4th of July](/uploads/july4-comebackkc_fb.jpg "Comeback KC Safe & Happy 4th of July")</center>
 
 Based on the organization’s[ Safer Socializing](https://comebackkc.s3-us-west-2.amazonaws.com/Comeback+KC+Safer+Socializing+Poster+5.pdf)campaign, these tips reduce the risk of virus transmission while still allowing for in-person socializing. The goal is to help area residents keep themselves and their friends and family safe. The guidelines include:
 
