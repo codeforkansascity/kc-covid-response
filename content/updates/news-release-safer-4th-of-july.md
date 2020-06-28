@@ -3,6 +3,7 @@ language: en
 title: NEWS RELEASE - Safer 4th of July
 metaDescription: Comeback KC offers guidelines for a safer 4th of July
 ogDescription: Comeback KC offers guidelines for a safer 4th of July
+ogImage: /uploads/july4-comebackkc_fb.jpg
 teaser: As Kansas Citians throughout the metro area prepare to celebrate the 4th
   of July weekend, the community leaders at Comeback KC are offering common
   sense guidelines to prevent the spread COVID-19.
