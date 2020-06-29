@@ -11,7 +11,7 @@ date: 2020-06-28T22:40:44.917Z
 ---
 FOR RELEASE June 29, 2020
 
-Contact: Jason Harper, jason@helixhealth.us / 816-695-8770
+Contact: Martha Gershun martha@mgconsulting.com / (913) 378-6654
 
 ### Comeback KC Offers Guidelines for a Safer 4th of July Weekend
 
