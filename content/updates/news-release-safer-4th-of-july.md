@@ -23,7 +23,7 @@ MONDAY, JUNE 29, 2020 - KANSAS CITY, MO. – As Kansas Citians throughout the me
 
 </center>
 
-Based on the organization’s[ Safer Socializing](https://comebackkc.s3-us-west-2.amazonaws.com/Comeback+KC+Safer+Socializing+Poster+5.pdf)campaign, these tips reduce the risk of virus transmission while still allowing for in-person socializing. The goal is to help area residents keep themselves and their friends and family safe. The guidelines include:
+Based on the organization’s[ Safer Socializing](https://comebackkc.s3-us-west-2.amazonaws.com/Comeback+KC+Safer+Socializing+Poster+5.pdf) campaign, these tips reduce the risk of virus transmission while still allowing for in-person socializing. The goal is to help area residents keep themselves and their friends and family safe. The guidelines include:
 
 * Stay home if you feel sick.
 * Avoid large crowds; smaller gatherings are better.
