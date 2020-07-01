@@ -35,7 +35,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
   #viz1593630719605 iframe.tableauViz {
     width: 100% !important;
     height: 700px !important;
