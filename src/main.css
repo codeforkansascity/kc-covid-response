@@ -29,10 +29,4 @@ h6 {
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
 }
 
-#viz1593630719605 iframe.tableauViz {
-	/* overriding broken automatic height/widths of embed */
-	width: 100% !important;
-	height: 700px !important;
-}
-
 @tailwind utilities;

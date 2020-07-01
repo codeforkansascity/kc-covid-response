@@ -35,6 +35,13 @@ export default {
 }
 </script>
 
+<style scoped>
+  #viz1593630719605 iframe.tableauViz {
+    width: 100% !important;
+    height: 700px !important;
+  }
+</style>
+
 <page-query>
 query ($id: ID!) {
   basicPage(id: $id) {
