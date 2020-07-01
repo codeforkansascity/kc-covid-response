@@ -5,21 +5,19 @@ metaDescription: Observations of mask wearing in Kansas City
 ---
 We've been conducting an observational study of people wearing masks in public across the KC metro region. Here's what we've seen so far.
 
-<style>
-  html, body { height: 100% }
-</style>
-
-<div class='tableauPlaceholder' 
-
-id='viz1593629006379' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1593629006379' style='width: 800px; height: 600px; ' >
 
 <noscript>
 
-<a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MasksinKC&#47;MaskWearing&#47;1_rss.png' style='border: none' /></a>
+<a href='#'>
+
+<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MasksinKC&#47;MaskWearing&#47;1_rss.png' style='border: none' />
+
+</a>
 
 </noscript>
 
-<object class='tableauViz'  style='display:none;'>
+<object class='tableauViz'  width='800' height='600' style='display:none;'>
 
 <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
 
