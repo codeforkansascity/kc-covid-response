@@ -5,9 +5,9 @@ metaDescription: Open Letter to KC Business Leaders on Mask Wearing
 ogDescription: C19KC Group Publishes Open Letter to Business Leaders Urging
   Unified Mask-wearing Policy
 ---
-<center>### Open Letter to Kansas City’s Business Owners and Executives
+#### **Open Letter to Kansas City’s Business Owners and Executives**
 
-### On Mask-wearing Policies</center>
+#### **On Mask-wearing Policies**</center>
 
 July 1, 2020
 
@@ -39,13 +39,7 @@ Signed,
 
 **Tyler Nottberg** <br>CEO, U.S.Engineering
 
-
-
-### **[](https://forms.gle/Eb6Dmw3nha6Pr3qz9)[SIGN THE LETTER](https://forms.gle/Eb6Dmw3nha6Pr3qz9)**
-
-
-
-
+### [](https://forms.gle/Eb6Dmw3nha6Pr3qz9)**[SIGN THE LETTER](https://forms.gle/Eb6Dmw3nha6Pr3qz9)**
 
 **Supporting Research**
 
