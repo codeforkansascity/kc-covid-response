@@ -83,6 +83,14 @@ export default {
     }
   },
   mounted() {
+
+    let tockifyScript = document.createElement('script')
+    tockifyScript.setAttribute('src', 'https://public.tockify.com/browser/embed.js')
+    tockifyScript.setAttribute('data-cfasync', 'false')
+    tockifyScript.setAttribute('data-tockify-view', 'pinboard')
+    tockifyScript.setAttribute('data-tockify-script', 'embed')
+    document.head.appendChild(tockifyScript)
+
     this.open = this.isOpen
   }
 }
