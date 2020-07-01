@@ -5,9 +5,9 @@ metaDescription: Open Letter to KC Business Leaders on Mask Wearing
 ogDescription: C19KC Group Publishes Open Letter to Business Leaders Urging
   Unified Mask-wearing Policy
 ---
-#### **Open Letter to Kansas City’s Business Owners and Executives**
+#### **<center>Open Letter to Kansas City’s Business Owners and Executives**</center>
 
-#### **On Mask-wearing Policies**</center>
+#### **<center>On Mask-wearing Policies</center>**
 
 July 1, 2020
 
@@ -27,6 +27,8 @@ Business leaders have a unique role to play in shaping and modeling public behav
 
 Wearing a mask is a simple, effective practice we can all adopt. It will make our workplace and our region safer, and it will help to prevent the chance of another economic lockdown. We invite you all to join us as signers and to encourage our fellow business leaders to take this step for public health.
 
+
+
 Signed,
 
 **Andrew Deister** <br>CEO, Russell-Stover Candies
@@ -37,7 +39,13 @@ Signed,
 
 **Tyler Nottberg** <br>CEO, U.S.Engineering
 
-### [](https://forms.gle/Eb6Dmw3nha6Pr3qz9)**[SIGN THE LETTER](https://forms.gle/Eb6Dmw3nha6Pr3qz9)**
+
+
+[](https://forms.gle/Eb6Dmw3nha6Pr3qz9)[<center>**SIGN THE LETTER**](https://forms.gle/Eb6Dmw3nha6Pr3qz9)**</center>**
+
+
+
+
 
 **Supporting Research**
 
