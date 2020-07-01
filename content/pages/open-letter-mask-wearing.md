@@ -5,7 +5,7 @@ metaDescription: Open Letter to KC Business Leaders on Mask Wearing
 ogDescription: C19KC Group Publishes Open Letter to Business Leaders Urging
   Unified Mask-wearing Policy
 ---
-##### **<center>Open Letter to Kansas City’s Business Owners and Executives**</center>
+##### **<center>Open Letter to Kansas City’s Business Owners and Leaders**</center>
 
 ##### **<center>On Mask-wearing Policies</center>**
 
