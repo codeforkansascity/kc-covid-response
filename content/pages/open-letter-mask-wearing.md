@@ -31,7 +31,7 @@ Signed,
 
 **Andrew Deister** <br>CEO, Russell-Stover Candies
 
-**Nathaniel Hegedorn** <br>CEO, Northpoint Development
+**Nathaniel Hagedorn** <br>CEO, Northpoint Development
 
 **Taimoor Nana** <br>CEO, MTAR
 
