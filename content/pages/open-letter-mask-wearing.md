@@ -69,6 +69,8 @@ Signed,
 
 **Neal Sharma**<br>CEO, DEG
 
+**Scott Slabotsky**<br>CEO, Slabotsky Family Office
+
 **Stephenie Smith**<br>Co-founder & Managing Partner, Sophic Solutions
 
 **John P. Stacy**<br>President, J.P. Stacy & Company
