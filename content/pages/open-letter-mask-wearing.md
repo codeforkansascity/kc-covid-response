@@ -34,22 +34,34 @@ Signed,
 <tr>
 <td style="vertical-align:top">
 
+**Kimberly Beatty**<br>Chancellor, Metropolitan Community College
+
+**Tim Cowden**<br>Managing President & CEO, KCADC
+
+**Dominique Davison** AIA, Managing Principal / CEO, DRAW / PlanIT Impact
+
 **Aaron Deacon**<br>Managing Director, KC Digital Drive
 
 **Andrew Deister**<br>CEO, Russell-Stover Candies
 
 **Dan Fromm**<br>President, Barkley
 
+**Bill Gautreaux**<br>Managing Partner, MLP Holdings LLC
+
 **Martha Gershun**<br>Principal, MG Consulting
+
+**J. Brett Gordon**<br>Chairman/President, McCownGordon Construction
 
 **Wendy Guillies**<br>President & CEO, Kauffman Foundation
 
-**Nathaniel Hagedorn**<br>CEO, Northpoint Development
-
-**Jeff King**<br>CEO, Barkley
-
 </td>
 <td style="vertical-align:top">
+
+**Nathaniel Hagedorn**<br>CEO, Northpoint Development
+
+**Earl Harrison Jr**<br>President, HG Consult, Inc.
+
+**Jeff King**<br>CEO, Barkley
 
 **Mark Logan**<br>CEO, idealect
 
@@ -59,13 +71,17 @@ Signed,
 
 **Tyler Nottberg**<br>Chairman & CEO, US Engineering Company Holdings
 
+**Danny O'Neill**<br>CEO, The Roasterie
+
 **Bob Regnier**<br>Executive Chairman & CEO, Bank of Blue Valley
+
+**Dennis Ridenour**<br>President & CEO, BioNexus KC
+
+<td style="vertical-align:top">
 
 **Laurie Roberts**<br>President, Parris Communications
 
 **Mark Sappington**<br>Partner, Kutak Rock
-
-<td style="vertical-align:top">
 
 **Neal Sharma**<br>CEO, DEG
 
@@ -78,6 +94,8 @@ Signed,
 **Elizabeth MacLeod Walls**<br>President, William Jewell College
 
 **Justin Watkins**<br>CEO, Native Digital
+
+**L. William Zahner**<br>CEO, A. Zahner Company
 
 **Pedro Zamora**<br>Executive Director, HEDC
 
