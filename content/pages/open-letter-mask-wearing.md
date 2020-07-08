@@ -32,7 +32,7 @@ Signed,
 <table>
 <tbody>
 <tr>
-<td>
+<td> 
 
 **Aaron Deacon**<br>CEO, KC Digital Drive
 
@@ -53,7 +53,7 @@ Signed,
 
 **Mark Logan**<br>CEO, idealect
 
-**Eric Morgenstern<**br>CEO, Morningstar Communications
+**Eric Morgenstern**<br>CEO, Morningstar Communications
 
 **Taimoor Nana**<br>CEO, MTAR
 
