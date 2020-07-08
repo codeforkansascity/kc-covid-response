@@ -40,7 +40,7 @@ Signed,
 
 **Dan Fromm**<br>President, Barkley
 
-**Martha Gershun**<br>CEO, Pounce Marketing
+**Martha Gershun**<br>Principal, MG Consulting
 
 **Wendy Guillies**<br>President & CEO, Kauffman Foundation
 
@@ -70,6 +70,8 @@ Signed,
 **Neal Sharma**<br>CEO, DEG
 
 **Stephenie Smith**<br>Co-founder & Managing Partner, Sophic Solutions
+
+**John P. Stacy**<br>President, J.P. Stacy & Company
 
 **Elizabeth MacLeod Walls**<br>President, William Jewell College
 
