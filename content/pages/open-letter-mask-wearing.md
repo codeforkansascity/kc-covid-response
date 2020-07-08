@@ -34,70 +34,65 @@ Signed,
 <tr>
 <td style="vertical-align:top">
 
-**Kimberly Beatty**<br>Chancellor, Metropolitan Community College
-
-**Tim Cowden**<br>President & CEO, KCADC
-
-**Dominique Davison** AIA, Managing Principal / CEO, DRAW / PlanIT Impact
-
-**Aaron Deacon**<br>Managing Director, KC Digital Drive
-
-**Andrew Deister**<br>CEO, Russell-Stover Candies
-
-**Dan Fromm**<br>President, Barkley
-
-**Bill Gautreaux**<br>Managing Partner, MLP Holdings LLC
-
-**Martha Gershun**<br>Principal, MG Consulting
-
-**J. Brett Gordon**<br>Chairman/President, McCownGordon Construction
-
-**Wendy Guillies**<br>President & CEO, Kauffman Foundation
+<p><b>Deidre  Anderson</b><br>CEO, United Inner City Services</p>
+<p><b>Carlos Antequera</b><br>Managing Director, Novel Growth Partners</p>
+<p><b>Tahir Atwater</b><br>Director of Donor and Volunteer Engagement, Jackson County CASA</p>
+<p><b>Brad Batz</b><br>President & CEO, Fike Corporation</p>
+<p><b>Kimberly Beatty</b><br>Chancellor, Metropolitan Community College </p>
+<p><b>Pete Browne</b><br>President, Kissick Construction Company</p>
+<p><b>Jeff Carson</b><br>Regional President, Enterprise Bank & Trust</p>
+<p><b>Fred Coulson</b><br>Managing Partner, Five Elms Capital</p>
+<p><b>Tim Cowden</b><br>President and CEO, Kansas City Area Development Council</p>
+<p><b>Dominique Davison AIA</b><br>Managing Principal / CEO, DRAW / PlanIT Impact</p>
+<p><b>Aaron Deacon</b><br>Managing Director, KC Digital Drive</p>
+<p><b>Andy Deister</b><br>CEO, Russel Stover Chocolates</p>
+<p><b>Mike English</b><br>Executive Director, Turn the Page KC</p>
+<p><b>Mary Esselman</b><br>CEO, Operation Breakthrough</p>
+<p><b>Dan Fromm</b><br>President, Barkley</p>
+<p><b>Vincent P. Gauthier</b><br>President, Urban Realty Interests, Inc.</p>
+<p><b>Bill Gautreaux</b><br>Managing Partner, MLP Holdings LLC</p>
+<p><b>Martha Gershun</b><br>CEO, MG Consulting</p>
 
 </td>
 <td style="vertical-align:top">
 
-**Nathaniel Hagedorn**<br>CEO, Northpoint Development
-
-**Earl Harrison Jr**<br>President, HG Consult, Inc.
-
-**Jeff King**<br>CEO, Barkley
-
-**Mark Logan**<br>CEO, idealect
-
-**Eric Morgenstern**<br>CEO, Morningstar Communications
-
-**Taimoor Nana**<br>CEO, MTAR
-
-**Tyler Nottberg**<br>Chairman & CEO, US Engineering Company Holdings
-
-**Danny O'Neill**<br>CEO, The Roasterie
-
-**Bob Regnier**<br>Executive Chairman & CEO, Bank of Blue Valley
-
-**Dennis Ridenour**<br>President & CEO, BioNexus KC
+<p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
+<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
+<p><b>Wendy Guillies</b><br>President&CEO, Kauffman Foundation </p>
+<p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
+<p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
+<p><b>Jeff King</b><br>CEO, Barkley</p>
+<p><b>Mark Logan</b><br>CEO, idealect</p>
+<p><b>Eric Morgenstern</b><br>President, Morningstar Communications</p>
+<p><b>Taimoor Nana</b><br>CEO, MTAR</p>
+<p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
+<p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
+<p><b>Nate Orr</b><br>Partner, Spencer Fane LLP</p>
+<p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
+<p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
+<p><b>Steve Renz</b><br>Senior Vice President - Financial Advisor, Merrill Lynch</p>
+<p><b>Dennis Ridenour</b><br>President & CEO, BioNexus KC</p>
+<p><b>Andy Rieger</b><br>President, J. Rieger & Co.</p>
+<p><b>Laurie Roberts</b><br>President, Parris Communications</p>
 
 <td style="vertical-align:top">
 
-**Laurie Roberts**<br>President, Parris Communications
-
-**Mark Sappington**<br>Partner, Kutak Rock
-
-**Neal Sharma**<br>CEO, DEG
-
-**Scott Slabotsky**<br>CEO, Slabotsky Family Office
-
-**Stephenie Smith**<br>Co-founder & Managing Partner, Sophic Solutions
-
-**John P. Stacy**<br>President, J.P. Stacy & Company
-
-**Elizabeth MacLeod Walls**<br>President, William Jewell College
-
-**Justin Watkins**<br>CEO, Native Digital
-
-**L. William Zahner**<br>CEO, A. Zahner Company
-
-**Pedro Zamora**<br>Executive Director, HEDC
+<p><b>Mark Sappington</b><br>Partner, Kutak Rock</p>
+<p><b>Keely J. Schneider</b><br>Executive Director, Workforce Partnership</p>
+<p><b>Ryan Sciara</b><br>Owner, Underdog Wine Co.</p>
+<p><b>Nicholas Segura</b><br>CEO, Segura Marketing & Media Solutions</p>
+<p><b>Neal Sharma</b><br>CEO, DEG</p>
+<p><b>Scott Slabotsky</b><br>CEO, Slabotsky Family Office</p>
+<p><b>Stephenie Smith, MSW</b><br>Managing Partner, Sophic Solutions, LLC</p>
+<p><b>Rich Smith</b><br>President / CEO, Henderson Engineers</p>
+<p><b>Anne St. Peter</b><br>Founder, Global Prairie</p>
+<p><b>John P. Stacy</b><br>President, J.P. Stacy & Company</p>
+<p><b>Tucker Trotter</b><br>CEO, Dimensional Innovations </p>
+<p><b>Angelo Trozzolo</b><br>President & CEO, Trozzolo Communications Group</p>
+<p><b>Elizabeth MacLeod Walls</b><br>President, William Jewell College</p>
+<p><b>Justin Watkins</b><br>CEO, Native Digital</p>
+<p><b>L. William Zahner</b><br>CEO, A. Zahner Company</p>
+<p><b>Pedro Zamora</b><br>Executive Director, HEDC</p>
 
 </td>
 </tr>
