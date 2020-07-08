@@ -11,11 +11,11 @@ ogDescription: C19KC Group Publishes Open Letter to Business Leaders Urging
 
 July 1, 2020
 
-Like all of you, we are working hard to find our way forward during the midst of two, simultaneous crises–a global pandemic and an economic recession. We are looking for safe and sustainable ways to conduct business, serve our customers and clients, and keep our employees employed.
+Like all of you, we are working hard to find our way forward during the midst of a global pandemic and an economic recession. We are looking for safe and sustainable ways to conduct business, serve our customers and clients, and keep our employees employed.
 
 As the science of the pandemic has evolved, we have learned that one of the most important things we can do as business leaders is to require mask-wearing. Several studies in the last month have shown the effectiveness of public mask-wearing in lowering the rates of transmission. Simultaneously, public health officials in Kansas City tell us that workplace transmission is one of the leading causes of community spread here in the Kansas City region.
 
-Mask-wearing mandates have been implemented in some parts of the KC metro area, but not in all. For the good of our customers, our employees, our fellow residents, and our economy, we cannot allow masks to be politicized. We need to establish consistent, metro-wide, mask-wearing in public to protectallmembers of our communities.
+Mask-wearing mandates have been implemented in some parts of the KC metro area, but not in all. For the good of our customers, our employees, our fellow residents, and our economy, we cannot allow masks to be politicized. We need to establish consistent, metro-wide, mask-wearing in public to protect all members of our communities.
 
 In the interests of keeping our employees, our customers, and our region as safe as possible, we are calling on our fellow business leaders to put in place firm policies that:
 
@@ -81,8 +81,6 @@ Signed,
 </tr>
 </tbody>
 </table>
-
-
 
 ### [](https://forms.gle/Eb6Dmw3nha6Pr3qz9)[<center>**SIGN THE LETTER**](https://forms.gle/Eb6Dmw3nha6Pr3qz9)**</center>**
 
