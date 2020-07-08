@@ -32,7 +32,7 @@ Signed,
 <table>
 <tbody>
 <tr>
-<td> 
+<td style="vertical-align:top">
 
 **Aaron Deacon**<br>CEO, KC Digital Drive
 
@@ -49,7 +49,7 @@ Signed,
 **Jeff King**<br>CEO, Barkley
 
 </td>
-<td>
+<td style="vertical-align:top">
 
 **Mark Logan**<br>CEO, idealect
 
@@ -65,7 +65,7 @@ Signed,
 
 **Mark Sappington**<br>Partner, Kutak Rock
 
-<td>
+<td style="vertical-align:top">
 
 **Neal Sharma**<br>CEO, DEG
 
