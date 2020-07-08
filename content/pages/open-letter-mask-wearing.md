@@ -29,13 +29,60 @@ Wearing a mask is a simple, effective practice we can all adopt. It will make ou
 
 Signed,
 
-**Andrew Deister** <br>CEO, Russell-Stover Candies
+<table>
+<tbody>
+<tr>
+<td>
 
-**Nathaniel Hagedorn** <br>CEO, Northpoint Development
+**Aaron Deacon**<br>CEO, KC Digital Drive
 
-**Taimoor Nana** <br>CEO, MTAR
+**Andrew Deister**<br>CEO, Russell-Stover Candies
 
-**Tyler Nottberg** <br>CEO, U.S.Engineering
+**Dan Fromm**<br>President, Barkley
+
+**Martha Gershun**<br>CEO, Pounce Marketing
+
+**Wendy Guillies**<br>President & CEO, Kauffman Foundation
+
+**Nathaniel Hagedorn**<br>CEO, Northpoint Development
+
+**Jeff King**<br>CEO, Barkley
+
+</td>
+<td>
+
+**Mark Logan**<br>CEO, idealect
+
+**Eric Morgenstern<**br>CEO, Morningstar Communications
+
+**Taimoor Nana**<br>CEO, MTAR
+
+**Tyler Nottberg**<br>Chairman & CEO, US Engineering Company Holdings
+
+**Bob Regnier**<br>Executive Chairman & CEO, Bank of Blue Valley
+
+**Laurie Roberts**<br>President, Parris Communications
+
+**Mark Sappington**<br>Partner, Kutak Rock
+
+<td>
+
+**Neal Sharma**<br>CEO, DEG
+
+**Stephenie Smith**<br>Co-founder & Managing Partner, Sophic Solutions
+
+**Elizabeth MacLeod Walls**<br>President, William Jewell College
+
+**Justin Watkins**<br>CEO, Native Digital
+
+**Pedro Zamora**<br>Executive Director, HEDC
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
 
 ### [](https://forms.gle/Eb6Dmw3nha6Pr3qz9)[<center>**SIGN THE LETTER**](https://forms.gle/Eb6Dmw3nha6Pr3qz9)**</center>**
 
