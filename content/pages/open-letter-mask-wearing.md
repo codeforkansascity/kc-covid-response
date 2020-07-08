@@ -36,7 +36,7 @@ Signed,
 
 **Kimberly Beatty**<br>Chancellor, Metropolitan Community College
 
-**Tim Cowden**<br>Managing President & CEO, KCADC
+**Tim Cowden**<br>President & CEO, KCADC
 
 **Dominique Davison** AIA, Managing Principal / CEO, DRAW / PlanIT Impact
 
