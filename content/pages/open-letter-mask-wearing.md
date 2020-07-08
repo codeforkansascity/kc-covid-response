@@ -34,7 +34,7 @@ Signed,
 <tr>
 <td style="vertical-align:top">
 
-**Aaron Deacon**<br>CEO, KC Digital Drive
+**Managing Director**<br>CEO, KC Digital Drive
 
 **Andrew Deister**<br>CEO, Russell-Stover Candies
 
