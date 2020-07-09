@@ -34,13 +34,17 @@ Signed,
 <tr>
 <td style="vertical-align:top">
 
-<p><b>Deidre  Anderson</b><br>CEO, United Inner City Services</p>
+<p><b>Deidre Anderson</b><br>CEO, United Inner City Services</p>
 <p><b>Carlos Antequera</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Tahir Atwater</b><br>Director of Donor and Volunteer Engagement, Jackson County CASA</p>
 <p><b>Brad Batz</b><br>President & CEO, Fike Corporation</p>
 <p><b>Kimberly Beatty</b><br>Chancellor, Metropolitan Community College </p>
+<p><b>Bill Berkley</b><br>President & CEO, Tension Envelope Corp.</p>
+<p><b>Ken Borum</b><br>Partner, Prosperity Planning, Inc. </p>
 <p><b>Pete Browne</b><br>President, Kissick Construction Company</p>
 <p><b>Jeff Carson</b><br>Regional President, Enterprise Bank & Trust</p>
+<p><b>Karin Chang</b><br>Associate Director, Urban Education Research Center</p>
+<p><b>Kemet Coleman</b><br>Chief Operating Officer, MOSS Salon Studios</p>
 <p><b>Fred Coulson</b><br>Managing Partner, Five Elms Capital</p>
 <p><b>Tim Cowden</b><br>President and CEO, Kansas City Area Development Council</p>
 <p><b>Dominique Davison AIA</b><br>Managing Principal / CEO, DRAW / PlanIT Impact</p>
@@ -50,59 +54,76 @@ Signed,
 <p><b>Mary Esselman</b><br>CEO, Operation Breakthrough</p>
 <p><b>Tom Esselman</b><br>Executive Director, PCs for People Kansas City</p>
 <p><b>Dan Fromm</b><br>President, Barkley</p>
+<p><b>Colby Garrelts</b><br>Chef/Restaurateur, Flyover Hospitality - Rye/Bluestem</p>
 <p><b>Vincent P. Gauthier</b><br>President, Urban Realty Interests, Inc.</p>
 <p><b>Bill Gautreaux</b><br>Managing Partner, MLP Holdings LLC</p>
 <p><b>Martha Gershun</b><br>CEO, MG Consulting</p>
 <p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
 <p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
+<p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
+<p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
 
 </td>
 <td style="vertical-align:top">
 
-<p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
-<p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
+<p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University of Medicine and Biosciences</p>
 <p><b>Keith Harrington</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
-<p><b>Marc Hill</b><br>President, The Civic Council of Greater Kansas City</p>
+<p><b>Melissa Patterson Hazley</b><br>Director, Community Based Research & Evaluation, UMKC - Institute for Human Development</p>
+<p><b>Marc Hill</b><br>President, Civic Council of Greater Kansas City</p>
 <p><b>Karen Hogan</b><br>Vice President & General Manager, Turner Construction Company</p>
+<p><b>Paul Holewinski</b><br>Chief Executive Officer, Academy Bank</p>
 <p><b>Lauren Hoopes</b><br>Executive Director, Jewish Community Foundation of Greater Kansas City</p>
+<p><b>Jeffrey J. Jones II</b><br>President & Chief Executive Officer, H&R Block</p>
+<p><b>Mark Jorgenson</b><br>EVP - National Group President - Community Banking, U.S. Bank</p>
 <p><b>Jeff King</b><br>CEO, Barkley</p>
-<p><b>Mark Logan</b><br>CEO, idealect</p>
+<p><b>Julius Lai</b><br>SVP, Digital and Loyalty Marketing, AMC Theatres</p>
 <p><b>Andre Logan</b><br>Senior Vice President, Portals Hardware</p>
+<p><b>Mark Logan</b><br>CEO, idealect</p>
 <p><b>Gregg Lombardi</b><br>Executive Director, Neighborhood Legal Support of Kansas City</p>
 <p><b>Gregg Lombardi</b><br>Executive Director, Lykins Neighborhood Association</p>
+<p><b>Martha McCabe</b><br>Executive Director, KC STEM Alliance</p>
 <p><b>Eric Morgenstern</b><br>President, Morningstar Communications</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
+<p><b>Thomas O’Grady</b><br>President, HNTB Holdings, Inc.</p>
 <p><b>Nate Orr</b><br>Partner, Spencer Fane LLP</p>
+<p><b>Patrick Ottensmeyer</b><br>President & CEO, Kansas City Southern</p>
+<p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
 <p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
 <p><b>Steve Renz</b><br>Senior Vice President - Financial Advisor, Merrill Lynch</p>
-<p><b>Dennis Ridenour</b><br>President & CEO, BioNexus KC</p>
-<p><b>Andy Rieger</b><br>President, J. Rieger & Co.</p>
 
 <td style="vertical-align:top">
 
+<p><b>Dennis Ridenour</b><br>President & CEO, BioNexus KC</p>
+<p><b>Andy Rieger</b><br>President, J. Rieger & Co.</p>
 <p><b>Laurie Roberts</b><br>President, Parris Communications</p>
 <p><b>Mark Sappington</b><br>Partner, Kutak Rock</p>
 <p><b>Keely J. Schneider</b><br>Executive Director, Workforce Partnership</p>
 <p><b>Ryan Sciara</b><br>Owner, Underdog Wine Co.</p>
 <p><b>Dave Scott</b><br>Principal, Avid Communications</p>
 <p><b>Nicholas Segura</b><br>CEO, Segura Marketing & Media Solutions</p>
+<p><b>Brent Shafer</b><br>Chairman and CEO, Cerner Corporation</p>
 <p><b>Neal Sharma</b><br>CEO, DEG</p>
 <p><b>Scott Slabotsky</b><br>CEO, Slabotsky Family Office</p>
-<p><b>Stephenie Smith, MSW</b><br>Managing Partner, Sophic Solutions, LLC</p>
+<p><b>Amy Slattery</b><br>Founder + CEO, Odimo LLC</p>
 <p><b>Rich Smith</b><br>President / CEO, Henderson Engineers</p>
+<p><b>Stephenie Smith, MSW</b><br>Managing Partner, Sophic Solutions, LLC</p>
 <p><b>Anne St. Peter</b><br>Founder, Global Prairie</p>
 <p><b>John P. Stacy</b><br>President, J.P. Stacy & Company</p>
+<p><b>Awais Sufi</b><br>President and CEO, SchoolSmartKC</p>
+<p><b>Qiana Thomason</b><br>President & CEO, Health Forward Foundation</p>
 <p><b>Tucker Trotter</b><br>CEO, Dimensional Innovations </p>
 <p><b>Angelo Trozzolo</b><br>President & CEO, Trozzolo Communications Group</p>
+<p><b>Sherry Turner</b><br>Founder, OneKC for Women</p>
 <p><b>Elizabeth MacLeod Walls</b><br>President, William Jewell College</p>
 <p><b>Justin Watkins</b><br>CEO, Native Digital</p>
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
+<p><b>Robin Winner</b><br>Synergy Services, Inc., Co-Executive Director</p>
 <p><b>L. William Zahner</b><br>CEO, A. Zahner Company</p>
 <p><b>Pedro Zamora</b><br>Executive Director, HEDC</p>
 
