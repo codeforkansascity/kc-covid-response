@@ -48,38 +48,49 @@ Signed,
 <p><b>Andy Deister</b><br>CEO, Russel Stover Chocolates</p>
 <p><b>Mike English</b><br>Executive Director, Turn the Page KC</p>
 <p><b>Mary Esselman</b><br>CEO, Operation Breakthrough</p>
+<p><b>Tom Esselman</b><br>Executive Director, PCs for People Kansas City</p>
 <p><b>Dan Fromm</b><br>President, Barkley</p>
 <p><b>Vincent P. Gauthier</b><br>President, Urban Realty Interests, Inc.</p>
 <p><b>Bill Gautreaux</b><br>Managing Partner, MLP Holdings LLC</p>
 <p><b>Martha Gershun</b><br>CEO, MG Consulting</p>
+<p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
+<p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
+<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
 
 </td>
 <td style="vertical-align:top">
 
-<p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
-<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
-<p><b>Wendy Guillies</b><br>President&CEO, Kauffman Foundation </p>
+<p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
+<p><b>Keith Harrington</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
+<p><b>Marc Hill</b><br>President, The Civic Council of Greater Kansas City</p>
+<p><b>Karen Hogan</b><br>Vice President & General Manager, Turner Construction Company</p>
+<p><b>Lauren Hoopes</b><br>Executive Director, Jewish Community Foundation of Greater Kansas City</p>
 <p><b>Jeff King</b><br>CEO, Barkley</p>
 <p><b>Mark Logan</b><br>CEO, idealect</p>
+<p><b>Andre Logan</b><br>Senior Vice President, Portals Hardware</p>
+<p><b>Gregg Lombardi</b><br>Executive Director, Neighborhood Legal Support of Kansas City</p>
+<p><b>Gregg Lombardi</b><br>Executive Director, Lykins Neighborhood Association</p>
 <p><b>Eric Morgenstern</b><br>President, Morningstar Communications</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
 <p><b>Nate Orr</b><br>Partner, Spencer Fane LLP</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
+<p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
 <p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
 <p><b>Steve Renz</b><br>Senior Vice President - Financial Advisor, Merrill Lynch</p>
 <p><b>Dennis Ridenour</b><br>President & CEO, BioNexus KC</p>
 <p><b>Andy Rieger</b><br>President, J. Rieger & Co.</p>
-<p><b>Laurie Roberts</b><br>President, Parris Communications</p>
 
 <td style="vertical-align:top">
 
+<p><b>Laurie Roberts</b><br>President, Parris Communications</p>
 <p><b>Mark Sappington</b><br>Partner, Kutak Rock</p>
 <p><b>Keely J. Schneider</b><br>Executive Director, Workforce Partnership</p>
 <p><b>Ryan Sciara</b><br>Owner, Underdog Wine Co.</p>
+<p><b>Dave Scott</b><br>Principal, Avid Communications</p>
 <p><b>Nicholas Segura</b><br>CEO, Segura Marketing & Media Solutions</p>
 <p><b>Neal Sharma</b><br>CEO, DEG</p>
 <p><b>Scott Slabotsky</b><br>CEO, Slabotsky Family Office</p>
@@ -91,6 +102,7 @@ Signed,
 <p><b>Angelo Trozzolo</b><br>President & CEO, Trozzolo Communications Group</p>
 <p><b>Elizabeth MacLeod Walls</b><br>President, William Jewell College</p>
 <p><b>Justin Watkins</b><br>CEO, Native Digital</p>
+<p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
 <p><b>L. William Zahner</b><br>CEO, A. Zahner Company</p>
 <p><b>Pedro Zamora</b><br>Executive Director, HEDC</p>
 
