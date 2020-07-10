@@ -19,7 +19,7 @@ Mask-wearing mandates have been implemented in some parts of the KC metro area, 
 
 In the interests of keeping our employees, our customers, and our region as safe as possible, we are calling on our fellow business leaders to put in place firm policies that:
 
-* Require employees to wear masks indoors, and require them outdoors if 6' distance cannot be guaranteed;
+* Require employees to wear masks, indoors whenever 6' spacing cannot be accomplished, and outdoors whenever there is prolonged contact (10+ minutes) within 6'.
 * Require customers and clients to wear masks in our stores and facilities;
 * Provide high-quality masks to employees, clients, and customers who need them.
 
@@ -92,8 +92,9 @@ Signed,
 <p><b>Mark Logan</b><br>CEO, idealect</p>
 <p><b>Gregg Lombardi</b><br>Executive Director, Neighborhood Legal Support of Kansas City</p>
 <p><b>Martha McCabe</b><br>Executive Director, KC STEM Alliance</p>
-<p><b>Eric Morgenstern</b><br>President, Morningstar Communications</p>
+<p><b>Eric Morgenstern</b><br>CEO, Morningstar Communications</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
+<p><b>Leigh Nottberg</b><br>Chair, Nottberg Family Foundation</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
 <p><b>Thomas O’Grady</b><br>President, HNTB Holdings, Inc.</p>
@@ -105,11 +106,11 @@ Signed,
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 <p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
-<p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
-<p><b>Steve Renz</b><br>Senior Vice President - Financial Advisor, Merrill Lynch</p>
 
 <td style="vertical-align:top">
 
+<p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
+<p><b>Steve Renz</b><br>Senior Vice President - Financial Advisor, Merrill Lynch</p>
 <p><b>Dennis Ridenour</b><br>President & CEO, BioNexus KC</p>
 <p><b>Andy Rieger</b><br>President, J. Rieger & Co.</p>
 <p><b>Laurie Roberts</b><br>President, Parris Communications</p>
@@ -128,7 +129,7 @@ Signed,
 <p><b>Stephenie Smith, MSW</b><br>Managing Partner, Sophic Solutions, LLC</p>
 <p><b>Anne St. Peter</b><br>Founder, Global Prairie</p>
 <p><b>John P. Stacy</b><br>President, J.P. Stacy & Company</p>
-<p><b>Brent Steward</b><br>President/CEO, United Way of Greater Kansas City</p>
+<p><b>Brent Stewart</b><br>President/CEO, United Way of Greater Kansas City</p>
 <p><b>Awais Sufi</b><br>President and CEO, SchoolSmartKC</p>
 <p><b>Qiana Thomason</b><br>President & CEO, Health Forward Foundation</p>
 <p><b>Tucker Trotter</b><br>CEO, Dimensional Innovations </p>
@@ -140,7 +141,7 @@ Signed,
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
 <p><b>Robin Winner</b><br>Synergy Services, Inc., Co-Executive Director</p>
 <p><b>L. William Zahner</b><br>CEO, A. Zahner Company</p>
-<p><b>Pedro Zamora</b><br>Executive Director, HEDC</p>
+<p><b>Pedro Zamora</b><br>Executive Director, Hispanic Economic Development Corporation</p>
 
 </td>
 </tr>
