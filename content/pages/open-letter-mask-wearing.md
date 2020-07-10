@@ -65,9 +65,11 @@ Signed,
 <p><b>Melinda L. Estes, MD</b><br>President and CEO, Saint Luke's Health System</p>
 <p><b>Dan Fromm</b><br>President, Barkley</p>
 <p><b>Colby Garrelts</b><br>Chef/Restaurateur, Flyover Hospitality - Rye/Bluestem</p>
+<p><b>Robert Garrison</b><br>Senior Associate, Terracon Consultants, Inc.</p>
 <p><b>Vincent P. Gauthier</b><br>President, Urban Realty Interests, Inc.</p>
 <p><b>Bill Gautreaux</b><br>Managing Partner, MLP Holdings LLC</p>
 <p><b>Martha Gershun</b><br>CEO, MG Consulting</p>
+<p><b>Chris Giuliani</b><br>CEO, Spring Venture Group</p>
 <p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
 
@@ -93,6 +95,7 @@ Signed,
 <p><b>Jeff King</b><br>CEO, Barkley</p>
 <p><b>Ray Kowalik</b><br>CEO, Burns & McDonnell</p>
 <p><b>Julius Lai</b><br>SVP, Digital and Loyalty Marketing, AMC Theatres</p>
+<p><b>Gordon Lansford</b><br>CEO, JE Dunn Construction</p>
 <p><b>Mark R. Larrabee</b><br>President & CEO- Greater Kansas City, Arvest Bank</p>
 <p><b>Andre Logan</b><br>Senior Vice President, Portals Hardware</p>
 <p><b>Mark Logan</b><br>CEO, idealect</p>
@@ -104,9 +107,10 @@ Signed,
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
 <p><b>Thomas O’Grady</b><br>President, HNTB Holdings, Inc.</p>
+<p><b>Tracey Osborne Oltjen</b><br>President & CEO, Overland Park Chamber of Commerce</p>
 <p><b>Nate Orr</b><br>Partner, Spencer Fane LLP</p>
-<p><b>Tracey Osborne</b><br>President & CEO, Overland Park Chamber of Commerce</p>
 <p><b>Patrick Ottensmeyer</b><br>President & CEO, Kansas City Southern</p>
+<p><b>Gayle Packer</b><br>CEO, Terracon</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
@@ -121,7 +125,6 @@ Signed,
 <p><b>Andy Rieger</b><br>President, J. Rieger & Co.</p>
 <p><b>Laurie Roberts</b><br>President, Parris Communications</p>
 <p><b>Joshua Rowland</b><br>Chief Executive Officer, Lead Bank</p>
-<p><b>Deana Ruud</b><br>Communications Manager, Terracon</p>
 <p><b>Mark Sappington</b><br>Partner, Kutak Rock</p>
 <p><b>Keely J. Schneider</b><br>Executive Director, Workforce Partnership</p>
 <p><b>Ryan Sciara</b><br>Owner, Underdog Wine Co.</p>
@@ -136,15 +139,17 @@ Signed,
 <p><b>Anne St. Peter</b><br>Founder, Global Prairie</p>
 <p><b>John P. Stacy</b><br>President, J.P. Stacy & Company</p>
 <p><b>Brent Stewart</b><br>President/CEO, United Way of Greater Kansas City</p>
+<p><b>Mike Stradinger</b><br>CEO, Holland 1916</p>
 <p><b>Awais Sufi</b><br>President and CEO, SchoolSmartKC</p>
 <p><b>Qiana Thomason</b><br>President & CEO, Health Forward Foundation</p>
 <p><b>Tucker Trotter</b><br>CEO, Dimensional Innovations </p>
 <p><b>Angelo Trozzolo</b><br>President & CEO, Trozzolo Communications Group</p>
 <p><b>Sherry Turner</b><br>Founder, OneKC for Women</p>
+<p><b>Sheryl Wagner</b><br>Vice President / Director of Accounting, Terracon Consultants, Inc.</p>
 <p><b>Elizabeth MacLeod Walls</b><br>President, William Jewell College</p>
 <p><b>David Warm</b><br>Executive Director, Mid-America Regional Council</p>
 <p><b>Justin Watkins</b><br>CEO, Native Digital</p>
-<p><b>Eileen Weir</b><br>Mayor, Independence, Missouri</p>
+<p><b>Eileen Weir</b><br>Mayor, City of Independence</p>
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
 <p><b>Robin Winner</b><br>Synergy Services, Inc., Co-Executive Director</p>
 <p><b>L. William Zahner</b><br>CEO, A. Zahner Company</p>
