@@ -34,8 +34,10 @@ Signed,
 <tr>
 <td style="vertical-align:top">
 
+<p><b>David Alvey</b><br>Mayor, Kansas City, KS</p>
 <p><b>Deidre  Anderson</b><br>CEO, United Inner City Services</p>
 <p><b>Carlos Antequera</b><br>Managing Director, Novel Growth Partners</p>
+<p><b>Adam Arredondo</b><br>CEO, STARTLAND</p>
 <p><b>Tahir Atwater</b><br>Director of Donor and Volunteer Engagement, Jackson County CASA</p>
 <p><b>Brad Batz</b><br>President & CEO, Fike Corporation</p>
 <p><b>Kimberly Beatty</b><br>Chancellor, Metropolitan Community College </p>
@@ -43,7 +45,9 @@ Signed,
 <p><b>Angie Blumel</b><br>President and CEO, Jackson County CASA</p>
 <p><b>Ken Borum</b><br>Partner, Prosperity Planning, Inc. </p>
 <p><b>Pete Browne</b><br>President, Kissick Construction Company</p>
+<p><b>Faruk Capan</b><br>CEO, Intouch Group</p>
 <p><b>Jeff Carson</b><br>Regional President, Enterprise Bank & Trust</p>
+<p><b>Mark E. Eveans, CFA</b><br>President, Chief Investment Officer, Meritage Portfolio Management</p>
 <p><b>Karin Chang</b><br>Associate Director, Urban Education Research Center</p>
 <p><b>Kemet Coleman</b><br>Chief Operating Officer, MOSS Salon Studios</p>
 <p><b>Rita M. Cortes</b><br>Executive Director, Menorah Heritage Foundation</p>
@@ -66,12 +70,12 @@ Signed,
 <p><b>Martha Gershun</b><br>CEO, MG Consulting</p>
 <p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
-<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
-<p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 
 </td>
 <td style="vertical-align:top">
 
+<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
+<p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
 <p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University</p>
@@ -83,9 +87,11 @@ Signed,
 <p><b>Karen Hogan</b><br>Vice President & General Manager, Turner Construction Company</p>
 <p><b>Paul Holewinski</b><br>Chief Executive Officer, Academy Bank</p>
 <p><b>Lauren Hoopes</b><br>Executive Director, Jewish Community Foundation of Greater Kansas City</p>
+<p><b>Darcy Howe</b><br>Founder, Managing Director, KCRise Fund </p>
 <p><b>Jeffrey J. Jones II</b><br>President & Chief Executive Officer, H&R Block</p>
 <p><b>Mark Jorgenson</b><br>EVP - National Group President - Community Banking, U.S. Bank</p>
 <p><b>Jeff King</b><br>CEO, Barkley</p>
+<p><b>Ray Kowalik</b><br>CEO, Burns & McDonnell</p>
 <p><b>Julius Lai</b><br>SVP, Digital and Loyalty Marketing, AMC Theatres</p>
 <p><b>Mark R. Larrabee</b><br>President & CEO- Greater Kansas City, Arvest Bank</p>
 <p><b>Andre Logan</b><br>Senior Vice President, Portals Hardware</p>
@@ -104,11 +110,11 @@ Signed,
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
-<p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
-<p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
 
 <td style="vertical-align:top">
 
+<p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
+<p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
 <p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
 <p><b>Steve Renz</b><br>Senior Vice President - Financial Advisor, Merrill Lynch</p>
 <p><b>Dennis Ridenour</b><br>President & CEO, BioNexus KC</p>
@@ -136,6 +142,7 @@ Signed,
 <p><b>Angelo Trozzolo</b><br>President & CEO, Trozzolo Communications Group</p>
 <p><b>Sherry Turner</b><br>Founder, OneKC for Women</p>
 <p><b>Elizabeth MacLeod Walls</b><br>President, William Jewell College</p>
+<p><b>David Warm</b><br>Executive Director, Mid-America Regional Council</p>
 <p><b>Justin Watkins</b><br>CEO, Native Digital</p>
 <p><b>Eileen Weir</b><br>Mayor, Independence, Missouri</p>
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
