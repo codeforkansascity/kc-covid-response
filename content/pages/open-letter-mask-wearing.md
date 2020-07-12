@@ -75,10 +75,14 @@ Signed,
 <p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
 
+<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
+
+
+
 </td>
 <td style="vertical-align:top">
 
-<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
+
 <p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
@@ -119,9 +123,11 @@ Signed,
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 
+<p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
+
 <td style="vertical-align:top">
 
-<p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
+
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 <p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
