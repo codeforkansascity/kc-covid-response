@@ -125,10 +125,11 @@ Signed,
 
 <p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
 
+<p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
+
 <td style="vertical-align:top">
 
 
-<p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 <p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
 <p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
