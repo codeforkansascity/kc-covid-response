@@ -65,6 +65,8 @@ Signed,
 <p><b>Melinda L. Estes, MD</b><br>President and CEO, Saint Luke's Health System</p>
 <p><b>Dan Fromm</b><br>President, Barkley</p>
 <p><b>Colby Garrelts</b><br>Chef/Restaurateur, Flyover Hospitality - Rye/Bluestem</p>
+<p><b>Alexandra Garrick</b><br>Executive Director, National Kidney Foundation Serving Kansas, Western Missouri and Oklahoma.</p>
+<p><b>Cameron Garrison</b><br>Managing Partner, Lathrop GPM</p>
 <p><b>Robert Garrison</b><br>Senior Associate, Terracon Consultants, Inc.</p>
 <p><b>Vincent P. Gauthier</b><br>President, Urban Realty Interests, Inc.</p>
 <p><b>Bill Gautreaux</b><br>Managing Partner, MLP Holdings LLC</p>
@@ -72,11 +74,11 @@ Signed,
 <p><b>Chris Giuliani</b><br>CEO, Spring Venture Group</p>
 <p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
-<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
 
 </td>
 <td style="vertical-align:top">
 
+<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
 <p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
@@ -104,7 +106,9 @@ Signed,
 <p><b>Chase McAnulty</b><br>Founder / CEO, Charlie Hustle, LLC.</p>
 <p><b>Martha McCabe</b><br>Executive Director, KC STEM Alliance</p>
 <p><b>Eric Morgenstern</b><br>CEO, Morningstar Communications</p>
+<p><b>Leo Morton</b><br>President & COO, DeBruce Companies</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
+<p><b>Rick Norden</b><br>President, Fairbanks Scales</p>
 <p><b>Leigh Nottberg</b><br>Chair, Nottberg Family Foundation</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
@@ -114,11 +118,11 @@ Signed,
 <p><b>Patrick Ottensmeyer</b><br>President & CEO, Kansas City Southern</p>
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
-<p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
-<p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 
 <td style="vertical-align:top">
 
+<p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
+<p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 <p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
 <p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
