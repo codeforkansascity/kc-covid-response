@@ -53,12 +53,12 @@ Signed,
 <p><b>Rita M. Cortes</b><br>Executive Director, Menorah Heritage Foundation</p>
 <p><b>Fred Coulson</b><br>Managing Partner, Five Elms Capital</p>
 <p><b>Tim Cowden</b><br>President and CEO, Kansas City Area Development Council</p>
-<p><b>Doug Davidson</b><br>President, County Economic Research Institute</p>
 <p><b>Dominique Davison AIA</b><br>Managing Principal / CEO, DRAW / PlanIT Impact</p>
 <p><b>Aaron Deacon</b><br>Managing Director, KC Digital Drive</p>
 <p><b>Andy Deister</b><br>CEO, Russel Stover Chocolates</p>
 <p><b>Julie Donelon</b><br>President/CEO, Metropolitan Organization to Counter Sexual Assault</p>
 <p><b>Karrie Duke</b><br>Director of Development, Center for the Developmentally Disabled</p>
+<p><b>Ed Eilert</b><br>Chairman, Johnson County Board of County Commissioners</p>
 <p><b>Mike English</b><br>Executive Director, Turn the Page KC</p>
 <p><b>Mary Esselman</b><br>CEO, Operation Breakthrough</p>
 <p><b>Tom Esselman</b><br>Executive Director, PCs for People Kansas City</p>
@@ -72,11 +72,11 @@ Signed,
 <p><b>Chris Giuliani</b><br>CEO, Spring Venture Group</p>
 <p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
+<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
 
 </td>
 <td style="vertical-align:top">
 
-<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
 <p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
@@ -97,9 +97,11 @@ Signed,
 <p><b>Julius Lai</b><br>SVP, Digital and Loyalty Marketing, AMC Theatres</p>
 <p><b>Gordon Lansford</b><br>CEO, JE Dunn Construction</p>
 <p><b>Mark R. Larrabee</b><br>President & CEO- Greater Kansas City, Arvest Bank</p>
+<p><b>Jacob Lindmark</b><br>Owner, Ticket Solutions</p>
 <p><b>Andre Logan</b><br>Senior Vice President, Portals Hardware</p>
 <p><b>Mark Logan</b><br>CEO, idealect</p>
 <p><b>Gregg Lombardi</b><br>Executive Director, Neighborhood Legal Support of Kansas City</p>
+<p><b>Chase McAnulty</b><br>Founder / CEO, Charlie Hustle, LLC.</p>
 <p><b>Martha McCabe</b><br>Executive Director, KC STEM Alliance</p>
 <p><b>Eric Morgenstern</b><br>CEO, Morningstar Communications</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
@@ -126,6 +128,7 @@ Signed,
 <p><b>Laurie Roberts</b><br>President, Parris Communications</p>
 <p><b>Joshua Rowland</b><br>Chief Executive Officer, Lead Bank</p>
 <p><b>Mark Sappington</b><br>Partner, Kutak Rock</p>
+<p><b>Brad Satterwhite</b><br>Partner, Principal, KEM STUDIO</p>
 <p><b>Keely J. Schneider</b><br>Executive Director, Workforce Partnership</p>
 <p><b>Ryan Sciara</b><br>Owner, Underdog Wine Co.</p>
 <p><b>Dave Scott</b><br>Principal, Avid Communications</p>
@@ -134,6 +137,7 @@ Signed,
 <p><b>Neal Sharma</b><br>CEO, DEG</p>
 <p><b>Scott Slabotsky</b><br>CEO, Slabotsky Family Office</p>
 <p><b>Amy Slattery</b><br>Founder + CEO, Odimo LLC</p>
+<p><b>Jim Sluyter</b><br>President and CEO, The Jewish Community Center</p>
 <p><b>Rich Smith</b><br>President / CEO, Henderson Engineers</p>
 <p><b>Stephenie Smith, MSW</b><br>Managing Partner, Sophic Solutions, LLC</p>
 <p><b>Anne St. Peter</b><br>Founder, Global Prairie</p>
