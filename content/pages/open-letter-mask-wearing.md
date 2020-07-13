@@ -75,14 +75,11 @@ Signed,
 <p><b>Chris Giuliani</b><br>CEO, Spring Venture Group</p>
 <p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
-
-
+<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
 
 </td>
 <td style="vertical-align:top">
 
-
-<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
 <p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
@@ -99,6 +96,7 @@ Signed,
 <p><b>Jeffrey J. Jones II</b><br>President & Chief Executive Officer, H&R Block</p>
 <p><b>Mark Jorgenson</b><br>EVP - National Group President - Community Banking, U.S. Bank</p>
 <p><b>Jeff King</b><br>CEO, Barkley</p>
+<p><b>Leigh Anne Taylor Knight</b><br>Executive Director & COO, The DeBruce Foundation</p>
 <p><b>Ray Kowalik</b><br>CEO, Burns & McDonnell</p>
 <p><b>Julius Lai</b><br>SVP, Digital and Loyalty Marketing, AMC Theatres</p>
 <p><b>Gordon Lansford</b><br>CEO, JE Dunn Construction</p>
@@ -112,7 +110,7 @@ Signed,
 <p><b>Eric Morgenstern</b><br>CEO, Morningstar Communications</p>
 <p><b>Leo Morton</b><br>President & COO, DeBruce Companies</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
-<p><b>Rick Norden</b><br>President, Fairbanks Scales</p>
+<p><b>Rick Norden</b><br>President and CEO, Fairbanks Scales</p>
 <p><b>Leigh Nottberg</b><br>Chair, Nottberg Family Foundation</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
@@ -120,13 +118,12 @@ Signed,
 <p><b>Tracey Osborne Oltjen</b><br>President & CEO, Overland Park Chamber of Commerce</p>
 <p><b>Nate Orr</b><br>Partner, Spencer Fane LLP</p>
 <p><b>Patrick Ottensmeyer</b><br>President & CEO, Kansas City Southern</p>
+<p><b>John Owen</b><br>President & CEO, Airshare</p>
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
-<p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 
 <td style="vertical-align:top">
-
 
 <p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
@@ -135,6 +132,7 @@ Signed,
 <p><b>Dennis Ridenour</b><br>President & CEO, BioNexus KC</p>
 <p><b>Andy Rieger</b><br>President, J. Rieger & Co.</p>
 <p><b>Laurie Roberts</b><br>President, Parris Communications</p>
+<p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
 <p><b>Joshua Rowland</b><br>Chief Executive Officer, Lead Bank</p>
 <p><b>Mark Sappington</b><br>Partner, Kutak Rock</p>
 <p><b>Brad Satterwhite</b><br>Partner, Principal, KEM STUDIO</p>
@@ -156,6 +154,7 @@ Signed,
 <p><b>Mike Stradinger</b><br>CEO, Holland 1916</p>
 <p><b>Awais Sufi</b><br>President and CEO, SchoolSmartKC</p>
 <p><b>Qiana Thomason</b><br>President & CEO, Health Forward Foundation</p>
+<p><b>Timothy W. Triplett</b><br>General Counsel, Black & Veatch</p>
 <p><b>Tucker Trotter</b><br>CEO, Dimensional Innovations </p>
 <p><b>Angelo Trozzolo</b><br>President & CEO, Trozzolo Communications Group</p>
 <p><b>Sherry Turner</b><br>Founder, OneKC for Women</p>
