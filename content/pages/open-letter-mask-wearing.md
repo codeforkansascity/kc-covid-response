@@ -35,7 +35,7 @@ Signed,
 <td style="vertical-align:top">
 
 <p><b>David Alvey</b><br>Mayor, Kansas City, KS</p>
-<p><b>Deidre  Anderson</b><br>CEO, United Inner City Services</p>
+<p><b>Deidre Anderson</b><br>CEO, United Inner City Services</p>
 <p><b>Carlos Antequera</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Adam Arredondo</b><br>CEO, STARTLAND</p>
 <p><b>Tahir Atwater</b><br>Director of Donor and Volunteer Engagement, Jackson County CASA</p>
@@ -59,6 +59,7 @@ Signed,
 <p><b>Andy Deister</b><br>CEO, Russel Stover Chocolates</p>
 <p><b>Julie Donelon</b><br>President/CEO, Metropolitan Organization to Counter Sexual Assault</p>
 <p><b>Karrie Duke</b><br>Director of Development, Center for the Developmentally Disabled</p>
+<p><b>Linda Eanes</b><br>Chief Executive Officer, Agile Government Services, Inc</p>
 <p><b>Ed Eilert</b><br>Chairman, Johnson County Board of County Commissioners</p>
 <p><b>Mike English</b><br>Executive Director, Turn the Page KC</p>
 <p><b>Mary Esselman</b><br>CEO, Operation Breakthrough</p>
@@ -76,14 +77,15 @@ Signed,
 <p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
 <p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
+<p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 
 </td>
 <td style="vertical-align:top">
 
-<p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
 <p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University</p>
+<p><b>Janeé Hanzlick</b><br>Johnson County Commissioner, District 4, Johnson County Kansas</p>
 <p><b>Keith Harrington</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
 <p><b>Melissa Patterson Hazley</b><br>Director, Community Based Research & Evaluation, UMKC - Institute for Human Development</p>
@@ -110,6 +112,7 @@ Signed,
 <p><b>Eric Morgenstern</b><br>CEO, Morningstar Communications</p>
 <p><b>Leo Morton</b><br>President & COO, DeBruce Companies</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
+<p><b>Ronald W Nelson</b><br>President, Ronald W. Nelson, P.A. Law Office</p>
 <p><b>Rick Norden</b><br>President and CEO, Fairbanks Scales</p>
 <p><b>Leigh Nottberg</b><br>Chair, Nottberg Family Foundation</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
@@ -120,6 +123,7 @@ Signed,
 <p><b>Patrick Ottensmeyer</b><br>President & CEO, Kansas City Southern</p>
 <p><b>John Owen</b><br>President & CEO, Airshare</p>
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
+<p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 
@@ -150,11 +154,12 @@ Signed,
 <p><b>Stephenie Smith, MSW</b><br>Managing Partner, Sophic Solutions, LLC</p>
 <p><b>Anne St. Peter</b><br>Founder, Global Prairie</p>
 <p><b>John P. Stacy</b><br>President, J.P. Stacy & Company</p>
+<p><b>John D. Starr</b><br>Chairman, UltraSource LLC </p>
 <p><b>Brent Stewart</b><br>President/CEO, United Way of Greater Kansas City</p>
 <p><b>Mike Stradinger</b><br>CEO, Holland 1916</p>
 <p><b>Awais Sufi</b><br>President and CEO, SchoolSmartKC</p>
 <p><b>Qiana Thomason</b><br>President & CEO, Health Forward Foundation</p>
-<p><b>Timothy W. Triplett</b><br>General Counsel, Black & Veatch</p>
+<p><b>Timothy W. Triplett</b><br>Executive Vice President & General Counsel, Black & Veatch</p>
 <p><b>Tucker Trotter</b><br>CEO, Dimensional Innovations </p>
 <p><b>Angelo Trozzolo</b><br>President & CEO, Trozzolo Communications Group</p>
 <p><b>Sherry Turner</b><br>Founder, OneKC for Women</p>
@@ -165,6 +170,7 @@ Signed,
 <p><b>Eileen Weir</b><br>Mayor, City of Independence</p>
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
 <p><b>Robin Winner</b><br>Synergy Services, Inc., Co-Executive Director</p>
+<p><b>Chris Wood</b><br>CEO / Partner, Paige Technologies</p>
 <p><b>L. William Zahner</b><br>CEO, A. Zahner Company</p>
 <p><b>Pedro Zamora</b><br>Executive Director, Hispanic Economic Development Corporation</p>
 
