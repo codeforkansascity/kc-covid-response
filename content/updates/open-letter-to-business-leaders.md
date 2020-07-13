@@ -24,10 +24,8 @@ Signers include Bill Berkley, President and CEO, Tension.; Tim Cowden, President
 
 "Business leaders have a unique role to play in this pandemic,” according to Tyler Nottberg, Chairman and CEO, U.S. Engineering Company Holdings, and one of the founders of Comeback KC. “We can use our influence to help set behavioral norms that benefit the entire community. Wearing a mask is a simple act of kindness—a gift to people we may never meet. It will improve public health, reduce the spread of COVID-19, and protect the economy. It's our best shot at a sustainable recovery." Comeback KC is a public/private partnership supporting a unified strategy for the entire KC region to make a sustainable comeback from COVID-19.
 
-
-
 <center>
 
-#### [Read the Open Letter](https://www.comebackkc.com/updates/open-letter-to-business-leaders/)
+#### [Read the Open Letter](https://www.comebackkc.com/open-letter-mask-wearing/)
 
 </center>
