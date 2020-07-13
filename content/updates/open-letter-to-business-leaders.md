@@ -22,6 +22,12 @@ The Open Letter notes that the science is clear:  Wearing masks is the easiest, 
 
 Signers include Bill Berkley, President and CEO, Tension.; Tim Cowden, President and CEO, Kansas City Area Development Council; Andy Deister, CEO, Russel Stover Chocolates; Ed Eilert, Chair, Johnson County Board of County Commissioners; Melinda L. Estes, M.D., President and CEO, Saint Luke’s Health System; Marc Hill, President, Civic Council of Greater Kansas City; Jeffrey J. Jones II, President and CEO, H&R Block; Ray Kowalik, CEO, Burns & McDonnell; Gordon Lansford, CEO, JE Dunn; Elizabeth MacLeod Walls, President, William Jewell College; Tracey Osborne, President and CEO, Overland Park Chamber of Commerce; Patrick Ottensmeyer, President and CEO, Kansas City Southern; Joe Reardon, President/CEO, Greater Kansas City Chamber of Commerce; Brent Shafer, Chairman and CEO, Cerner Corporation; Brent Stewart, President/CEO, United Way of Greater Kansas City; Qiana Thomason, President and CEO, Health Forward Foundation; David Warm, Executive Director, Mid-America Regional Council; and Pedro Zamora, Executive Director, Hispanic Economic Development Corporation. 
 
-The full list of signers can be found [here](https://www.comebackkc.com/open-letter-mask-wearing/): 
-
 "Business leaders have a unique role to play in this pandemic,” according to Tyler Nottberg, Chairman and CEO, U.S. Engineering Company Holdings, and one of the founders of Comeback KC. “We can use our influence to help set behavioral norms that benefit the entire community. Wearing a mask is a simple act of kindness—a gift to people we may never meet. It will improve public health, reduce the spread of COVID-19, and protect the economy. It's our best shot at a sustainable recovery." Comeback KC is a public/private partnership supporting a unified strategy for the entire KC region to make a sustainable comeback from COVID-19.
+
+
+
+<center>
+
+#### [Read the Open Letter](https://www.comebackkc.com/updates/open-letter-to-business-leaders/)
+
+</center>
