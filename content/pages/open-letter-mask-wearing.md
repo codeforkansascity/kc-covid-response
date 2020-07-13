@@ -39,6 +39,7 @@ Signed,
 <p><b>Carlos Antequera</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Adam Arredondo</b><br>CEO, STARTLAND</p>
 <p><b>Tahir Atwater</b><br>Director of Donor and Volunteer Engagement, Jackson County CASA</p>
+<p><b>Rita Baslock</b><br>President, Max Electric, Inc.</p>
 <p><b>Brad Batz</b><br>President & CEO, Fike Corporation</p>
 <p><b>Kimberly Beatty</b><br>Chancellor, Metropolitan Community College </p>
 <p><b>Bill Berkley</b><br>President & CEO, Tension Envelope Corp.</p>
@@ -75,14 +76,13 @@ Signed,
 <p><b>Joel Goldberg</b><br>Owner, Joel Goldberg Media </p>
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
 
-<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
-
 
 
 </td>
 <td style="vertical-align:top">
 
 
+<p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
 <p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
@@ -122,9 +122,7 @@ Signed,
 <p><b>Patrick Ottensmeyer</b><br>President & CEO, Kansas City Southern</p>
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
-
 <p><b>Timothy J. Ross, PE</b><br>President/CEO, GBA</p>
-
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 
 <td style="vertical-align:top">
@@ -146,6 +144,7 @@ Signed,
 <p><b>Nicholas Segura</b><br>CEO, Segura Marketing & Media Solutions</p>
 <p><b>Brent Shafer</b><br>Chairman and CEO, Cerner Corporation</p>
 <p><b>Neal Sharma</b><br>CEO, DEG</p>
+<p><b>Jeff Simon</b><br>Office Managing Partner, Husch Blackwell</p>
 <p><b>Scott Slabotsky</b><br>CEO, Slabotsky Family Office</p>
 <p><b>Amy Slattery</b><br>Founder + CEO, Odimo LLC</p>
 <p><b>Jim Sluyter</b><br>President and CEO, The Jewish Community Center</p>
