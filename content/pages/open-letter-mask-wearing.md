@@ -44,6 +44,7 @@ Signed,
 <p><b>Rita Baslock</b><br>President, Max Electric, Inc.</p>
 <p><b>Brad Batz</b><br>President & CEO, Fike Corporation</p>
 <p><b>Kimberly Beatty</b><br>Chancellor, Metropolitan Community College </p>
+<p><b>Angela Bedell</b><br>Executive Director, Kansas City Medical Society</p>
 <p><b>Allison Berey</b><br>CEO, M:CALIBRATE</p>
 <p><b>Bill Berkley</b><br>President & CEO, Tension Envelope Corp.</p>
 <p><b>Angie Blumel</b><br>President and CEO, Jackson County CASA</p>
@@ -55,6 +56,7 @@ Signed,
 <p><b>Mark E. Eveans, CFA</b><br>President, Chief Investment Officer, Meritage Portfolio Management</p>
 <p><b>Karin Chang</b><br>Associate Director, Urban Education Research Center</p>
 <p><b>Kemet Coleman</b><br>Chief Operating Officer, MOSS Salon Studios</p>
+<p><b>Matthew Condon</b><br>Founder & CEO, Bardavon Health Innovations </p>
 <p><b>Rita M. Cortes</b><br>Executive Director, Menorah Heritage Foundation</p>
 <p><b>Fred Coulson</b><br>Managing Partner, Five Elms Capital</p>
 <p><b>Tim Cowden</b><br>President and CEO, Kansas City Area Development Council</p>
@@ -83,12 +85,12 @@ Signed,
 <p><b>Don Goldman</b><br>Executive Director & CEO, Jewish Family Services of Greater Kansas City</p>
 <p><b>J. Brett Gordon</b><br>Chairman/President, McCownGordon Construction</p>
 <p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
+<p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
+<p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
 
 </td>
 <td style="vertical-align:top">
 
-<p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
-<p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
 <p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University</p>
 <p><b>Tammy Ham</b><br>President and Executive Director, BioNovus Innovations, LLC</p>
 <p><b>Janeé Hanzlick</b><br>Johnson County Commissioner, District 4, Johnson County Kansas</p>
@@ -96,13 +98,16 @@ Signed,
 <p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
 <p><b>Melissa Patterson Hazley</b><br>Director, Community Based Research & Evaluation, UMKC - Institute for Human Development</p>
 <p><b>Michael Helmstetter</b><br>President & CEO, TechAccel, LLC</p>
+<p><b>John Herron</b><br>CEO, Kansas City Public Library</p>
 <p><b>Marc Hill</b><br>President, Civic Council of Greater Kansas City</p>
 <p><b>Michael Hoehn</b><br>President, Automatic Systems, Inc.</p>
 <p><b>Karen Hogan</b><br>Vice President & General Manager, Turner Construction Company</p>
 <p><b>Paul Holewinski</b><br>Chief Executive Officer, Academy Bank</p>
 <p><b>Lauren Hoopes</b><br>Executive Director, Jewish Community Foundation of Greater Kansas City</p>
 <p><b>Darcy Howe</b><br>Founder, Managing Director, KCRise Fund </p>
+<p><b>Christina Hoxie</b><br>Owner and Community Planner, Hoxie Collective LLC</p>
 <p><b>Jarrod Huntley</b><br>VP Operations, Central Plains Cement Company LLC</p>
+<p><b>Erick Jessee</b><br>President, Posty Cards</p>
 <p><b>Geoff Jolley</b><br>Executive Director, LISC Greater Kansas City</p>
 <p><b>Jeffrey J. Jones II</b><br>President & Chief Executive Officer, H&R Block</p>
 <p><b>Mark Jorgenson</b><br>EVP - National Group President - Community Banking, U.S. Bank</p>
@@ -123,24 +128,28 @@ Signed,
 <p><b>Leo Morton</b><br>President & COO, DeBruce Companies</p>
 <p><b>Sarah Murphy</b><br>Manager of Brand Experience and Communications, Ability KC</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
+<p><b>Kathy Nelson</b><br>President/CEO, Greater Kansas City Sports Commission & Foundation </p>
 <p><b>Ronald W Nelson</b><br>President, Ronald W. Nelson, P.A. Law Office</p>
 <p><b>Rick Norden</b><br>President and CEO, Fairbanks Scales</p>
 <p><b>Leigh Nottberg</b><br>Chair, Nottberg Family Foundation</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
 <p><b>Thomas O’Grady</b><br>President, HNTB Holdings, Inc.</p>
+<p><b>Rick Oberdahlhoff</b><br>Director of Sales & Marketing, The Fontaine Hotel Country Cub Plaza</p>
 <p><b>Tracey Osborne Oltjen</b><br>President & CEO, Overland Park Chamber of Commerce</p>
 <p><b>Nate Orr</b><br>Partner, Spencer Fane LLP</p>
 <p><b>Patrick Ottensmeyer</b><br>President & CEO, Kansas City Southern</p>
 <p><b>John Owen</b><br>President & CEO, Airshare</p>
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
+<p><b>Bob Page</b><br>President & CEO, The University of Kansas Health System</p>
 <p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
-<p><b>Tracey Passantino</b><br>Co-Founder, Foundation 4 Domestic Violence Prevention</p>
+<p><b>Tracey Passantino</b><br>Co-Founder, Foundation4 Domestic Violence Prevention</p>
 
 <td style="vertical-align:top">
 
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
+<p><b>Tammy Peterman</b><br>President, Kansas City Division, The University of Kansas Health System</p>
 <p><b>Michael Poppa</b><br>Executive Director, Mainstream Coalition</p>
 <p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
@@ -172,8 +181,10 @@ Signed,
 <p><b>Brent Stewart</b><br>President/CEO, United Way of Greater Kansas City</p>
 <p><b>Mike Stradinger</b><br>CEO, Holland 1916</p>
 <p><b>Awais Sufi</b><br>President and CEO, SchoolSmartKC</p>
+<p><b>Dawn Taylor</b><br>Executive Director, American Institute of Architects Kansas City</p>
 <p><b>Paul Thomas</b><br>CEO, North American Savings Bank</p>
 <p><b>Qiana Thomason</b><br>President & CEO, Health Forward Foundation</p>
+<p><b>Terry Trafton</b><br>President & CEO, Alternatives EAP & CommCARE Behavioral Health</p>
 <p><b>Timothy W. Triplett</b><br>Executive Vice President & General Counsel, Black & Veatch</p>
 <p><b>Tucker Trotter</b><br>CEO, Dimensional Innovations </p>
 <p><b>Angelo Trozzolo</b><br>President & CEO, Trozzolo Communications Group</p>
