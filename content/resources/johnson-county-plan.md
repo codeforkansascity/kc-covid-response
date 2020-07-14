@@ -12,4 +12,4 @@ file: ""
 
 Reopening Johnson County. A phased approach to promote economic recovery, health and safety.
 
-<img src="/uploads/comeback-kc-safter-socializing-guide-facebook-01.jpg"      alt="Tips for Safer Socializing" width="200"/>
+
