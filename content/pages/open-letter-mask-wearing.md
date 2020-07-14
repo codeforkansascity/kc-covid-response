@@ -34,19 +34,23 @@ Signed,
 <tr>
 <td style="vertical-align:top">
 
+<p><b>Mike Adkins</b><br>President / CEO, Serenity Funeral Home </p>
 <p><b>David Alvey</b><br>Mayor, Kansas City, KS</p>
-<p><b>Deidre Anderson</b><br>CEO, United Inner City Services</p>
+<p><b>Deidre  Anderson</b><br>CEO, United Inner City Services</p>
 <p><b>Carlos Antequera</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Adam Arredondo</b><br>CEO, STARTLAND</p>
 <p><b>Tahir Atwater</b><br>Director of Donor and Volunteer Engagement, Jackson County CASA</p>
+<p><b>Katherine Hollar Barnard</b><br>CEO, Firesign | Enlightened Legal Marketing </p>
 <p><b>Rita Baslock</b><br>President, Max Electric, Inc.</p>
 <p><b>Brad Batz</b><br>President & CEO, Fike Corporation</p>
 <p><b>Kimberly Beatty</b><br>Chancellor, Metropolitan Community College </p>
+<p><b>Allison Berey</b><br>CEO, M:CALIBRATE</p>
 <p><b>Bill Berkley</b><br>President & CEO, Tension Envelope Corp.</p>
 <p><b>Angie Blumel</b><br>President and CEO, Jackson County CASA</p>
 <p><b>Ken Borum</b><br>Partner, Prosperity Planning, Inc. </p>
 <p><b>Pete Browne</b><br>President, Kissick Construction Company</p>
 <p><b>Faruk Capan</b><br>CEO, Intouch Group</p>
+<p><b>John G Carneu</b><br>President and CEO, Center for Practical Bioethics</p>
 <p><b>Jeff Carson</b><br>Regional President, Enterprise Bank & Trust</p>
 <p><b>Mark E. Eveans, CFA</b><br>President, Chief Investment Officer, Meritage Portfolio Management</p>
 <p><b>Karin Chang</b><br>Associate Director, Urban Education Research Center</p>
@@ -62,6 +66,7 @@ Signed,
 <p><b>Linda Eanes</b><br>Chief Executive Officer, Agile Government Services, Inc</p>
 <p><b>Ed Eilert</b><br>Chairman, Johnson County Board of County Commissioners</p>
 <p><b>Mike English</b><br>Executive Director, Turn the Page KC</p>
+<p><b>Mike Van Epp</b><br>Principal / Founder, Environ Capital</p>
 <p><b>Mary Esselman</b><br>CEO, Operation Breakthrough</p>
 <p><b>Tom Esselman</b><br>Executive Director, PCs for People Kansas City</p>
 <p><b>Melinda L. Estes, MD</b><br>President and CEO, Saint Luke's Health System</p>
@@ -85,16 +90,20 @@ Signed,
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
 <p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University</p>
+<p><b>Tammy Ham</b><br>President and Executive Director, BioNovus Innovations, LLC</p>
 <p><b>Janeé Hanzlick</b><br>Johnson County Commissioner, District 4, Johnson County Kansas</p>
 <p><b>Keith Harrington</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
 <p><b>Melissa Patterson Hazley</b><br>Director, Community Based Research & Evaluation, UMKC - Institute for Human Development</p>
+<p><b>Michael Helmstetter</b><br>President & CEO, TechAccel, LLC</p>
 <p><b>Marc Hill</b><br>President, Civic Council of Greater Kansas City</p>
 <p><b>Michael Hoehn</b><br>President, Automatic Systems, Inc.</p>
 <p><b>Karen Hogan</b><br>Vice President & General Manager, Turner Construction Company</p>
 <p><b>Paul Holewinski</b><br>Chief Executive Officer, Academy Bank</p>
 <p><b>Lauren Hoopes</b><br>Executive Director, Jewish Community Foundation of Greater Kansas City</p>
 <p><b>Darcy Howe</b><br>Founder, Managing Director, KCRise Fund </p>
+<p><b>Jarrod Huntley</b><br>VP Operations, Central Plains Cement Company LLC</p>
+<p><b>Geoff Jolley</b><br>Executive Director, LISC Greater Kansas City</p>
 <p><b>Jeffrey J. Jones II</b><br>President & Chief Executive Officer, H&R Block</p>
 <p><b>Mark Jorgenson</b><br>EVP - National Group President - Community Banking, U.S. Bank</p>
 <p><b>Jeff King</b><br>CEO, Barkley</p>
@@ -109,8 +118,10 @@ Signed,
 <p><b>Gregg Lombardi</b><br>Executive Director, Neighborhood Legal Support of Kansas City</p>
 <p><b>Chase McAnulty</b><br>Founder / CEO, Charlie Hustle, LLC.</p>
 <p><b>Martha McCabe</b><br>Executive Director, KC STEM Alliance</p>
+<p><b>Kathryn J McDaniel</b><br>Owner, MEDiAHEAD</p>
 <p><b>Eric Morgenstern</b><br>CEO, Morningstar Communications</p>
 <p><b>Leo Morton</b><br>President & COO, DeBruce Companies</p>
+<p><b>Sarah Murphy</b><br>Manager of Brand Experience and Communications, Ability KC</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
 <p><b>Ronald W Nelson</b><br>President, Ronald W. Nelson, P.A. Law Office</p>
 <p><b>Rick Norden</b><br>President and CEO, Fairbanks Scales</p>
@@ -124,11 +135,13 @@ Signed,
 <p><b>John Owen</b><br>President & CEO, Airshare</p>
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
 <p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
-<p><b>Anurag Patel</b><br>CEO, Helix Health</p>
-<p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
+<p><b>Tracey Passantino</b><br>Co-Founder, Foundation 4 Domestic Violence Prevention</p>
 
 <td style="vertical-align:top">
 
+<p><b>Anurag Patel</b><br>CEO, Helix Health</p>
+<p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
+<p><b>Michael Poppa</b><br>Executive Director, Mainstream Coalition</p>
 <p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
 <p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
@@ -146,6 +159,7 @@ Signed,
 <p><b>Nicholas Segura</b><br>CEO, Segura Marketing & Media Solutions</p>
 <p><b>Brent Shafer</b><br>Chairman and CEO, Cerner Corporation</p>
 <p><b>Neal Sharma</b><br>CEO, DEG</p>
+<p><b>Gerald Shechter</b><br>Sustainability Coordinator, City of Kansas City, MO</p>
 <p><b>Jeff Simon</b><br>Office Managing Partner, Husch Blackwell</p>
 <p><b>Scott Slabotsky</b><br>CEO, Slabotsky Family Office</p>
 <p><b>Amy Slattery</b><br>Founder + CEO, Odimo LLC</p>
@@ -158,6 +172,7 @@ Signed,
 <p><b>Brent Stewart</b><br>President/CEO, United Way of Greater Kansas City</p>
 <p><b>Mike Stradinger</b><br>CEO, Holland 1916</p>
 <p><b>Awais Sufi</b><br>President and CEO, SchoolSmartKC</p>
+<p><b>Paul Thomas</b><br>CEO, North American Savings Bank</p>
 <p><b>Qiana Thomason</b><br>President & CEO, Health Forward Foundation</p>
 <p><b>Timothy W. Triplett</b><br>Executive Vice President & General Counsel, Black & Veatch</p>
 <p><b>Tucker Trotter</b><br>CEO, Dimensional Innovations </p>
