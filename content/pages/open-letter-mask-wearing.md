@@ -49,6 +49,7 @@ Signed,
 <p><b>Bill Berkley</b><br>President & CEO, Tension Envelope Corp.</p>
 <p><b>Angie Blumel</b><br>President and CEO, Jackson County CASA</p>
 <p><b>Ken Borum</b><br>Partner, Prosperity Planning, Inc. </p>
+<p><b>Leanne Breiby</b><br>Director of Communications, Greater Kansas City Community Foundation</p>
 <p><b>Pete Browne</b><br>President, Kissick Construction Company</p>
 <p><b>Faruk Capan</b><br>CEO, Intouch Group</p>
 <p><b>John G Carneu</b><br>President and CEO, Center for Practical Bioethics</p>
@@ -88,11 +89,11 @@ Signed,
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
 <p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University</p>
-<p><b>Tammy Ham</b><br>President and Executive Director, BioNovus Innovations, LLC</p>
 
 </td>
 <td style="vertical-align:top">
 
+<p><b>Tammy Ham</b><br>President and Executive Director, BioNovus Innovations, LLC</p>
 <p><b>Janeé Hanzlick</b><br>Johnson County Commissioner, District 4, Johnson County Kansas</p>
 <p><b>Keith Harrington</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
@@ -117,15 +118,19 @@ Signed,
 <p><b>Julius Lai</b><br>SVP, Digital and Loyalty Marketing, AMC Theatres</p>
 <p><b>Gordon Lansford</b><br>CEO, JE Dunn Construction</p>
 <p><b>Mark R. Larrabee</b><br>President & CEO- Greater Kansas City, Arvest Bank</p>
+<p><b>Chuck & Jennifer Laue</b><br>Founders, Stray Dog Capital</p>
 <p><b>Jacob Lindmark</b><br>Owner, Ticket Solutions</p>
 <p><b>Andre Logan</b><br>Senior Vice President, Portals Hardware</p>
 <p><b>Mark Logan</b><br>CEO, idealect</p>
 <p><b>Gregg Lombardi</b><br>Executive Director, Neighborhood Legal Support of Kansas City</p>
+<p><b>Casey Masters</b><br>CEO, Companion Protect</p>
 <p><b>Chase McAnulty</b><br>Founder / CEO, Charlie Hustle, LLC.</p>
 <p><b>Martha McCabe</b><br>Executive Director, KC STEM Alliance</p>
 <p><b>Kathryn J McDaniel</b><br>Owner, MEDiAHEAD</p>
+<p><b>Stevr McDowell</b><br>CEO, BNIM</p>
 <p><b>Eric Morgenstern</b><br>CEO, Morningstar Communications</p>
 <p><b>Leo Morton</b><br>President & COO, DeBruce Companies</p>
+<p><b>Dr. Kevin Mowry</b><br>President, Foundation Periodontics, PA</p>
 <p><b>Sarah Murphy</b><br>Manager of Brand Experience and Communications, Ability KC</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
 <p><b>Kathy Nelson</b><br>President/CEO, Greater Kansas City Sports Commission & Foundation </p>
@@ -143,14 +148,14 @@ Signed,
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
 <p><b>Bob Page</b><br>President & CEO, The University of Kansas Health System</p>
 <p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
+
+<td style="vertical-align:top">
+
 <p><b>Tracey Passantino</b><br>Co-Founder, Foundation4 Domestic Violence Prevention</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 <p><b>Tammy Peterman</b><br>President, Kansas City Division, The University of Kansas Health System</p>
 <p><b>Michael Poppa</b><br>Executive Director, Mainstream Coalition</p>
-
-<td style="vertical-align:top">
-
 <p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
 <p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
@@ -195,15 +200,11 @@ Signed,
 <p><b>Justin Watkins</b><br>CEO, Native Digital</p>
 <p><b>Eileen Weir</b><br>Mayor, City of Independence</p>
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
+<p><b>Debbie Wilkerson</b><br>President & CEO, Greater Kansas City Community Foundation</p>
 <p><b>Robin Winner</b><br>Co-Executive Director, Synergy Services, Inc.</p>
 <p><b>Chris Wood</b><br>CEO / Partner, Paige Technologies</p>
 <p><b>L. William Zahner</b><br>CEO, A. Zahner Company</p>
 <p><b>Pedro Zamora</b><br>Executive Director, Hispanic Economic Development Corporation</p>
-<p><b>Chuck & Jennifer Laue</b><br>Founders, Stray Dog Capital</p>
-<p><b>Casey Masters</b><br>CEO, Companion Protect</p>
-<p><b>Dr. Kevin Mowry</b><br>President, Foundation Periodontics, PA</p>
-<p><b>Debbie Wilkerson</b><br>President & CEO, Greater Kansas City Community Foundation</p>
-<p><b>Leanne Breiby</b><br>Director of Communications, Greater Kansas City Community Foundation</p>
 
 </td>
 </tr>
