@@ -87,12 +87,12 @@ Signed,
 <p><b>Tami Greenberg</b><br>CEO, Ronald McDonald House Charities Kansas City</p>
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
+<p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University</p>
+<p><b>Tammy Ham</b><br>President and Executive Director, BioNovus Innovations, LLC</p>
 
 </td>
 <td style="vertical-align:top">
 
-<p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University</p>
-<p><b>Tammy Ham</b><br>President and Executive Director, BioNovus Innovations, LLC</p>
 <p><b>Janeé Hanzlick</b><br>Johnson County Commissioner, District 4, Johnson County Kansas</p>
 <p><b>Keith Harrington</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
@@ -144,13 +144,13 @@ Signed,
 <p><b>Bob Page</b><br>President & CEO, The University of Kansas Health System</p>
 <p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
 <p><b>Tracey Passantino</b><br>Co-Founder, Foundation4 Domestic Violence Prevention</p>
-
-<td style="vertical-align:top">
-
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
 <p><b>Tammy Peterman</b><br>President, Kansas City Division, The University of Kansas Health System</p>
 <p><b>Michael Poppa</b><br>Executive Director, Mainstream Coalition</p>
+
+<td style="vertical-align:top">
+
 <p><b>Stacie Prosser</b><br>Publisher, Kansas City Business Journal</p>
 <p><b>Joe Reardon</b><br>President/CEO, Greater Kansas City Chamber of Commerce</p>
 <p><b>Bob Regnier</b><br>Executive Chairman & CEO, Bank of Blue Valley</p>
@@ -195,10 +195,15 @@ Signed,
 <p><b>Justin Watkins</b><br>CEO, Native Digital</p>
 <p><b>Eileen Weir</b><br>Mayor, City of Independence</p>
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
-<p><b>Robin Winner</b><br>Synergy Services, Inc., Co-Executive Director</p>
+<p><b>Robin Winner</b><br>Co-Executive Director, Synergy Services, Inc.</p>
 <p><b>Chris Wood</b><br>CEO / Partner, Paige Technologies</p>
 <p><b>L. William Zahner</b><br>CEO, A. Zahner Company</p>
 <p><b>Pedro Zamora</b><br>Executive Director, Hispanic Economic Development Corporation</p>
+<p><b>Chuck & Jennifer Laue</b><br>Founders, Stray Dog Capital</p>
+<p><b>Casey Masters</b><br>CEO, Companion Protect</p>
+<p><b>Dr. Kevin Mowry</b><br>President, Foundation Periodontics, PA</p>
+<p><b>Debbie Wilkerson</b><br>President & CEO, Greater Kansas City Community Foundation</p>
+<p><b>Leanne Breiby</b><br>Director of Communications, Greater Kansas City Community Foundation</p>
 
 </td>
 </tr>
