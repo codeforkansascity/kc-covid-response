@@ -73,6 +73,7 @@ Signed,
 <p><b>Mary Esselman</b><br>CEO, Operation Breakthrough</p>
 <p><b>Tom Esselman</b><br>Executive Director, PCs for People Kansas City</p>
 <p><b>Melinda L. Estes, MD</b><br>President and CEO, Saint Luke's Health System</p>
+<p><b>Becky Fast</b><br>Commissioner, First District, Johnson County Government</p>
 <p><b>Dan Fromm</b><br>President, Barkley</p>
 <p><b>Colby Garrelts</b><br>Chef/Restaurateur, Flyover Hospitality - Rye/Bluestem</p>
 <p><b>Alexandra Garrick</b><br>Executive Director, National Kidney Foundation Serving Kansas, Western Missouri and Oklahoma.</p>
@@ -89,11 +90,11 @@ Signed,
 <p><b>Wendy Guillies</b><br>President & CEO, Kauffman Foundation </p>
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
 <p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University</p>
+<p><b>Tammy Ham</b><br>President and Executive Director, BioNovus Innovations, LLC</p>
 
 </td>
 <td style="vertical-align:top">
 
-<p><b>Tammy Ham</b><br>President and Executive Director, BioNovus Innovations, LLC</p>
 <p><b>Janeé Hanzlick</b><br>Johnson County Commissioner, District 4, Johnson County Kansas</p>
 <p><b>Keith Harrington</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
@@ -108,8 +109,10 @@ Signed,
 <p><b>Darcy Howe</b><br>Founder, Managing Director, KCRise Fund </p>
 <p><b>Christina Hoxie</b><br>Owner and Community Planner, Hoxie Collective LLC</p>
 <p><b>Jarrod Huntley</b><br>VP Operations, Central Plains Cement Company LLC</p>
+<p><b>Rebecca James</b><br>President, Abovo LLC</p>
 <p><b>Erick Jessee</b><br>President, Posty Cards</p>
 <p><b>Geoff Jolley</b><br>Executive Director, LISC Greater Kansas City</p>
+<p><b>Brian Jones</b><br>Founder, Graphicmachine</p>
 <p><b>Jeffrey J. Jones II</b><br>President & Chief Executive Officer, H&R Block</p>
 <p><b>Mark Jorgenson</b><br>EVP - National Group President - Community Banking, U.S. Bank</p>
 <p><b>Jeff King</b><br>CEO, Barkley</p>
@@ -131,6 +134,7 @@ Signed,
 <p><b>Eric Morgenstern</b><br>CEO, Morningstar Communications</p>
 <p><b>Leo Morton</b><br>President & COO, DeBruce Companies</p>
 <p><b>Dr. Kevin Mowry</b><br>President, Foundation Periodontics, PA</p>
+<p><b>Patrick A. Murphy</b><br>President, RESULTS Technology</p>
 <p><b>Sarah Murphy</b><br>Manager of Brand Experience and Communications, Ability KC</p>
 <p><b>Taimoor Nana</b><br>CEO, MTAR</p>
 <p><b>Kathy Nelson</b><br>President/CEO, Greater Kansas City Sports Commission & Foundation </p>
@@ -197,6 +201,7 @@ Signed,
 <p><b>Sheryl Wagner</b><br>Vice President / Director of Accounting, Terracon Consultants, Inc.</p>
 <p><b>Elizabeth MacLeod Walls</b><br>President, William Jewell College</p>
 <p><b>David Warm</b><br>Executive Director, Mid-America Regional Council</p>
+<p><b>Caitlin Waters</b><br>Consultant, CBIZ</p>
 <p><b>Justin Watkins</b><br>CEO, Native Digital</p>
 <p><b>Eileen Weir</b><br>Mayor, City of Independence</p>
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
