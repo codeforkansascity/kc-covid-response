@@ -234,29 +234,17 @@
       </TwoColumnSection>
     </div>
     <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
-      <h2 class="px-4 text-3xl">Health Inequities</h2>
-    </OneColumnSection>
-    <TwoColumnSection class="pb-16 md:pb-32">
-      <template v-slot:column1>
-        <div class="px-4 md:pr-16">
-          <p>
-            The COVID-19 pandemic has not impacted all communities in our region equally. The Black, Latino/Hispanic and Native communities have shouldered an undue burden in these
-            challenging times. Comeback KC is committed to providing testing, tracking, and support resources to the communities that need them the most. As we reopen and rebuild
-            our economy, we can't just go back to normal, we have to take this opportunity to build a better, fairer Kansas City.
-          </p>
-        </div>
-      </template>
-      <template v-slot:column2>
-        <div class="px-4 md:px-16">
-          <ul class="mb-4 ml-5 list-disc">
-            <li>About 44% of KCMO's COVID-19 cases are Black, but the Black population makes up just 30% of the population</li>
-            <li>In Wyandotte County, Black people represent 53% of the COVID-19 deaths but just 23% of the population</li>
-            <li>Nationally, Black and Latino/Hispanic populations are dying at higher rates than their white neighbors</li>
-            <li>The Navajo Nation alone has experienced the 3rd highest infection rate outside of New York and New Jersey</li>
-          </ul>
-        </div>
-      </template>
-    </TwoColumnSection>
+      <h2 class="px-4 text-3xl">Testing Events</h2>
+       <div class="px-4 pb-16 md:pr-16">
+      <p>Several Kansas City area health departments and organizations are offering pop-up testing events at locations
+      throughout the city. Some require an appointment, so make sure you check the details. 
+      If you're looking for permanent COVID-19 testing sites, visit our
+      <a href="https://www.comebackkc.com/kc-covid-testing-locations/">testing locations</a> page.</p>
+      <div data-tockify-component="calendar" data-tockify-calendar="kccovidtestevents"></div>
+      <p>If you know of a testing event or pop-up location that isn't shown on our calendar, <a href="/contact/">let us know</a>.
+      </p></div>
+   </OneColumnSection>
+
     <div class="bg-gradient-darkblue-red">
       <TwoColumnSection columnTwoColor="bg-comebackkc-red" columnTwoImage="/images/marc-map-bg.png">
         <template v-slot:column1>
