@@ -57,6 +57,7 @@ Signed,
 <p><b>Mark E. Eveans, CFA</b><br>President, Chief Investment Officer, Meritage Portfolio Management</p>
 <p><b>Karin Chang</b><br>Associate Director, Urban Education Research Center</p>
 <p><b>Kemet Coleman</b><br>Chief Operating Officer, MOSS Salon Studios</p>
+<p><b>Lauren Conaway</b><br>Founder & CEO, InnovateHER KC</p>
 <p><b>Matthew Condon</b><br>Founder & CEO, Bardavon Health Innovations </p>
 <p><b>Rita M. Cortes</b><br>Executive Director, Menorah Heritage Foundation</p>
 <p><b>Fred Coulson</b><br>Managing Partner, Five Elms Capital</p>
@@ -74,6 +75,7 @@ Signed,
 <p><b>Tom Esselman</b><br>Executive Director, PCs for People Kansas City</p>
 <p><b>Melinda L. Estes, MD</b><br>President and CEO, Saint Luke's Health System</p>
 <p><b>Becky Fast</b><br>Commissioner, First District, Johnson County Government</p>
+<p><b>John Fein</b><br>Managing Partner, Firebrand Ventures</p>
 <p><b>Dan Fromm</b><br>President, Barkley</p>
 <p><b>Colby Garrelts</b><br>Chef/Restaurateur, Flyover Hospitality - Rye/Bluestem</p>
 <p><b>Alexandra Garrick</b><br>Executive Director, National Kidney Foundation Serving Kansas, Western Missouri and Oklahoma.</p>
@@ -102,6 +104,7 @@ Signed,
 <p><b>Michael Helmstetter</b><br>President & CEO, TechAccel, LLC</p>
 <p><b>John Herron</b><br>CEO, Kansas City Public Library</p>
 <p><b>Marc Hill</b><br>President, Civic Council of Greater Kansas City</p>
+<p><b>Isaac Hodges</b><br>President, Messenger Coffee / Ibis Bakery</p>
 <p><b>Michael Hoehn</b><br>President, Automatic Systems, Inc.</p>
 <p><b>Karen Hogan</b><br>Vice President & General Manager, Turner Construction Company</p>
 <p><b>Paul Holewinski</b><br>Chief Executive Officer, Academy Bank</p>
@@ -116,6 +119,7 @@ Signed,
 <p><b>Jeffrey J. Jones II</b><br>President & Chief Executive Officer, H&R Block</p>
 <p><b>Mark Jorgenson</b><br>EVP - National Group President - Community Banking, U.S. Bank</p>
 <p><b>Jeff King</b><br>CEO, Barkley</p>
+<p><b>Dale Klose</b><br>Regional President, PNC Bank</p>
 <p><b>Leigh Anne Taylor Knight</b><br>Executive Director & COO, The DeBruce Foundation</p>
 <p><b>Ray Kowalik</b><br>CEO, Burns & McDonnell</p>
 <p><b>Julius Lai</b><br>SVP, Digital and Loyalty Marketing, AMC Theatres</p>
@@ -131,6 +135,8 @@ Signed,
 <p><b>Martha McCabe</b><br>Executive Director, KC STEM Alliance</p>
 <p><b>Kathryn J McDaniel</b><br>Owner, MEDiAHEAD</p>
 <p><b>Stevr McDowell</b><br>CEO, BNIM</p>
+<p><b>Kevin McGinnis</b><br>CEO, Keystone Community Corporation</p>
+<p><b>John Mikos</b><br>President and CEO, YMCA of Greater Kansas City</p>
 <p><b>Eric Morgenstern</b><br>CEO, Morningstar Communications</p>
 <p><b>Leo Morton</b><br>President & COO, DeBruce Companies</p>
 <p><b>Dr. Kevin Mowry</b><br>President, Foundation Periodontics, PA</p>
@@ -140,6 +146,9 @@ Signed,
 <p><b>Kathy Nelson</b><br>President/CEO, Greater Kansas City Sports Commission & Foundation </p>
 <p><b>Ronald W Nelson</b><br>President, Ronald W. Nelson, P.A. Law Office</p>
 <p><b>Rick Norden</b><br>President and CEO, Fairbanks Scales</p>
+
+<td style="vertical-align:top">
+
 <p><b>Leigh Nottberg</b><br>Chair, Nottberg Family Foundation</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
@@ -152,9 +161,6 @@ Signed,
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
 <p><b>Bob Page</b><br>President & CEO, The University of Kansas Health System</p>
 <p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
-
-<td style="vertical-align:top">
-
 <p><b>Tracey Passantino</b><br>Co-Founder, Foundation4 Domestic Violence Prevention</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
@@ -203,6 +209,7 @@ Signed,
 <p><b>David Warm</b><br>Executive Director, Mid-America Regional Council</p>
 <p><b>Caitlin Waters</b><br>Consultant, CBIZ</p>
 <p><b>Justin Watkins</b><br>CEO, Native Digital</p>
+<p><b>Hillary Weber</b><br>Founder/Managing Partner, Weworth Capital</p>
 <p><b>Eileen Weir</b><br>Mayor, City of Independence</p>
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
 <p><b>Debbie Wilkerson</b><br>President & CEO, Greater Kansas City Community Foundation</p>
