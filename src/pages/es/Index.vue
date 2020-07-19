@@ -317,21 +317,6 @@
         </template>
       </TwoColumnSection>
     </div>
-    <div class="bg-comebackkc-black">
-      <OneColumnSection class="py-16 text-white md:py-24">
-        <div class="px-4">
-          <h2 class="mb-4 text-3xl">PP. FF.</h2>
-          <div v-for="faq in $page.faqs.edges" :key="faq.question" class="mb-8">
-            <AccordionItem class="pb-8 border-b border-white" title-classes="font-bold text-2xl">
-              <template v-slot:title>{{ faq.node.question }}</template>
-              <template v-slot:body
-                ><span v-html="styleRawHTML(faq.node.content, 'white')"></span
-              ></template>
-            </AccordionItem>
-          </div>
-        </div>
-      </OneColumnSection>
-    </div>
     <OneColumnSection>
       <div class="px-4 py-8 md:py-16">
         <h2 class="mb-4 text-3xl text-center">EN COORDINACIÓN CON LOS DEPARTAMENTOS DE SALUD DE NUESTRA COMUNIDAD</h2>
@@ -417,16 +402,3 @@ export default {
 //            <g-image src="~/images/clay-county-public-health-center-logo.jpg" width="200" alt="Clay County Public Health Center" />
 //          </a>
 </script>
-
-<page-query>
-query {
-  faqs: allFaq(filter: { language: { eq: "es" }}, sortBy: "order", order: ASC) {
-    edges {
-      node {
-        question
-        content
-      }
-    }
-  } 
-}
-</page-query>
