@@ -147,8 +147,6 @@ Signed,
 <p><b>Ronald W Nelson</b><br>President, Ronald W. Nelson, P.A. Law Office</p>
 <p><b>Rick Norden</b><br>President and CEO, Fairbanks Scales</p>
 
-<td style="vertical-align:top">
-
 <p><b>Leigh Nottberg</b><br>Chair, Nottberg Family Foundation</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
@@ -159,6 +157,10 @@ Signed,
 <p><b>Patrick Ottensmeyer</b><br>President & CEO, Kansas City Southern</p>
 <p><b>John Owen</b><br>President & CEO, Airshare</p>
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
+
+<td style="vertical-align:top">
+
+
 <p><b>Bob Page</b><br>President & CEO, The University of Kansas Health System</p>
 <p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
 <p><b>Tracey Passantino</b><br>Co-Founder, Foundation4 Domestic Violence Prevention</p>
