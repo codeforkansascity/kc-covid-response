@@ -55,6 +55,8 @@
         </template>
       </ThreeColumnSection>
     </div>
+    
+    <!-- Comment
     <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
       <h2 class="px-4 text-3xl lg:px-4">Lucha contra el COVID-19 con tu teléfono</h2>
     </OneColumnSection>
@@ -89,6 +91,8 @@
         </div>
       </template>
     </TwoColumnSection>
+    -->
+
     <div class="bg-comebackkc-light-gray">
       <TwoColumnSection>
         <template v-slot:column1>
@@ -237,6 +241,8 @@
         </template>
       </TwoColumnSection>
     </div>
+
+    <!-- Comment
     <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
       <h2 class="px-4 text-3xl">Desigualdades en Salud</h2>
     </OneColumnSection>
@@ -262,6 +268,8 @@
         </div>
       </template>
     </TwoColumnSection>
+    -->
+    
     <div class="bg-gradient-darkblue-red">
       <TwoColumnSection columnTwoColor="bg-comebackkc-red" columnTwoImage="/images/marc-map-bg.png">
         <template v-slot:column1>
