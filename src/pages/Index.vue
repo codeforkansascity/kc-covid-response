@@ -52,6 +52,7 @@
         </template>
       </ThreeColumnSection>
     </div>
+    <!-- Comment 
     <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
       <h2 class="px-4 text-3xl lg:px-4">Fight COVID-19 With Your Phone</h2>
     </OneColumnSection>
@@ -85,6 +86,20 @@
         </div>
       </template>
     </TwoColumnSection>
+    -->
+  
+  <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
+      <h2 class="px-4 text-3xl">Testing Events</h2>
+       <div class="px-4 pb-16 md:pr-16">
+      <p>Several Kansas City area health departments and organizations are offering pop-up testing events at locations
+      throughout the city. Some require an appointment, so make sure you check the details. 
+      If you're looking for permanent COVID-19 testing sites, visit our
+      <a href="https://www.comebackkc.com/kc-covid-testing-locations/">testing locations</a> page.</p>
+      <div data-tockify-component="calendar" data-tockify-calendar="kccovidtestevents"></div>
+      <p>If you know of a testing event or pop-up location that isn't shown on our calendar, <a href="/contact/">let us know</a>.
+      </p></div>
+   </OneColumnSection>
+   
     <div class="bg-comebackkc-light-gray">
       <TwoColumnSection>
         <template v-slot:column1>
@@ -233,18 +248,7 @@
         </template>
       </TwoColumnSection>
     </div>
-    <OneColumnSection class="pt-16 pb-4 md:pt-32 md:pb-8">
-      <h2 class="px-4 text-3xl">Testing Events</h2>
-       <div class="px-4 pb-16 md:pr-16">
-      <p>Several Kansas City area health departments and organizations are offering pop-up testing events at locations
-      throughout the city. Some require an appointment, so make sure you check the details. 
-      If you're looking for permanent COVID-19 testing sites, visit our
-      <a href="https://www.comebackkc.com/kc-covid-testing-locations/">testing locations</a> page.</p>
-      <div data-tockify-component="calendar" data-tockify-calendar="kccovidtestevents"></div>
-      <p>If you know of a testing event or pop-up location that isn't shown on our calendar, <a href="/contact/">let us know</a>.
-      </p></div>
-   </OneColumnSection>
-
+ 
     <div class="bg-gradient-darkblue-red">
       <TwoColumnSection columnTwoColor="bg-comebackkc-red" columnTwoImage="/images/marc-map-bg.png">
         <template v-slot:column1>
