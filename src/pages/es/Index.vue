@@ -269,7 +269,7 @@
       </template>
     </TwoColumnSection>
     -->
-    
+
     <div class="bg-gradient-darkblue-red">
       <TwoColumnSection columnTwoColor="bg-comebackkc-red" columnTwoImage="/images/marc-map-bg.png">
         <template v-slot:column1>
@@ -316,8 +316,8 @@
             <h2 class="mb-4 text-3xl">Información de KC COVID-19</h2>
             <p class="text-xl leading-relaxed">
               Para obtener más información sobre el impacto de COVID-19 en la región de Kansas City, consulta
-              <a class="underline text-comebackkc-darkblue" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank">
-                la sección de KC COVID en la página de MARC
+              <a class="underline text-comebackkc-darkblue" href="https://www.comebackkc.com/kc-metro-stats/" target="_blank">
+              nuestro tablero
               </a>
               .
             </p>
