@@ -99,7 +99,7 @@
       <p>If you know of a testing event or pop-up location that isn't shown on our calendar, <a href="/contact/">let us know</a>.
       </p></div>
    </OneColumnSection>
-   
+
     <div class="bg-comebackkc-light-gray">
       <TwoColumnSection>
         <template v-slot:column1>
@@ -295,8 +295,8 @@
             <h2 class="mb-4 text-3xl">KC COVID-19 Information</h2>
             <p class="text-xl leading-relaxed">
               For more information on the impact of COVID-19 in the Kansas City region, check out
-              <a class="underline text-comebackkc-darkblue" href="http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae" target="_blank"
-                >MARC's KC COVID dashboard</a
+              <a class="underline text-comebackkc-darkblue" href="https://www.comebackkc.com/kc-metro-stats/" target="_blank"
+                >our dashboard</a
               >.
             </p>
           </div>
