@@ -1,13 +1,5 @@
 <template>
   <Layout language="en">
-    <PageHeader image="/images/kc-skyline-bg.jpg">
-      <template v-slot:title>
-        Sitemap
-      </template>
-      <template v-slot:sub-title>
-        Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span>
-      </template>
-    </PageHeader>
     <OneColumnSection class="px-4 mt-8 md:mt-16">
       <h2 class="mb-8 text-4xl md:mb-16">Sitemap</h2>
       <h3 class="text-3xl">Pages</h3>
@@ -35,7 +27,6 @@
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
-import PageHeader from '@/components/PageHeader.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
 export default {
@@ -50,7 +41,7 @@ export default {
     ]
   },
   mixins: [rawHtmlMixin],
-  components: { FullWidthSection, OneColumnSection, PageHeader }
+  components: { FullWidthSection, OneColumnSection }
 }
 </script>
 

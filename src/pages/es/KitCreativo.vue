@@ -1,13 +1,5 @@
 <template>
   <Layout language="es">
-    <PageHeader image="/images/kc-skyline-bg.jpg">
-      <template v-slot:title>
-        Kit Creativo
-      </template>
-      <template v-slot:sub-title>
-        Prueba. Rastreo. <span class="text-comebackkc-darkblue">Victoria.</span>
-      </template>
-    </PageHeader>
     <OneColumnSection class="px-4 my-8 md:my-16">
       <h2 class="pb-8 text-4xl md:bp-16">Únete al Regreso</h2>
       <p>
@@ -46,7 +38,6 @@
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
-import PageHeader from '@/components/PageHeader'
 
 export default {
   metaInfo: {
@@ -59,6 +50,6 @@ export default {
       }
     ]
   },
-  components: { FullWidthSection, OneColumnSection, PageHeader }
+  components: { FullWidthSection, OneColumnSection }
 }
 </script>

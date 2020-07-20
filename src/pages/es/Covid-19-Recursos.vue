@@ -1,13 +1,5 @@
 <template>
   <Layout language="es">
-    <PageHeader image="/images/kc-skyline-bg.jpg">
-      <template v-slot:title>
-        Recursos
-      </template>
-      <template v-slot:sub-title>
-        Prueba. Rastreo. <span class="text-comebackkc-darkblue">Victoria.</span>
-      </template>
-    </PageHeader>
     <OneColumnSection class="px-4 mt-8 md:mt-16">
       <h2 class="text-4xl">Recursos</h2>
       <p class="pb-8 italic md:bp-16 text-comebackkc-darkblue">Planes actualizados de acción contra el COVID-19 para el área metropolitana de Kansas y Misuri.</p>
@@ -41,7 +33,6 @@
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
-import PageHeader from '@/components/PageHeader.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 const moment = require('moment')
 
@@ -57,7 +48,7 @@ export default {
     ]
   },
   mixins: [rawHtmlMixin],
-  components: { FullWidthSection, OneColumnSection, PageHeader },
+  components: { FullWidthSection, OneColumnSection },
   methods: {
     formatedDate(dateString) {
       moment.locale('es')

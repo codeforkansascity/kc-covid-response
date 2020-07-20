@@ -1,6 +1,8 @@
 ---
 title: Comeback KC In The News
 metaDescription: Comeback KC is in the news.
+ogDescription: Comeback KC is in the news.
+ogImage: /images/comebackkc-social.png
 teaser: Comeback KC earned a mention in the KC Star today. Check out the story by reporter Lisa Gutierrez.
 date: 2020-05-12T08:30:00.040Z
 language: en

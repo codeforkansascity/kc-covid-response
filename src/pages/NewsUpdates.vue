@@ -1,13 +1,5 @@
 <template>
   <Layout language="en">
-    <PageHeader image="/images/kc-skyline-bg.jpg">
-      <template v-slot:title>
-        Updates
-      </template>
-      <template v-slot:sub-title>
-        Test. Track. <span class="text-comebackkc-darkblue">Triumph.</span>
-      </template>
-    </PageHeader>
     <OneColumnSection class="px-4 mt-8 md:mt-16">
       <h2 class="text-4xl">The Latest Updates & Helpful Information</h2>
       <p class="pb-8 italic md:bp-16 text-comebackkc-darkblue">Reliable information, trustworthy sources.</p>
@@ -32,7 +24,6 @@
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
-import PageHeader from '@/components/PageHeader.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
 export default {
@@ -47,7 +38,7 @@ export default {
     ]
   },
   mixins: [rawHtmlMixin],
-  components: { FullWidthSection, OneColumnSection, PageHeader }
+  components: { FullWidthSection, OneColumnSection }
 }
 </script>
 
