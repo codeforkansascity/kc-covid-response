@@ -339,6 +339,7 @@
           <a href="https://www.idealect.is/" class="px-12 py-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="120" alt="Idealect company logo"/></a>
           <a href="https://www.kcdigitaldrive.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/kcdd-logo.png" width="120" alt="KC Digital Drive company logo"/></a>
           <a href="https://www.vmlyr.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="120" alt="VMLY&R company logo"/></a>
+          <a href="https://www.agilegovernmentservicesinc.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/AgileGovtServicesLogo.png" width="120" alt="Agile Government Services company logo"/></a>
         </div>
       </div>
     </OneColumnSection>
