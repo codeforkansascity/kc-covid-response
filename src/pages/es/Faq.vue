@@ -9,6 +9,7 @@
                 ><span v-html="styleRawHTML(faq.node.content, 'black')"></span
               ></template>
             </AccordionItem>
+      </div>
     </OneColumnSection>
   </Layout>
 </template>
