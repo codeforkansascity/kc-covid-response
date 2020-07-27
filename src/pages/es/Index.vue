@@ -353,7 +353,8 @@
           <a href="https://www.kcdigitaldrive.org/" class="px-8 py-4" target="_blank"><g-image src="~/images/kcdd-logo.png" width="200" alt="KC Digital Drive company logo"/></a>
           <a href="https://www.vmlyr.com/" class="px-8 py-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" alt="VMLY&R company logo"/></a>
           <a href="https://www.agilegovernmentservicesinc.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/AgileGovtServicesLogo.png" width="120" alt="Agile Government Services company logo"/></a>
-        </div>
+          <a href="https://www.morningstarcomm.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/MorningstarCommunications.png" width="120" alt="Morningstar Communications company logo"/></a>
+       </div>
       </div>
     </OneColumnSection>
   </Layout>
