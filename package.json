@@ -21,11 +21,14 @@
     "gridsome": "^0.7.0",
     "gridsome-plugin-gtm": "^0.1.1",
     "gridsome-plugin-netlify-cms": "^1.0.9",
+    "mandrill-api": "^1.0.45",
     "moment": "^2.25.3",
     "netlify-cms": "^2.10.47",
+    "stripe": "^8.75.0",
     "tailwindcss": "^1.3.4",
     "typeface-montserrat": "0.0.75",
     "typeface-raleway": "0.0.75",
+    "vfc": "^2.0.0",
     "vue-mailchimp-subscribe": "^1.1.0"
   }
 }
