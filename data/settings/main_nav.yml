@@ -1,14 +1,36 @@
 nav_items:
+  - label: Data
+    path: data
+    subitems:
+      - label: KC Regional Dashboard
+        path: /kc-metro-stats/
+      - label: Regional Readiness
+        path: /kc-regional-readiness/
+      - label: Mask Wearing
+        path: /masks-in-kc/
+      - label: MARC dashboard link
+        path: http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae
+  - label: Testing
+    path: testing
+    subitems:
+      - label: Testing Locations
+        path: /kc-covid-testing-locations/
+      - label: Testing Events
+        path: /testing-events/
   - label: Updates
     path: /news-updates/
-  - label: Resources
-    path: /covid-19-resources/
-  - label: Creative
-    path: /creative-assets/
-  - label: Testing
-    path: /kc-covid-testing-locations/
-  - label: Events
-    path: /testing-events/
-  - label: FAQ
-    path: /faq/
+  - label: Downloads
+    path: downloads
+    subitems:
+      - label: Creative Kit
+        path: /creative-assets/
+      - label: Area Plans
+        path: /covid-19-resources/
+  - label: About
+    path: about
+    subitems:
+      - label: FAQs
+        path: /faq/
+      - label: Contact
+        path: /contact/
     

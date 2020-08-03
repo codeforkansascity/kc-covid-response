@@ -14,7 +14,22 @@ import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
+function evalScripts() {
+  const scripts = document.getElementsByClassName('evalme')
+  scripts.forEach((script) => {
+    eval(script.innerHTML)
+  })
+}
+
 export default {
+   mounted() {
+     console.log("mounted basic: " + window.location.pathname);
+    evalScripts()
+  },
+  updated() {
+    console.log("updated basic: " + window.location.pathname);
+    evalScripts()
+  },
   metaInfo() {
     return {
       title: this.$page.basicPage.title,
