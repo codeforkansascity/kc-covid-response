@@ -11,13 +11,14 @@ COVID-19 is hitting our KC region hard, and it is hurting our most vulnerable co
 We are providing operational support to individual health departments and leadership to build capacity across jurisdictions. Our strength is the ability to put resources to work quickly to address urgent needs and opportunities. We have accomplished a great deal over the past three months with very little. We need your support in order to do more.
 
 <p>
+<br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="DR5W9GMGCJ8G4" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
+<br>
 <p>
 Donations to support Comeback KC can be made to [KC Digital Drive](https://www.kcdigitaldrive.org/), the regional civic non-profit that serves as the backbone organization for the public-private partnership. Funds will be used to continue to support both operational and communications aspects of fighting COVID-19. Our operational efforts are focused on building tools, strategy and capacity for testing, tracing, and supported self-isolation. Our communications efforts will continue to provide unified, regional messaging that reaches every corner of our metro, transcending state, county, racial, and political dividing lines. 
 
