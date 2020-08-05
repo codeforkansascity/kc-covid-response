@@ -1,4 +1,6 @@
 nav_items:
+  - label: Donate
+    path: donate
   - label: Data
     path: data
     subitems:
