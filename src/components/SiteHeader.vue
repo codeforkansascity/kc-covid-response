@@ -6,24 +6,24 @@
       </div>
       <div class="flex flex-col items-end justify-between w-1/2 h-full py-4">
         <div class="h-1/3">
-          <g-link class="text-sm font-semibold text-white underline uppercase" :to="otherLanguageLink">
+          <g-link class="text-sm font-semibold text-white uppercase" :to="otherLanguageLink">
             <font-awesome class="mr-2" :icon="['fal', 'globe']"></font-awesome>{{ otherLanguageLabel }}
           </g-link>
         </div>
         <nav class="h-1/3">
           <ul class="inline-flex">
-            <li v-for="(nav, index) in navItems()" :key="nav.path" :class="{ 'mr-4': index != navItems().length - 1 }">
+            <li v-for="(nav, index) in navItems()" :key="nav.path" :class="{ 'mr-4 mx-8': index != navItems().length - 1 }">
               <div class="dropdown">
                 <template v-if="!!navSubItems(index).length">
-                  <button class="font-semibold text-white underline uppercase dropbtn" >{{ nav.label }}</button>
+                  <button class="font-semibold text-white uppercase dropbtn" >{{ nav.label }}</button>
                   <div class="dropdown-content">
                   <div v-for="(nav, index) in navSubItems(index)" :key="nav.path">
-                    <g-link :to="nav.path" class="text-sm font-semibold text-white underline uppercase">{{ nav.label }}</g-link>
+                    <g-link :to="nav.path" class="text-sm font-semibold text-red uppercase">{{ nav.label }}</g-link>
                   </div>
                  </div>
                  </template>
                  <template v-else>
-                  <g-link class="font-semibold text-white underline uppercase" :to="nav.path">{{ nav.label }}</g-link>
+                  <g-link class="font-semibold text-white uppercase dropbtn" :to="nav.path">{{ nav.label }}</g-link>
                  </template>
               </div>
             </li>
@@ -48,16 +48,20 @@
       <nav>
         <ul class="flex flex-col items-center">
           <li class="w-full py-8 text-center border-t border-b border-m4m-gray">
-            <g-link class="font-semibold text-white underline uppercase" :to="otherLanguageLink">
+            <g-link class="text-sm font-semibold text-white uppercase" :to="otherLanguageLink">
               <font-awesome class="mr-2" :icon="['fal', 'globe']"></font-awesome>{{ otherLanguageLabel }}
             </g-link>
           </li>
-          <li v-for="(nav, index) in navItems()" :key="nav.path" class="w-full py-8 text-center border-b border-m4m-gray">
-            <g-link class="font-semibold text-white underline uppercase" :to="nav.path">{{ nav.label }}</g-link>
+          <li v-for="(nav, index) in navItems()" :key="nav.path" class="w-full py-2 text-center ">
+            <g-link class="font-semibold text-white uppercase redhover" :to="nav.path">{{ nav.label }}</g-link>
+               
                <div v-for="(nav, index) in navSubItems(index)" :key="nav.path">
-                  <g-link :to="nav.path" class="text-sm font-semibold text-white underline uppercase">{{ nav.label }}</g-link>
+
+                  <g-link :to="nav.path" class="text-sm font-semibold text-white uppercase redhover">{{ nav.label }}</g-link>
+
                  </div>
            </li>
+           
        </ul>
       </nav>
       <SiteFooter></SiteFooter>
