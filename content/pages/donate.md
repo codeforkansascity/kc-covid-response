@@ -16,3 +16,9 @@ We are providing operational support to individual health departments and leader
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+Donations to support Comeback KC can be made to [KC Digital Drive](https://www.kcdigitaldrive.org/), the regional civic non-profit that serves as the backbone organization for the public-private partnership. Funds will be used to continue to support both operational and communications aspects of fighting COVID-19. Our operational efforts are focused on building tools, strategy and capacity for testing, tracing, and supported self-isolation. Our communications efforts will continue to provide unified, regional messaging that reaches every corner of our metro, transcending state, county, racial, and political dividing lines. 
+
+Our work is fast and responsive to emerging needs. Unlike traditional non-profit work, our outputs and outcomes will adapt to meet those needs in real time.
+
+KC Digital Drive is a tax-exempt public charity under section 501(c)(3) of the Internal Revenue Code. EIN: 46-4502675
