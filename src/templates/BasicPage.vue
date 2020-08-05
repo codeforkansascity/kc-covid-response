@@ -15,9 +15,13 @@ import OneColumnSection from '@/components/OneColumnSection.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
 function evalScripts() {
-  const scripts = document.getElementsByClassName('evalme')
+  const scripts = document.querySelectorAll("script")
   scripts.forEach((script) => {
-    eval(script.innerHTML)
+    if (script.childNodes.length > 0)
+    {
+      if (script.childNodes[0].nodeValue.includes("vizElement"))
+      eval(script.innerHTML)
+    }
   })
 }
 
