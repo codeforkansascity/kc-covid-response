@@ -24,7 +24,7 @@ We are providing operational support to individual health departments and leader
 </form>
 <br>
 <p>
-Donations to support Comeback KC can be made to [KC Digital Drive](https://www.kcdigitaldrive.org/), the regional civic non-profit that serves as the backbone organization for the public-private partnership. Funds will be used to continue to support both operational and communications aspects of fighting COVID-19. Our operational efforts are focused on building tools, strategy and capacity for testing, tracing, and supported self-isolation. Our communications efforts will continue to provide unified, regional messaging that reaches every corner of our metro, transcending state, county, racial, and political dividing lines. 
+Donations to support Comeback KC can be made to [KC Digital Drive](https://www.kcdigitaldrive.org/) , the regional civic non-profit that serves as the backbone organization for the public-private partnership. Funds will be used to continue to support both operational and communications aspects of fighting COVID-19. Our operational efforts are focused on building tools, strategy and capacity for testing, tracing, and supported self-isolation. Our communications efforts will continue to provide unified, regional messaging that reaches every corner of our metro, transcending state, county, racial, and political dividing lines. 
 
 Our work is fast and responsive to emerging needs. Unlike traditional non-profit work, our outputs and outcomes will adapt to meet those needs in real time.
 
