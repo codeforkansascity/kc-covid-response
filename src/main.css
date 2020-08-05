@@ -28,7 +28,6 @@ h6 {
 .text-shadow {
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
 }
-
 /* begin css added by Rob Kraft on July 20 for menus*/
 .dropbtn {}
 
@@ -47,17 +46,18 @@ h6 {
 }
 
 .dropdown-content a {
-  color: black;
+  color: rgba(30, 40, 87, var(--bg-opacity));
   padding: 4px 8px;
   text-decoration: none;
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {background-color: #d9353f;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color:  #d9353f;}
+.redhover:hover {background-color:  #d9353f;}
 /* end css added by Rob Kraft on July 20 for menus*/
 
 @tailwind utilities;
