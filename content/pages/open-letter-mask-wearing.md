@@ -153,10 +153,6 @@ Signed,
 <p><b>Rick Norden</b><br>President and CEO, Fairbanks Scales</p>
 <p><b>Leigh Nottberg</b><br>Chair, Nottberg Family Foundation</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
-
-
-<td style="vertical-align:top">
-
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
 <p><b>Thomas O’Grady</b><br>President, HNTB Holdings, Inc.</p>
 <p><b>Rick Oberdahlhoff</b><br>Director of Sales & Marketing, The Fontaine Hotel Country Cub Plaza</p>
@@ -167,6 +163,9 @@ Signed,
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
 <p><b>Bob Page</b><br>President & CEO, The University of Kansas Health System</p>
 <p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
+
+<td style="vertical-align:top">
+
 <p><b>Tracey Passantino</b><br>Co-Founder, Foundation4 Domestic Violence Prevention</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
