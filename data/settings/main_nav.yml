@@ -15,9 +15,9 @@ nav_items:
   - label: Testing
     path: testing
     subitems:
-      - label: Testing Locations
+      - label: Locations
         path: /kc-covid-testing-locations/
-      - label: Testing Events
+      - label: Events
         path: /testing-events/
   - label: Updates
     path: /news-updates/
