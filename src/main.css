@@ -35,19 +35,35 @@ h6 {
   position: relative;
   display: inline-block;
 }
+.dropWithChevron {}
 
+.dropWithChevron:after {
+  content: '\f078';
+  color: #f1f1f1;
+  font-family: FontAwesome;
+   font-weight: normal;
+   font-style: normal;
+   margin:0px 0px 0px 4px;
+   text-decoration:none;
+}
+.dropWithChevron:hover::after
+{
+  color: #d9353f;
+  content: '\f077';
+}
 .dropdown-content {
   display: none;
   position: absolute;
   background-color: #f1f1f1;
-  min-width: 160px;
+  font-weight: bold;
+  min-width: 200px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
 .dropdown-content a {
   color: rgba(30, 40, 87, var(--bg-opacity));
-  padding: 4px 8px;
+  padding: 8px 4px;
   text-decoration: none;
   display: block;
 }
