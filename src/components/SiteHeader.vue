@@ -12,10 +12,10 @@
         </div>
         <nav class="h-1/3">
           <ul class="inline-flex">
-            <li v-for="(nav, index) in navItems()" :key="nav.path" :class="{ 'mr-4 mx-4': index != navItems().length - 1 }">
+            <li v-for="(nav, index) in navItems()" :key="nav.path" :class="{ 'mr-4 mx-8': index != navItems().length - 1 }">
               <div class="dropdown">
                 <template v-if="!!navSubItems(index).length">
-                  <button class="font-semibold text-white uppercase dropbtn dropWithChevron" >{{ nav.label }}</button>
+                  <button class="font-semibold text-white uppercase dropbtn" >{{ nav.label }}</button>
                   <div class="dropdown-content">
                   <div v-for="(nav, index) in navSubItems(index)" :key="nav.path">
                     <g-link :to="nav.path" class="text-xs font-semibold uppercase">{{ nav.label }}</g-link>
@@ -47,7 +47,7 @@
     <div v-if="open" class="fixed left-0 w-full h-full overflow-auto top-20 bg-comebackkc-darkblue">
       <nav>
         <ul class="flex flex-col items-center">
-          <li class="w-full py-4 text-center border-t border-b border-m4m-gray">
+          <li class="w-full py-8 text-center border-t border-b border-m4m-gray">
             <g-link class="text-sm font-semibold text-white uppercase" :to="otherLanguageLink">
               <font-awesome class="mr-2" :icon="['fal', 'globe']"></font-awesome>{{ otherLanguageLabel }}
             </g-link>
