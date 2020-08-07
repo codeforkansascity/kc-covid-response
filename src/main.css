@@ -52,12 +52,12 @@ h6 {
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #d9353f;}
+.dropdown-content a:hover {color: #d9353f;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color:  #d9353f;}
-.redhover:hover {background-color:  #d9353f;}
+.dropdown:hover .dropbtn {color:  #d9353f;}
+.redhover:hover {color:  #d9353f;}
 /* end css added by Rob Kraft on July 20 for menus*/
 
 @tailwind utilities;
