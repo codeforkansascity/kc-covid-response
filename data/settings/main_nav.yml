@@ -10,14 +10,14 @@ nav_items:
         path: /kc-regional-readiness/
       - label: Mask Wearing
         path: /masks-in-kc/
-      - label: MARC dashboard link
+      - label: MARC dashboard
         path: http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae
   - label: Testing
     path: testing
     subitems:
-      - label: Testing Locations
+      - label: Locations
         path: /kc-covid-testing-locations/
-      - label: Testing Events
+      - label: Events
         path: /testing-events/
   - label: Updates
     path: /news-updates/

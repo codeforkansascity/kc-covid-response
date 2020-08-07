@@ -36,7 +36,7 @@ Signed,
 
 <p><b>Mike Adkins</b><br>President / CEO, Serenity Funeral Home </p>
 <p><b>David Alvey</b><br>Mayor, Kansas City, KS</p>
-<p><b>Deidre  Anderson</b><br>CEO, United Inner City Services</p>
+<p><b>Deidre Anderson</b><br>CEO, United Inner City Services</p>
 <p><b>Carlos Antequera</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Adam Arredondo</b><br>CEO, STARTLAND</p>
 <p><b>Tahir Atwater</b><br>Director of Donor and Volunteer Engagement, Jackson County CASA</p>
@@ -49,6 +49,7 @@ Signed,
 <p><b>Bill Berkley</b><br>President & CEO, Tension Envelope Corp.</p>
 <p><b>Angie Blumel</b><br>President and CEO, Jackson County CASA</p>
 <p><b>Ken Borum</b><br>Partner, Prosperity Planning, Inc. </p>
+<p><b>Matt Bramlette</b><br>Owner/Operator, Mid Coast Modern /Soap Bar / Bear Soap Co.</p>
 <p><b>Leanne Breiby</b><br>Director of Communications, Greater Kansas City Community Foundation</p>
 <p><b>Pete Browne</b><br>President, Kissick Construction Company</p>
 <p><b>Faruk Capan</b><br>CEO, Intouch Group</p>
@@ -93,11 +94,13 @@ Signed,
 <p><b>Nathaniel Hagedorn</b><br>CEO, Northpoint Development</p>
 <p><b>Dr. Marc Hahn</b><br>President & CEO, Kansas City University</p>
 <p><b>Tammy Ham</b><br>President and Executive Director, BioNovus Innovations, LLC</p>
+<p><b>Janeé Hanzlick</b><br>Johnson County Commissioner, District 4, Johnson County Kansas</p>
+<p><b>Stephen Hardy</b><br>CEO, mySidewalk</p>
+
 
 </td>
 <td style="vertical-align:top">
 
-<p><b>Janeé Hanzlick</b><br>Johnson County Commissioner, District 4, Johnson County Kansas</p>
 <p><b>Keith Harrington</b><br>Managing Director, Novel Growth Partners</p>
 <p><b>Earl Harrison Jr</b><br>President, Hg Consult, Inc.</p>
 <p><b>Melissa Patterson Hazley</b><br>Director, Community Based Research & Evaluation, UMKC - Institute for Human Development</p>
@@ -109,8 +112,10 @@ Signed,
 <p><b>Karen Hogan</b><br>Vice President & General Manager, Turner Construction Company</p>
 <p><b>Paul Holewinski</b><br>Chief Executive Officer, Academy Bank</p>
 <p><b>Lauren Hoopes</b><br>Executive Director, Jewish Community Foundation of Greater Kansas City</p>
+<p><b>Roya R. Hough</b><br>Attorney and Founder, Hough Law Firm/Divorce Differently KC</p>
 <p><b>Darcy Howe</b><br>Founder, Managing Director, KCRise Fund </p>
 <p><b>Christina Hoxie</b><br>Owner and Community Planner, Hoxie Collective LLC</p>
+<p><b>Sam Huenergardt</b><br>CEO, AdventHealth Mid-America Region</p>
 <p><b>Jarrod Huntley</b><br>VP Operations, Central Plains Cement Company LLC</p>
 <p><b>Rebecca James</b><br>President, Abovo LLC</p>
 <p><b>Erick Jessee</b><br>President, Posty Cards</p>
@@ -146,7 +151,6 @@ Signed,
 <p><b>Kathy Nelson</b><br>President/CEO, Greater Kansas City Sports Commission & Foundation </p>
 <p><b>Ronald W Nelson</b><br>President, Ronald W. Nelson, P.A. Law Office</p>
 <p><b>Rick Norden</b><br>President and CEO, Fairbanks Scales</p>
-
 <p><b>Leigh Nottberg</b><br>Chair, Nottberg Family Foundation</p>
 <p><b>Tyler Nottberg</b><br>Chairman and CEO, US Engineering Company Holdings</p>
 <p><b>Danny O'Neill</b><br>CEO, Roasterie</p>
@@ -157,12 +161,11 @@ Signed,
 <p><b>Patrick Ottensmeyer</b><br>President & CEO, Kansas City Southern</p>
 <p><b>John Owen</b><br>President & CEO, Airshare</p>
 <p><b>Gayle Packer</b><br>CEO, Terracon</p>
+<p><b>Bob Page</b><br>President & CEO, The University of Kansas Health System</p>
+<p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
 
 <td style="vertical-align:top">
 
-
-<p><b>Bob Page</b><br>President & CEO, The University of Kansas Health System</p>
-<p><b>Roshann Parris</b><br>Founder and CEO, Parris Communications</p>
 <p><b>Tracey Passantino</b><br>Co-Founder, Foundation4 Domestic Violence Prevention</p>
 <p><b>Anurag Patel</b><br>CEO, Helix Health</p>
 <p><b>Torree Pederson</b><br>President/CEO, Aligned</p>
@@ -186,6 +189,7 @@ Signed,
 <p><b>Brent Shafer</b><br>Chairman and CEO, Cerner Corporation</p>
 <p><b>Neal Sharma</b><br>CEO, DEG</p>
 <p><b>Gerald Shechter</b><br>Sustainability Coordinator, City of Kansas City, MO</p>
+<p><b>Andrew D. Siebert</b><br>President, AVANT ACOUSTICS, LLC</p>
 <p><b>Jeff Simon</b><br>Office Managing Partner, Husch Blackwell</p>
 <p><b>Scott Slabotsky</b><br>CEO, Slabotsky Family Office</p>
 <p><b>Amy Slattery</b><br>Founder + CEO, Odimo LLC</p>
@@ -197,6 +201,8 @@ Signed,
 <p><b>John D. Starr</b><br>Chairman, UltraSource LLC </p>
 <p><b>Brent Stewart</b><br>President/CEO, United Way of Greater Kansas City</p>
 <p><b>Mike Stradinger</b><br>CEO, Holland 1916</p>
+<p><b>Erin Stucky</b><br>President and CEO, Blue Cross and Blue Shield of Kansas City</p>
+<p><b>Patrick Stueve</b><br>Partner, Stueve Siegel Hanson LLP</p>
 <p><b>Awais Sufi</b><br>President and CEO, SchoolSmartKC</p>
 <p><b>Dawn Taylor</b><br>Executive Director, American Institute of Architects Kansas City</p>
 <p><b>Paul Thomas</b><br>CEO, North American Savings Bank</p>
@@ -211,14 +217,17 @@ Signed,
 <p><b>David Warm</b><br>Executive Director, Mid-America Regional Council</p>
 <p><b>Caitlin Waters</b><br>Consultant, CBIZ</p>
 <p><b>Justin Watkins</b><br>CEO, Native Digital</p>
+<p><b>Carolyn Watley</b><br>VP Community Engagement, CBIZ</p>
 <p><b>Hillary Weber</b><br>Founder/Managing Partner, Weworth Capital</p>
 <p><b>Eileen Weir</b><br>Mayor, City of Independence</p>
 <p><b>Joy Wheeler</b><br>CEO, Girl Scouts NE KS NW MO</p>
+<p><b>Ethan Whitehill</b><br>Chief Marketing Officer, MERGE</p>
 <p><b>Debbie Wilkerson</b><br>President & CEO, Greater Kansas City Community Foundation</p>
 <p><b>Robin Winner</b><br>Co-Executive Director, Synergy Services, Inc.</p>
 <p><b>Chris Wood</b><br>CEO / Partner, Paige Technologies</p>
 <p><b>L. William Zahner</b><br>CEO, A. Zahner Company</p>
 <p><b>Pedro Zamora</b><br>Executive Director, Hispanic Economic Development Corporation</p>
+
 
 </td>
 </tr>
