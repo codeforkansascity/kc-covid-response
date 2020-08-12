@@ -1,6 +1,5 @@
 nav_items:
-  - label: Donate
-    path: donate
+
   - label: Data
     path: data
     subitems:
@@ -31,6 +30,8 @@ nav_items:
   - label: About
     path: about
     subitems:
+      - label: Donate
+        path: donate
       - label: FAQs
         path: /faq/
       - label: Contact
