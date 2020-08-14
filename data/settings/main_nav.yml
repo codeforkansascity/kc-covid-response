@@ -3,8 +3,8 @@ nav_items:
   - label: Data
     path: data
     subitems:
-      - label: KC Regional Dashboard
-        path: /kc-metro-stats/
+      - label: KC Regional Stats
+        path: /kc-region-covid-stats/
       - label: Regional Readiness
         path: /kc-regional-readiness/
       - label: Mask Wearing
