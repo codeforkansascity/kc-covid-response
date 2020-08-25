@@ -45,6 +45,18 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
+        path: 'content/gallery/**/*.md',
+        typeName: 'Gallery',
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
         path: 'content/pages/**/*.md',
         typeName: 'BasicPage',
         remark: {

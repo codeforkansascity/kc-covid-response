@@ -48,6 +48,7 @@ The following content types are used to manage content on the site.
 - FAQ - FAQs listed on the home page.
 - Update - Pages under /news-updates
 - Resource - Pages under /covid-19-resources
+- Gallery - Documents for downloads
 
 There are also two yaml files under /data/settings that are used to define the main and footer navigation links.
 
