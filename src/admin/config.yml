@@ -121,7 +121,7 @@ collections:
       - { label: 'Question', name: 'question', widget: 'string' }
       - { label: 'Answer', name: 'body', widget: 'markdown' }
     sortableFields: ['order', 'question']
-   - name: 'gallery'
+  - name: 'gallery'
     label: 'Gallery'
     summary: '{{order}} - {{itemname}}'
     folder: 'content/gallery'
