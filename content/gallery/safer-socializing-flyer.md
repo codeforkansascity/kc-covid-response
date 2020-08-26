@@ -1,6 +1,6 @@
 ---
 language: en
-order: 9
+order: 4
 itemname: Safer Socializing Flyer
 itemtypes: PDF - 8.5 * 11
 filename: /uploads/comeback-kc-safer-socializing-poster-5-1-.pdf
