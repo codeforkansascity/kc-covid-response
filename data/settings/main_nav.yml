@@ -23,6 +23,8 @@ nav_items:
   - label: Downloads
     path: downloads
     subitems:
+      - label: Media Library
+        path: /gallery/
       - label: Creative Kit
         path: /creative-assets/
       - label: Area Plans
