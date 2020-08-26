@@ -10,7 +10,7 @@ nav_items:
       - label: Mask Wearing
         path: /masks-in-kc/
       - label: MARC dashboard
-        path: http://marc-gis.maps.arcgis.com/apps/opsdashboard/index.html#/1c93961075454558b3bf0dfad014feae
+        path: https://marc2.org/covidhub/
   - label: Testing
     path: testing
     subitems:
