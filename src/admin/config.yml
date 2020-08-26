@@ -131,7 +131,7 @@ collections:
       - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
       - { label: 'Order', name: 'order', widget: 'number', valueType: 'int' }
       - { label: 'Item Name', name: 'itemname', widget: 'string', required: true }
-      - { label: 'Item Types', name: 'itemtypes', widget: 'string', required: false }
+      - { label: 'Item Types', name: 'itemtypes', widget: 'select', required: false, options: ["PDF", "PDF - 8.5 * 11", "PDF - 11 * 17", "Image", "Movie", "Zip File"] }
       - { label: 'File', name: 'filename', widget: 'file', required: true }
       - { label: 'Thumbnail Image', name: 'thumbnail', widget: 'file', required: false }
     sortableFields: ['order', 'itemname']
