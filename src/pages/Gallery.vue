@@ -4,7 +4,7 @@
       <h2 class="text-4xl">Download Gallery</h2>
       <div style="display:inline-block" v-for="gallery in $page.gallerys.edges" :key="gallery.itemname" class="px-12 mb-8">
             <GalleryItem title-classes="font-bold text-2xl">
-              <template v-slot:itemname><p>{{ gallery.node.itemname }}</p></template>
+              <template v-slot:itemname><p>{{ gallery.node.itemname.slice(0,27) }}</p></template>
               
               <template v-slot:itemtypes>
               <div style="display:flex">
