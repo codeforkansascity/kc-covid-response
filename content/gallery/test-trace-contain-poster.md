@@ -1,6 +1,6 @@
 ---
 language: en
-order: 7
+order: 6
 itemname: Test Trace Contain Poster
 itemtypes: PDF - 11 * 17
 filename: /uploads/comeback_kc_ttc_poster_11x17-1-.pdf
