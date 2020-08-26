@@ -1,6 +1,6 @@
 ---
 language: en
-order: 3
+order: 8
 itemname: Mask Required Sign
 itemtypes: PDF - 8.5 * 11
 filename: /uploads/cbkc_mask-required-enter_8.5x11.pdf
