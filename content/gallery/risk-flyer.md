@@ -1,6 +1,6 @@
 ---
 language: en
-order: 6
+order: 3
 itemname: Risk Flyer
 itemtypes: Image
 filename: /uploads/riskflyer-2-.jpg
