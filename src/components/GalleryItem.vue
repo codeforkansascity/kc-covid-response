@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="flex justify-between cursor-pointer" :class="titleClasses">
+    <div class="flex justify-between" :class="titleClasses">
       <p><span><slot name="itemname"></slot></span>
       <span><slot name="itemtypes"></slot></span>
    </p>

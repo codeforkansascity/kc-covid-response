@@ -9,7 +9,9 @@
               <template v-slot:itemtypes>
               <div style="display:flex">
               
+              <a class="px-2 py-1 font-bold text-white rounded-md bg-comebackkc-red" :href="gallery.node.filename">
               <img :src="gallery.node.thumbnail" width="100" height="120"/>
+              </a>
               <div style="flex:1">
               <p class="px-4">{{ gallery.node.itemtypes }}</p>
              
