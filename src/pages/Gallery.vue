@@ -49,7 +49,7 @@ export default {
   },
   methods: {
     openme(eventname) {
-      var x = eventname.path[0].currentSrc;
+      var x = eventname.target.currentSrc;
       document.getElementById("imgholder").src = x;
       var modal = document.querySelector(".modal");
       modal.classList.toggle("show-modal");
