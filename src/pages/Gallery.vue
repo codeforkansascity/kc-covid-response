@@ -6,20 +6,23 @@
             <GalleryItem title-classes="font-bold text-2xl">
               <template v-slot:itemname><p>{{ gallery.node.itemname.slice(0,27) }}</p></template>
               
-              <template v-slot:itemtypes>
-              <div style="display:flex">
-              
-              <a class="px-2 py-1 font-bold text-white rounded-md bg-comebackkc-red" :href="gallery.node.filename">
-              <img :src="gallery.node.thumbnail" width="100" height="120"/>
-              </a>
-              <div style="flex:1">
-              <p class="px-4">{{ gallery.node.itemtypes }}</p>
-             
-              <div class="px-4" style="flex:1">
-              <a class="px-2 py-1 font-bold text-white rounded-md bg-comebackkc-red" :href="gallery.node.filename" download>Download</a>
-               </div></div>
-               </div> 
-              </template>
+              <template v-slot:itemtypes><div style="display:flex">
+                <div class="trigger" @click="openme($event)">
+                  <img :src="gallery.node.thumbnail" width="100" height="120"/>
+                </div>
+                <div style="flex:1"><p class="px-4">{{ gallery.node.itemtypes }}</p>
+                  <div class="px-4" style="flex:1">
+                    <a class="px-2 py-1 font-bold text-white rounded-md bg-comebackkc-red" :href="gallery.node.filename" download>Download</a>
+                  </div>
+                </div>
+      </div> 
+
+      <div class="modal">
+        <div class="modal-content" >
+          <span class="close-button" @click="togglemodal">×</span>
+            <img id="imgholder" :src="gallery.node.thumbnail" />        
+        </div>
+              </div></template>
                
             </GalleryItem>
       </div>
@@ -43,6 +46,18 @@ export default {
         content: ''
       }
     ]
+  },
+  methods: {
+    openme(eventname) {
+      var x = eventname.path[0].currentSrc;
+      document.getElementById("imgholder").src = x;
+      var modal = document.querySelector(".modal");
+      modal.classList.toggle("show-modal");
+    },
+     togglemodal() {
+      var modal = document.querySelector(".modal");
+      modal.classList.toggle("show-modal");     
+    }
   },
   mixins: [rawHtmlMixin],
   components: { FullWidthSection, OneColumnSection, GalleryItem, PageHeader }
