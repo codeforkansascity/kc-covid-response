@@ -1,6 +1,6 @@
 ---
 language: en
-order: 4
+order: 1
 itemname: Guide to Safe Comeback
 itemtypes: PDF
 filename: /uploads/comeback-kc-infgraphic-poster-3-.pdf
