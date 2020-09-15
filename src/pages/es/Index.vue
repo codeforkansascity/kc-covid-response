@@ -316,7 +316,7 @@
             <h2 class="mb-4 text-3xl">Información de KC COVID-19</h2>
             <p class="text-xl leading-relaxed">
               Para obtener más información sobre el impacto de COVID-19 en la región de Kansas City, consulta
-              <a class="underline text-comebackkc-darkblue" href="https://www.comebackkc.com/kc-region-covid-stats/" target="_blank">
+              <a class="underline text-comebackkc-darkblue" href="https://www.comebackkc.com/kc-region-covid-dashboard/" target="_blank">
               nuestro tablero
               </a>
               .
