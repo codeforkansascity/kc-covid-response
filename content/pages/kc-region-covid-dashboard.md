@@ -10,6 +10,6 @@ metaDescription: A dashboard of COVID metrics for the KC Region
 
 <br>
 
-Data provided by [Mid-America Regional Council](https://marc2.org/covidhub/)
+Data provided by [Mid-America Regional Council](https://marc2.org/covidhub/). COVID Risk Level is based on the [Regional School Gating Criteria](https://experience.arcgis.com/experience/b0654c33aa9d4e65affcfa06cf008e1e/page/page_30/) coordinated by regional public health departments. ([Download Gating Criteria PDF](preparemetrokc.org/covid19/assets/RegionalGatingCriteriaforSchools.pdf))
 
 [download data](https://docs.google.com/spreadsheets/d/1RVxlLvC3Gukgqfeo8sgnLvEWuCqdNsf2l9kFdHsxtmw/edit?usp=sharing)
