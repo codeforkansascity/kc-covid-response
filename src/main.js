@@ -12,6 +12,7 @@ import { faLongArrowRight, faVial, faAnalytics, faHouseUser, faGlobe } from '@fo
 import { faChevronUp, faChevronDown, faBars, faTimes } from '@fortawesome/pro-regular-svg-icons'
 import { faTwitter, faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons'
 import '@fortawesome/fontawesome-svg-core/styles.css'
+import '@stripe/stripe-js'
 
 config.autoAddCss = false
 library.add(faLongArrowRight, faVial, faAnalytics, faHouseUser, faGlobe, faChevronUp, faChevronDown, faBars, faTimes, faTwitter, faFacebook, faInstagram)
