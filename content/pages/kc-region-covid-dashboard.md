@@ -10,6 +10,12 @@ metaDescription: A dashboard of COVID metrics for the KC Region
 
 <br>
 
-Data provided by [Mid-America Regional Council](https://marc2.org/covidhub/). COVID Risk Level is based on the [Regional School Gating Criteria](https://experience.arcgis.com/experience/b0654c33aa9d4e65affcfa06cf008e1e/page/page_30/) coordinated by regional public health departments. ([Download Gating Criteria PDF](preparemetrokc.org/covid19/assets/RegionalGatingCriteriaforSchools.pdf))
+Data provided by [Mid-America Regional Council](https://marc2.org/covidhub/). [download data](https://docs.google.com/spreadsheets/d/1RVxlLvC3Gukgqfeo8sgnLvEWuCqdNsf2l9kFdHsxtmw/edit?usp=sharing)
 
-[download data](https://docs.google.com/spreadsheets/d/1RVxlLvC3Gukgqfeo8sgnLvEWuCqdNsf2l9kFdHsxtmw/edit?usp=sharing)
+COVID Risk Level is based on the criteria and scores developed by [COVID Exit Strategy](https://www.covidexitstrategy.org/definitions-and-criteria), a non-political group of recognized [health experts and epidemiologists](https://www.covidexitstrategy.org/about). Our risk level calculation uses three metrics:
+
+* Cases Per Million
+* Test Positivity
+* Percentage of Testing Target
+
+[](https://docs.google.com/spreadsheets/d/1RVxlLvC3Gukgqfeo8sgnLvEWuCqdNsf2l9kFdHsxtmw/edit?usp=sharing)We take the weakest of these measures to set the overall score, because if one area of our response is weak, it presents a risk to the entire response effort.
