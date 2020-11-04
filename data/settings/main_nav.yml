@@ -18,6 +18,8 @@ nav_items:
         path: /kc-covid-testing-locations/
       - label: Events
         path: /testing-events/
+      - label: Find a Test
+        path: /findatest/
   - label: Updates
     path: /news-updates/
   - label: Downloads
