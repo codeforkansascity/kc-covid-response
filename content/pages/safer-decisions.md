@@ -1,6 +1,6 @@
 ---
 language: en
-title: Can I Do It
+title: KCCanIDoIt
 metaDescription: Activities rated for COVID-19 risk
 ogDescription: COVID risk ratings for activities in the Kansas City region
 ogImage: /uploads/screen-shot-2020-11-08-at-5.02.13-pm.png
