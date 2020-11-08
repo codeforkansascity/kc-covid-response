@@ -1,7 +1,7 @@
 ---
 language: en
 title: KCCanIDoIt
-metaDescription: Activities rated for COVID-19 risk
+metaDescription: Activities rated for COVID-19 risk in Kansas City
 ogDescription: COVID risk ratings for activities in the Kansas City region
 ogImage: /uploads/screen-shot-2020-11-08-at-5.02.13-pm.png
 ---
