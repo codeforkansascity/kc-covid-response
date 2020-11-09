@@ -5,7 +5,7 @@ metaDescription: Risk ratings for activities in KC based on current COVID-19 dat
 ogDescription: Risk ratings for activities in KC based on current COVID-19 data.
 ogImage: /uploads/screen-shot-2020-11-08-at-5.02.13-pm.png
 ---
-We partnered with [COVIDCanIDoIt?](https://covidcanidoit.com/US/all) to bring you COVID-19 risk ratings based on up-to-date COVID data in the KC region. This tool lets you explore the risk factors of common activities. Risks are weighted based on current KC COVID data.
+We are partnering with[COVIDCanIDoIt?](https://covidcanidoit.com/US/all) to combine their risk-assessment tool with our current Kansas City regional COVID data. This tool provides a real time “risk rating” for common activities. It lets you evaluate the risk of everyday activities based on the actual metrics for four key variables: crowding, droplets, exposure time, and ventilation.
 
 <iframe src="https://covidcanidoit.com/US/kansas-city/?embed=true&regionlock=true" scrolling="no" style="border:0">
     </iframe>
