@@ -5,10 +5,10 @@ nav_items:
     subitems:
       - label: KC Region COVID Dashboard
         path: /kc-region-covid-dashboard/
+      - label: KC Can I Do It?
+        path: /cani
       - label: Regional Readiness
         path: /kc-regional-readiness/
-      - label: Mask Wearing
-        path: /masks-in-kc/
       - label: MARC dashboard
         path: https://marc2.org/covidhub/
   - label: Testing
