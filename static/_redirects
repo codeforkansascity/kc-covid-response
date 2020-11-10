@@ -6,3 +6,5 @@ http://www.comebackc.com/* https://www.comebackkc.com/:splat 301!
 https://comebackc.com/* https://www.comebackkc.com/:splat 301!
 https://www.comebackc.com/* https://www.comebackkc.com/:splat 301!
 /terms-conditions /terms-and-conditions
+/cani /kc-can-i-do-it
+https://www.comebackkc.com/cani https://www.comebackkc.com/kc-can-i-do-it
