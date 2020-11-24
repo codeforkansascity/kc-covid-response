@@ -335,13 +335,13 @@
             <g-image src="~/images/blue-cross-blue-shield-logo.png" width="180" alt="Blue Cross Blue Shield KCs logo" />
           </a>
           <a href="https://www.marc.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/marc-logo.jpg" width="120" alt="Mid-America Regional Council logo"/></a>
+          <a href="https://www.usengineering.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/USE_horizontal.png" width="120" alt="U. S. Engineering company logo"/></a>
           <a href="https://ticoproductions.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/tico-logo.png" width="120" alt="Tico Productions company logo"/></a>
-          <a href="https://www.idealect.is/" class="px-12 py-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="120" alt="Idealect company logo"/></a>
           <a href="https://www.kcdigitaldrive.org/" class="px-12 py-4" target="_blank"><g-image src="~/images/kcdd-logo.png" width="120" alt="KC Digital Drive company logo"/></a>
           <a href="https://www.vmlyr.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="120" alt="VMLY&R company logo"/></a>
           <a href="https://www.agilegovernmentservicesinc.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/AgileGovtServicesLogo.png" width="120" alt="Agile Government Services company logo"/></a>
           <a href="https://www.morningstarcomm.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/MorningstarCommunications.png" width="120" alt="Morningstar Communications company logo"/></a>
-          <a href="https://www.usengineering.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/USE_horizontal.png" width="120" alt="U. S. Engineering company logo"/></a>
+          <a href="https://www.idealect.is/" class="px-12 py-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="120" alt="Idealect company logo"/></a>
         </div>
       </div>
     </OneColumnSection>
