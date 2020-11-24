@@ -347,14 +347,14 @@
         <p class="mb-8 text-center">Esta campaña es una colaboración entre muchas organizaciones de Kansas City que incluyen:</p>
         <div class="flex flex-wrap items-center justify-around">
           <a href="https://www.c19kc.org/" class="px-8 py-4" target="_blank"><g-image src="~/images/c19kc-logo.png" width="200" alt="C19KC logo"/></a>
-          <a href="https://www.idealect.is/" class="px-8 py-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="200" alt="Idealect company logo"/></a>
+          <a href="https://www.usengineering.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/USE_horizontal.png" width="120" alt="U. S. Engineering company logo"/></a>
           <a href="https://www.marc.org/" class="px-8 py-4" target="_blank"><g-image src="~/images/marc-logo.jpg" width="200" alt="Mid-America Regional Council logo"/></a>
           <a href="https://ticoproductions.com/" class="px-8 py-4" target="_blank"><g-image src="~/images/tico-logo.png" width="200" alt="Tico Productions company logo"/></a>
           <a href="https://www.kcdigitaldrive.org/" class="px-8 py-4" target="_blank"><g-image src="~/images/kcdd-logo.png" width="200" alt="KC Digital Drive company logo"/></a>
           <a href="https://www.vmlyr.com/" class="px-8 py-4" target="_blank"><g-image src="~/images/vmlyr-logo.png" width="200" alt="VMLY&R company logo"/></a>
           <a href="https://www.agilegovernmentservicesinc.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/AgileGovtServicesLogo.png" width="120" alt="Agile Government Services company logo"/></a>
           <a href="https://www.morningstarcomm.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/MorningstarCommunications.png" width="120" alt="Morningstar Communications company logo"/></a>
-          <a href="https://www.usengineering.com/" class="px-12 py-4" target="_blank"><g-image src="~/images/USE_horizontal.png" width="120" alt="U. S. Engineering company logo"/></a>
+          <a href="https://www.idealect.is/" class="px-8 py-4" target="_blank"><g-image src="~/images/idealect-logo.png" width="200" alt="Idealect company logo"/></a>
        </div>
       </div>
     </OneColumnSection>
