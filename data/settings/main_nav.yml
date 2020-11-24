@@ -1,7 +1,7 @@
 nav_items:
 
-  - label: Data
-    path: data
+  - label: Tools
+    path: tools
     subitems:
       - label: KC Region COVID Dashboard
         path: /kc-region-covid-dashboard/
