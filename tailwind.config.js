@@ -10,8 +10,12 @@ module.exports = {
         'comebackkc-light-gray': '#E6E7E8'
       },
       height: {
+        '28': '7rem',
         '72': '18rem',
         'screen-60': '60vh'
+      },
+      width: {
+        '28': '7rem'
       },
       inset: {
         '20': '5rem',

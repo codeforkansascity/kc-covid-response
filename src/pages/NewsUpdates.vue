@@ -13,7 +13,7 @@
         <div v-html="styleRawHTML(update.node.teaser)"></div>
         <p class="mt-4 mb-8">
           <g-link class="px-4 py-2 font-bold text-white rounded-md bg-comebackkc-red" :to="update.node.path">
-            View <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
+            View <IconLongArrowRight class="inline-block w-auto h-4"></IconLongArrowRight>
           </g-link>
         </p>
       </div>
@@ -24,6 +24,7 @@
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
+import IconLongArrowRight from '@/components/IconLongArrowRight.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
 export default {
@@ -38,7 +39,7 @@ export default {
     ]
   },
   mixins: [rawHtmlMixin],
-  components: { FullWidthSection, OneColumnSection }
+  components: { FullWidthSection, OneColumnSection, IconLongArrowRight }
 }
 </script>
 

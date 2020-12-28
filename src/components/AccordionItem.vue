@@ -3,8 +3,8 @@
     <div class="flex justify-between cursor-pointer" :class="titleClasses" @click="toggle">
       <span><slot name="title"></slot></span>
       <span>
-        <font-awesome class="mx-4" :icon="['far', 'chevron-up']" v-if="open"></font-awesome>
-        <font-awesome class="mx-4" :icon="['far', 'chevron-down']" v-else></font-awesome>
+        <IconChevronUp class="w-auto h-6 mx-4 mt-2" v-if="open"></IconChevronUp>
+        <IconChevronDown class="w-auto h-6 mx-4 mt-2" v-else></IconChevronDown>
       </span>
     </div>
     <div :class="bodyClasses" v-if="open"><slot name="body"></slot></div>
@@ -12,12 +12,16 @@
 </template>
 
 <script>
+import IconChevronUp from '@/components/IconChevronUp.vue'
+import IconChevronDown from '@/components/IconChevronDown.vue'
+
 export default {
   props: {
     isOpen: Boolean,
     titleClasses: String,
     bodyClasses: String
   },
+  components: { IconChevronUp, IconChevronDown },
   data() {
     return {
       open: false
