@@ -7,7 +7,7 @@ nav_items:
         path: /kc-region-covid-dashboard/
       - label: KC Can I Do It?
         path: /kc-can-i-do-it/
-      - label: Regional Readiness
+      - label: KC Region Readiness
         path: /kc-regional-readiness/
       - label: MARC dashboard
         path: https://marc2.org/covidhub/
