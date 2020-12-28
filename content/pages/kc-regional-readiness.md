@@ -5,7 +5,7 @@ metaDescription: A snapshot of the Kansas City metro's COVID-19 readiness
 ogDescription: Snapshot of the Kansas City region's COVID-19 readiness
 ogImage: ""
 ---
-Our friends at [CovidActNow.org](https://www.covidactnow.org), have begun to publish COVID risk ratings for metro areas, including the KC region. This is a great way to gauge our current level of COVID risk.
+Our friends at [CovidActNow.org](https://www.covidactnow.org), have begun to publish COVID risk ratings for metro areas, including the KC region. This is a great way to gauge our current level of COVID risk. 
 
 <p>
 
