@@ -7,7 +7,8 @@
       <div class="flex flex-col items-end justify-between w-1/2 h-full py-4">
         <div class="h-1/3">
           <g-link class="text-sm font-semibold text-white uppercase" :to="otherLanguageLink">
-            <font-awesome class="mr-2" :icon="['fal', 'globe']"></font-awesome>{{ otherLanguageLabel }}
+            <IconGlobe class="inline-block w-auto h-4 mr-2"></IconGlobe>
+            <span>{{ otherLanguageLabel }}</span>
           </g-link>
         </div>
         <nav class="h-1/3">
@@ -38,9 +39,9 @@
         <div class="flex items-center justify-center w-1/3">
           <g-link to="/"><img class="h-16" src="/images/site-logo.png" alt="Comeback KC logo"/></g-link>
         </div>
-        <div class="flex items-center justify-end w-1/3">
-          <font-awesome v-if="open" @click="toggle" class="my-6 mr-6 text-white" :icon="['far', 'times']" size="2x"></font-awesome>
-          <font-awesome v-else @click="toggle" class="mr-4 text-white" :icon="['far', 'bars']" size="2x"></font-awesome>
+        <div class="flex items-center justify-end w-1/3 text-white">
+          <span v-if="open" @click="toggle"><IconTimes class="inline-block w-auto h-8 mr-5"></IconTimes></span>
+          <span v-else @click="toggle"><IconBars class="inline-block w-auto h-8 mr-4"></IconBars></span>
         </div>
       </div>
     </div>
@@ -71,12 +72,15 @@
 
 <script>
 import SiteFooter from '@/components/SiteFooter.vue'
+import IconGlobe from '@/components/IconGlobe.vue'
+import IconBars from '@/components/IconBars.vue'
+import IconTimes from '@/components/IconTimes.vue'
 
 export default {
   props: {
     language: String
   },
-  components: { SiteFooter },
+  components: { SiteFooter, IconGlobe, IconBars, IconTimes },
   data() {
     return {
       open: false

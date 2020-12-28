@@ -21,7 +21,7 @@
           <div class="w-full h-full py-8 overflow-hidden lg:w-5/12 lg:px-8">{{ resource.node.content | striphtml }}</div>
           <div class="w-full lg:w-2/12">
             <g-link v-if="viewLink(resource)" class="px-4 py-2 font-bold text-white rounded-md bg-comebackkc-red" :to="viewLink(resource)">
-              Ver <font-awesome :icon="['fal', 'long-arrow-right']"></font-awesome>
+              Ver <IconLongArrowRight class="inline-block w-auto h-4"></IconLongArrowRight>
             </g-link>
           </div>
         </div>
@@ -33,6 +33,7 @@
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
+import IconLongArrowRight from '@/components/IconLongArrowRight.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 const moment = require('moment')
 
@@ -48,7 +49,7 @@ export default {
     ]
   },
   mixins: [rawHtmlMixin],
-  components: { FullWidthSection, OneColumnSection },
+  components: { FullWidthSection, OneColumnSection, IconLongArrowRight },
   methods: {
     formatedDate(dateString) {
       moment.locale('es')
