@@ -6,24 +6,12 @@ require('typeface-raleway')
 require('~/main.css')
 
 import DefaultLayout from '~/layouts/Default.vue'
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { config, library } from '@fortawesome/fontawesome-svg-core'
-import { faLongArrowRight, faVial, faAnalytics, faHouseUser, faGlobe } from '@fortawesome/pro-light-svg-icons'
-import { faChevronUp, faChevronDown, faBars, faTimes } from '@fortawesome/pro-regular-svg-icons'
-import { faTwitter, faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons'
-import '@fortawesome/fontawesome-svg-core/styles.css'
-
-config.autoAddCss = false
-library.add(faLongArrowRight, faVial, faAnalytics, faHouseUser, faGlobe, faChevronUp, faChevronDown, faBars, faTimes, faTwitter, faFacebook, faInstagram)
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout),
     (head.htmlAttrs = { lang: 'en', class: 'h-full text-comebackkc-black', style: 'overflow-y: scroll' }),
     (head.bodyAttrs = { class: 'h-full flex flex-col' })
-
-  // Set font-awesome component globally
-  Vue.component('font-awesome', FontAwesomeIcon)
 
   // Filter to strip html tags
   Vue.filter('striphtml', function(content) {

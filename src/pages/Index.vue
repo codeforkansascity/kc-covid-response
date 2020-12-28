@@ -18,7 +18,7 @@
         <template v-slot:column1>
           <div class="h-full px-4 py-16 text-center text-white md:py-32 md:px-16 bg-comebackkc-darkblue">
             <div class="mb-4">
-              <font-awesome class="mb-4" :icon="['fal', 'vial']" size="7x"></font-awesome>
+              <IconVial class="w-auto mx-auto h-28"></IconVial>
             </div>
             <h3 class="mb-4 text-3xl text-center">Test</h3>
             <p class="mb-0">
@@ -29,7 +29,7 @@
         <template v-slot:column2>
           <div class="h-full px-4 py-16 text-center text-white md:py-32 md:px-16 bg-comebackkc-red">
             <div class="mb-4">
-              <font-awesome class="mb-4" :icon="['fal', 'analytics']" size="7x"></font-awesome>
+              <IconAnalytics class="w-auto mx-auto h-28"></IconAnalytics>
             </div>
             <h3 class="mb-4 text-3xl text-center">Track</h3>
             <p class="mb-0">
@@ -41,7 +41,7 @@
         <template v-slot:column3>
           <div class="h-full px-4 py-16 text-center text-white md:py-32 md:px-16 bg-comebackkc-black">
             <div class="mb-4">
-              <font-awesome class="mb-4" :icon="['fal', 'house-user']" size="7x"></font-awesome>
+              <IconHouseUser class="w-auto mx-auto h-28"></IconHouseUser>
             </div>
             <h3 class="mb-4 text-3xl text-center">Triumph</h3>
             <p class="mb-0">
@@ -277,7 +277,7 @@
                       class="w-full h-12 px-4 border rounded text-comebackkc-black border-comebackkc-gray md:mr-4 md:w-auto"
                     />
                     <button type="submit" class="px-4 py-2 mt-4 text-white rounded md:mt-0 bg-comebackkc-red">
-                      Sign up<font-awesome class="ml-2" :icon="['fal', 'long-arrow-right']"></font-awesome>
+                      Sign up <IconLongArrowRight class="inline-block w-auto h-4"></IconLongArrowRight>
                     </button>
                     <div class="mt-2" v-if="error"><span v-html="styleRawHTML(error, 'white')"></span></div>
                     <div class="mt-2" v-if="success">
@@ -354,7 +354,11 @@ import OneColumnSection from '@/components/OneColumnSection.vue'
 import TwoColumnSection from '@/components/TwoColumnSection.vue'
 import ThreeColumnSection from '@/components/ThreeColumnSection.vue'
 import AccordionItem from '@/components/AccordionItem.vue'
-import PageHeader from '@/components/PageHeader'
+import PageHeader from '@/components/PageHeader.vue'
+import IconVial from '@/components/IconVial.vue'
+import IconAnalytics from '@/components/IconAnalytics.vue'
+import IconHouseUser from '@/components/IconHouseUser.vue'
+import IconLongArrowRight from '@/components/IconLongArrowRight.vue'
 import MailchimpSubscribe from 'vue-mailchimp-subscribe'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
@@ -370,7 +374,7 @@ export default {
     ]
   },
   mixins: [rawHtmlMixin],
-  components: { FullWidthSection, OneColumnSection, TwoColumnSection, ThreeColumnSection, AccordionItem, PageHeader, MailchimpSubscribe },
+  components: { FullWidthSection, OneColumnSection, TwoColumnSection, ThreeColumnSection, AccordionItem, PageHeader, MailchimpSubscribe, IconVial, IconAnalytics, IconHouseUser, IconLongArrowRight },
   data() {
     return {
       newsletterEmailAddress: ''

@@ -4,15 +4,13 @@
       <div>
         <ul class="flex items-center mb-0">
           <li>
-            <a href="https://twitter.com/comebackkc" class="underline" target="_blank"><font-awesome class="mr-4" :icon="['fab', 'twitter']" size="lg"></font-awesome></a>
+            <a href="https://twitter.com/comebackkc" class="underline" target="_blank"><IconTwitter class="w-auto h-6 mr-4"></IconTwitter></a>
           </li>
           <li>
-            <a href="https://www.facebook.com/Comeback-KC-107935990899809/" class="underline" target="_blank"
-              ><font-awesome class="mr-4" :icon="['fab', 'facebook']" size="lg"></font-awesome
-            ></a>
+            <a href="https://www.facebook.com/Comeback-KC-107935990899809/" class="underline" target="_blank" ><IconFacebook class="w-auto h-6 mr-4"></IconFacebook></a>
           </li>
           <li>
-            <a href="https://www.instagram.com/comeback_kc/" class="underline" target="_blank"><font-awesome class="mr-4" :icon="['fab', 'instagram']" size="lg"></font-awesome></a>
+            <a href="https://www.instagram.com/comeback_kc/" class="underline" target="_blank"><IconInstagram class="w-auto h-6 mr-4"></IconInstagram></a>
           </li>
         </ul>
       </div>
@@ -28,10 +26,15 @@
 </template>
 
 <script>
+import IconTwitter from '@/components/IconTwitter.vue'
+import IconFacebook from '@/components/IconFacebook.vue'
+import IconInstagram from '@/components/IconInstagram.vue'
+
 export default {
   props: {
     language: String
   },
+  components: { IconTwitter, IconFacebook, IconInstagram },
   methods: {
     navItems() {
       return this.language == 'es' ? this.$static.es_nav_items.edges[0].node.nav_items : this.$static.en_nav_items.edges[0].node.nav_items
