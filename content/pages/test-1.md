@@ -15,5 +15,4 @@ Finding a COVID-19 test in the Kansas City region can be confusing, so Comeback 
 
 If you would like some help in finding the right test for you, please fill out this form, and one of our COVID Testing Navigators will be in touch. This is a free community service.
 
-<a class="openforms-embed" href="https://us.openforms.com/Form/62388863-1552-4187-ab3a-78ea224f3fdf">Click here to view form.</a>
-<script>var openformsrunner</script>
+<iframe height="600px" width="100%" style="border:none;" src="https://us.openforms.com/Form/62388863-1552-4187-ab3a-78ea224f3fdf"></iframe>

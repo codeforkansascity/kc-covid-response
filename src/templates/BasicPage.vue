@@ -21,17 +21,10 @@ function evalScripts() {
     {
       if (script.childNodes[0].nodeValue.includes("vizElement"))
       {
-      console.log(script);
-      eval(script.innerHTML); 
+        console.log(script);
+        eval(script.innerHTML); 
       }
-      if (script.childNodes[0].nodeValue.includes("openformsrunner"))
-      {
-         console.log(script);
-         let openformsscript = document.createElement('script')
-         openformsscript.setAttribute('src', 'https://us.openforms.com/Scripts/embed-iframe.js')
-         document.head.appendChild(openformsscript)
-      }
-    }
+     }
   })
 }
 
