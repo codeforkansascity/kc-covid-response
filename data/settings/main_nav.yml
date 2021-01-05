@@ -14,12 +14,12 @@ nav_items:
   - label: Testing
     path: testing
     subitems:
+      - label: Find a Test
+        path: /covid-tests-in-kansas-city/
       - label: Locations
         path: /kc-covid-testing-locations/
       - label: Events
         path: /testing-events/
-      - label: Find a Test
-        path: /findatest/
   - label: Updates
     path: /news-updates/
   - label: Downloads
