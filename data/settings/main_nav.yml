@@ -1,5 +1,4 @@
 nav_items:
-
   - label: Vaccines
    path: /covid-vaccines/  
   - label: Testing
