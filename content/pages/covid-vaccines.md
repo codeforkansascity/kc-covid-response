@@ -13,7 +13,7 @@ Vaccine distribution has been delegated to the states, and so each state has its
 
 &emsp; **[Kansas Vaccination Plan](https://www.kansasvaccine.gov/)**
 
-___
+- - -
 
 ### Vaccination Phases
 
@@ -21,17 +21,17 @@ Each state has different phases for the vaccine rollout.
 
 **Missouri Vaccination Phases**
 
-Missouri is in phase 1b of its plan.
+Missouri is in **Phase 1b** of its plan.
 
 ![Missouri COVID Vaccination Phases](/uploads/600586616801f.image.png)
 
 **Kansas Vaccination Phases**
 
-Kansas is currently in Phase 1 of its plan. 
+Kansas is currently in **Phase 1** of its plan. 
 
 ![Kansas COVID Vaccination Phases](/uploads/screen-shot-2021-01-18-at-10.01.04-am.png)
 
-___
+- - -
 
 ### Health Department Vaccination Alerts
 
