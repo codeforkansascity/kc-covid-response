@@ -1,6 +1,6 @@
 nav_items:
   - label: Vaccines
-   path: /covid-vaccines/  
+    path: /covid-vaccines/  
   - label: Testing
     path: testing
     subitems:
