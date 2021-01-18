@@ -9,9 +9,11 @@ Information about COVID-19 vaccinations is hard to come by and changing rapidly.
 
 Vaccine distribution has been delegated to the states, and so each state has its own distribution plan. For regions like ours, having two different plans can be confusing, especially if you live in one state but work in another. To learn about each state's efforts, read the state vaccination plans.
 
-**[Missouri Vaccination Plan](https://covidvaccine.mo.gov/)**
+&emsp; **[Missouri Vaccination Plan](https://covidvaccine.mo.gov/)**
 
-**[Kansas Vaccination Plan](https://www.kansasvaccine.gov/)**
+&emsp; **[Kansas Vaccination Plan](https://www.kansasvaccine.gov/)**
+
+___
 
 ### Vaccination Phases
 
@@ -29,7 +31,7 @@ Kansas is currently in Phase 1 of its plan.
 
 ![Kansas COVID Vaccination Phases](/uploads/screen-shot-2021-01-18-at-10.01.04-am.png)
 
-
+___
 
 ### Health Department Vaccination Alerts
 
@@ -46,8 +48,6 @@ Cass County Health Dept.  - [COVID Vaccine Survey](https://casscounty-cchd.app.t
 Clay County Health Dept. - [COVID Vaccine Interest Form](https://hipaa.jotform.com/210138520201032)
 
 Platte County Health Dept. - [COVID Vaccination Interest Form](https://us.openforms.com/Form/8c3d6585-ebb9-45a3-8d40-0046c31a9a80)
-
-
 
 **Kansas**
 
