@@ -9,3 +9,5 @@ https://www.comebackc.com/* https://www.comebackkc.com/:splat 301!
 /cani /kc-can-i-do-it
 https://www.comebackkc.com/cani https://www.comebackkc.com/kc-can-i-do-it
 https://www.comebackkc.com/covidtests/ https://www.comebackkc.com/covid-tests-in-kansas-city/
+/covidtests/ /covid-tests-in-kansas-city/
+/covidtests /covid-tests-in-kansas-city
