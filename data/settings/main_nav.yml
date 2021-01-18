@@ -1,5 +1,16 @@
 nav_items:
 
+ - label: Vaccines
+   path: /covid-vaccines/  
+  - label: Testing
+    path: testing
+    subitems:
+      - label: Find a Test
+        path: /covid-tests-in-kansas-city/
+      - label: Locations
+        path: /kc-covid-testing-locations/
+      - label: Events
+        path: /testing-events/     
   - label: Tools
     path: tools
     subitems:
@@ -11,17 +22,6 @@ nav_items:
         path: /kc-regional-readiness/
       - label: MARC dashboard
         path: https://marc2.org/covidhub/
-  - label: Testing
-    path: testing
-    subitems:
-      - label: Find a Test
-        path: /covid-tests-in-kansas-city/
-      - label: Locations
-        path: /kc-covid-testing-locations/
-      - label: Events
-        path: /testing-events/
-  - label: Updates
-    path: /news-updates/
   - label: Downloads
     path: downloads
     subitems:
@@ -34,6 +34,8 @@ nav_items:
   - label: About
     path: about
     subitems:
+      - label: Updates
+        path: /news-updates/
       - label: Donate
         path: donate
       - label: Volunteer
