@@ -13,7 +13,7 @@ Vaccine distribution has been delegated to the states, and so each state has its
 
 &emsp; **[Kansas Vaccination Plan](https://www.kansasvaccine.gov/)**
 
-- - -
+<br><hr><br>
 
 ### Vaccination Phases
 
@@ -31,7 +31,7 @@ Kansas is currently in **Phase 1** of its plan.
 
 ![Kansas COVID Vaccination Phases](/uploads/screen-shot-2021-01-18-at-10.01.04-am.png)
 
-- - -
+<br><hr><br>
 
 ### Health Department Vaccination Alerts
 
