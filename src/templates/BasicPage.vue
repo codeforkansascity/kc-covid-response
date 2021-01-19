@@ -15,7 +15,7 @@ import OneColumnSection from '@/components/OneColumnSection.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
 function evalScripts() {
-  const scripts = document.querySelectorAll("script")
+  const scripts = document.querySelectorAll("script");
   scripts.forEach((script) => {
     if (script.childNodes.length > 0)
     {
@@ -25,7 +25,28 @@ function evalScripts() {
         eval(script.innerHTML); 
       }
      }
-  })
+  });
+  //This SeamlessOpenForms is specific to USOpenForms to get an openform to render every time 
+  //the page is refreshed or viewed.
+  if (typeof(SeamlessOpenForms) != 'undefined')
+  {
+      SeamlessOpenForms.loadOpenForms();
+  }
+  else {
+      const openforms = document.querySelectorAll(".openforms-embed");
+      if (openforms.length>0)
+      {
+        console.log("missing SeamlessForms: " + window.location.pathname);
+        const scriptPromise = new Promise((resolve, reject) => {
+          var scriptElement = document.createElement('script');  
+          document.body.appendChild(scriptElement);
+          scriptElement.src = 'https://us.openforms.com/Scripts/embed-iframe.js';  
+          scriptElement.onload = resolve;
+          scriptElement.async = true;
+        });
+        scriptPromise.then(() => { SeamlessOpenForms.loadOpenForms();});
+    }
+  };
 }
 
 export default {
