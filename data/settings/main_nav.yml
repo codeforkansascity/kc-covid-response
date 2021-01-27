@@ -1,6 +1,9 @@
 nav_items:
   - label: Vaccines
-    path: /covid-vaccines/  
+      - label: Updates
+        path: /covid-vaccines/
+      - label: Survey
+        path: /covid-vaccine-survey/
   - label: Testing
     path: testing
     subitems:
