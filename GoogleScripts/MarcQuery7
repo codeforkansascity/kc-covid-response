@@ -1,0 +1,108 @@
+function RUNpullQ7fromMARC(){ 
+  //Logger.log("script to pull from query 7 started.");
+  deleteLastRunOf7();
+  //Logger.log("DELETE query 7 ran.");
+  pullQuery7Data();
+   //Logger.log("pull query 7 ran.");
+  
+function deleteLastRunOf7() {
+  var ss = SpreadsheetApp.openById("1VVmLB_0tyXC0R2EoCJOlv_jaXwGCRSUIQM4z--IKEXg");
+  var sheet = ss.getSheetByName('MapQuery7');
+  var lock = LockService.getScriptLock(); lock.waitLock(30000);
+  try { 
+    var lastrow = getLastRow(sheet);
+    if (lastrow > 1) {
+      sheet.deleteRows(2,lastrow);
+      SpreadsheetApp.flush();
+    }
+  } finally {
+	lock.releaseLock();
+  }
+}
+  function getLastRow(sheet)  {
+    var lastrow = sheet.getLastRow();
+    if (lastrow > 1) { lastrow = lastrow - 1;}
+    return lastrow;
+  }
+function pullQuery7Data() {
+  var ss = SpreadsheetApp.openById("1VVmLB_0tyXC0R2EoCJOlv_jaXwGCRSUIQM4z--IKEXg");
+  var sheet = ss.getSheetByName('MapQuery7');
+
+  var humanDate;
+  var year;
+  var month;
+  var date;
+  var urlRoot = 'https://gis2.marc2.org/arcgis/rest/services/HumanServices/COVIDv2/MapServer/7/query';
+  var urlQuery = '?where=jurisdiction%3D%27MARC%27';
+  var urlParms = '&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson';
+  var data;
+
+  var url = urlRoot + urlQuery + urlParms;
+  var response = UrlFetchApp.fetch(url, {'muteHttpExceptions': true});
+  var json = response.getContentText();
+  data = JSON.parse(json);   
+
+  
+  let fields = [30];
+  for (let i=5; i<30; ++i) fields[i]=0;
+  let sums = [30];
+  for (let i=5; i<30; ++i) sums[i]=0;
+  var lastRow = sheet.getLastRow();
+  var row =1;
+  //deleteS(sheet);
+  data.features.forEach((item) => {
+    row = row +1;
+    //fields[0] = item.attributes.Date;
+    fields[1] = item.attributes.Jurisdiction;
+    fields[2] = item.attributes.GeoID;
+	fields[3] = item.attributes.Region;
+    //fields[4] = item.attributes.State;
+    fields[5] = item.attributes.BedsTotal;
+    fields[6] = item.attributes.BedsUsed;
+    fields[7] = item.attributes.BedsAvailable;
+    fields[8] = item.attributes.BedsICUTotal;
+    fields[9] = item.attributes.BedsICUUsed;
+    fields[10] = item.attributes.BedsICUAvailable;
+    fields[11] = item.attributes.CovidTotal;
+    fields[12] = item.attributes.CovidConfirmed;
+    fields[13] = item.attributes.CovidSuspected;
+    fields[14] = item.attributes.CovidNew24HConfirmed;
+    fields[15] = item.attributes.CovidNew24HSuspected;
+    fields[16] = item.attributes.CovidICUTotal;
+    fields[17] = item.attributes.CovidICUConfirmed;
+    fields[18] = item.attributes.CovidICUSuspected;
+    fields[19] = item.attributes.VentilatorsTotal;
+    fields[20] = item.attributes.VentilatorsUsed;
+    fields[21] = item.attributes.VentilatorsAvailable;
+    fields[22] = item.attributes.CovidVentilatorsAdmittedUsed;
+    fields[23] = item.attributes.CovidVentilatorsOverflowUsed;
+    fields[24] = item.attributes.CovidDeathsTotal;
+    fields[25] = item.attributes.CovidDeaths24H;
+    fields[26] = item.attributes.HospitalsReporting;
+    fields[27] = item.attributes.HospitalsTotal;
+            
+	humanDate = new Date(item.attributes.Date);
+    //At some point in the last month the date we get is GMT-6
+  humanDate.setHours(humanDate.getHours() + 7);
+	month = humanDate.getMonth() + 1;
+	day = humanDate.getDate();
+	year = humanDate.getFullYear();
+    fields[0] = month + "/" + day + "/" + year;
+	addValuesToSheet(sheet,row,fields);
+  });
+}
+
+function addValuesToSheet(sheetid,row,fields) {
+	insertRow(sheetid, fields, row);
+}
+
+function insertRow(sheet, rowData, optIndex) { 
+	//var lock = LockService.getScriptLock(); lock.waitLock(30000);
+		try { 
+          sheet.getRange(sheet.getLastRow()+1, 1, 1, rowData.length).setValues(new Array(rowData));
+		SpreadsheetApp.flush();
+		} finally {
+			//lock.releaseLock();
+		}
+}
+}
