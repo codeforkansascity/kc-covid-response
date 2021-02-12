@@ -34,7 +34,7 @@ function pullHospitalData() {
 
   var url = urlRoot ;
   var response = UrlFetchApp.fetch(url, {'muteHttpExceptions': true});
-  var json = response.getContentText();
+  var json = response.getContentText(); 
   data = JSON.parse(json);   
 
   var formattedDate; 
