@@ -39,19 +39,19 @@ Kansas is currently in **Phase 1** of its plan.
 
 Because vaccine supplies are limited, we encourage you to sign up with as many vaccinators as you may qualify for. This includes filling out the survey or wait-list forms for state and county health departments, as well as pharmacies and hospitals. Grab the first vaccination appointment offered to you, but please don't make actual appointments with more than one vaccinator.
 
-**Kansas City, MO**  - The KCMO Health Dept. is vaccinating high-risk individuals. They are contacting people who have filled out their vaccine sign-up form. The majority of vaccine doses from the state are going to hospitals.
+**Kansas City, MO**  - The KCMO Health Dept. is vaccinating high-risk individuals. They are contacting people who have filled out their vaccine sign-up form. The majority of vaccine doses from the state are going to hospitals.[](https://www.kcmo.gov/city-hall/departments/health/covid-19-vaccine)
 
-[KCMO Vaccine Status](https://www.kcmo.gov/city-hall/departments/health/covid-19-vaccine)\
-[\
-Vaccine Sign-up Form](https://hipaa.jotform.com/210117358088152)\
+[KCMO Vaccine Statu](https://www.kcmo.gov/city-hall/departments/health/covid-19-vaccine)[](https://hipaa.jotform.com/210117358088152)
+
+[Vaccine Sign-up Form](https://hipaa.jotform.com/210117358088152)\
 \
-**Jackson County, MO** - Currently in [Phase 1b, Tier 1,](https://jacohd.org/covid-vaccines) which includes first responders, emergency services and public health personnel.
+**Jackson County, MO** - Currently in [Phase 1b, Tier 1,](https://jacohd.org/covid-vaccines) which includes first responders, emergency services and public health personnel.[](https://jacohd.org/covid-vaccines)
 
-[Jackson County Vaccine Status](https://jacohd.org/covid-vaccines)
+[Jackson County Vaccine Status](https://jacohd.org/covid-vaccines)[](https://jacohd.org/covid-vaccines)
 
 [Vaccine Sign-up Form](https://jacohd.org/covid-vaccines)
 
-
+**)))**
 
 **Cass County, MO** - Currently in Phase 1b Tier 2, which includes 65+ and adults with severe medical conditions, as well as previous tiers. All health dept. services currently paused due to cold.\
 [Cass County Vaccine Status](https://casscounty.com/2462/COVID-19-Vaccine)
