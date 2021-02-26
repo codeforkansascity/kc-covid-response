@@ -41,20 +41,23 @@ Because vaccine supplies are limited, we encourage you to sign up with as many v
 
 **Kansas City, MO**  - The KCMO Health Dept. is vaccinating high-risk individuals. They are contacting people who have filled out their vaccine sign-up form. The majority of vaccine doses from the state are going to hospitals.[](https://www.kcmo.gov/city-hall/departments/health/covid-19-vaccine)
 
-[KCMO Vaccine Statu](https://www.kcmo.gov/city-hall/departments/health/covid-19-vaccine)[](https://hipaa.jotform.com/210117358088152)
+[KCMO Vaccine Status](https://www.kcmo.gov/city-hall/departments/health/covid-19-vaccine)[](https://hipaa.jotform.com/210117358088152)
 
-[Vaccine Sign-up Form](https://hipaa.jotform.com/210117358088152)\
-\
+[Vaccine Sign-up For](https://hipaa.jotform.com/210117358088152)
+
+
+
 **Jackson County, MO** - Currently in [Phase 1b, Tier 1,](https://jacohd.org/covid-vaccines) which includes first responders, emergency services and public health personnel.[](https://jacohd.org/covid-vaccines)
 
 [Jackson County Vaccine Status](https://jacohd.org/covid-vaccines)[](https://jacohd.org/covid-vaccines)
 
 [Vaccine Sign-up Form](https://jacohd.org/covid-vaccines)
 
-**)))**
 
-**Cass County, MO** - Currently in Phase 1b Tier 2, which includes 65+ and adults with severe medical conditions, as well as previous tiers. All health dept. services currently paused due to cold.\
-[Cass County Vaccine Status](https://casscounty.com/2462/COVID-19-Vaccine)
+
+**Cass County, MO** - Currently in Phase 1b Tier 2, which includes 65+ and adults with severe medical conditions, as well as previous tiers. All health dept. services currently paused due to cold.[](https://casscounty.com/2462/COVID-19-Vaccine)
+
+[Cass County Vaccine Status](https://casscounty.com/2462/COVID-19-Vaccine)[](https://casscounty-cchd.app.transform.civicplus.com/forms/19861)
 
 [Vaccine Survey](https://casscounty-cchd.app.transform.civicplus.com/forms/19861)
 
@@ -66,11 +69,15 @@ Because vaccine supplies are limited, we encourage you to sign up with as many v
 
 [Vaccine Interest Form](https://hipaa.jotform.com/210138520201032)
 
+
+
 **Platte County, MO** - Currently offering vaccines to people in Phase 1a Tier 1 and 1b Tier 2.[](https://www.plattecountyhealthdept.com/emergency.aspx)
 
 [Platte County Vaccine Status](https://www.plattecountyhealthdept.com/emergency.aspx)[](https://us.openforms.com/Form/8c3d6585-ebb9-45a3-8d40-0046c31a9a80)
 
 [Vaccine Interest Form](https://us.openforms.com/Form/8c3d6585-ebb9-45a3-8d40-0046c31a9a80)
+
+
 
 **Ray County, MO** - No update on vaccine availability. They are directing residents to the Missouri state vaccine navigator.[](https://www.rayhealth.org/covid-19)
 
@@ -78,7 +85,11 @@ Because vaccine supplies are limited, we encourage you to sign up with as many v
 
 [Vaccine Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf_GRYL_BCr8IIfCEBqNdGj0Dt4-4piBa_xJn-X5NmvnOZRcQ/viewform)
 
+
+
 **Missouri State Vaccine Navigator** - The state of Missouri has a statewide [vaccine interest survey](https://covidvaccine.mo.gov/navigator/). They may be able to help you identify local resources for vaccines in the future.
+
+
 
 **Johnson County, KS** - Currently vaccinating 65+, emergency responders, K-12 staff, healthcare workers, long-term care staff and residents, and pandemic response workers.[](https://www.jocogov.org/covid-19-vaccine)
 
@@ -86,11 +97,15 @@ Because vaccine supplies are limited, we encourage you to sign up with as many v
 
 [Vaccine Interest Form](https://redcap.jocogov.org/surveys/?s=8KWLNLWWHL&fbclid=IwAR3jhHgJQZ23sJjnluFYXx8XwJFCfmMi-IZ_bqPhGsH4NPMS4c_YBrj6SqQ)
 
+
+
 **Wyandotte County, KS** - In Phase 2, which includes 65+, public safety, K-12 workers, childcare providers, public transit workers, and more.  See the vaccine info link for complete details.[](https://wyandotte-county-covid-19-vaccines-unifiedgov.hub.arcgis.com/)
 
-[Wyandotte Co. Vaccine Inf](https://wyandotte-county-covid-19-vaccines-unifiedgov.hub.arcgis.com/)
+[Wyandotte Co. Vaccine Info](https://wyandotte-county-covid-19-vaccines-unifiedgov.hub.arcgis.com/)
 
 [Vaccine Interest Form](https://wyandotte-county-covid-19-vaccines-unifiedgov.hub.arcgis.com/)
+
+
 
 **Leavenworth County, KS** - In Phase 2, focusing on people 65+.[](https://www.leavenworthcounty.gov/information/covid-19_information/covid-19_vaccine_faq.php)
 
@@ -98,13 +113,19 @@ Because vaccine supplies are limited, we encourage you to sign up with as many v
 
 [Vaccine Interest Form](https://us.openforms.com/Form/2f2bcc68-3b6a-450b-9007-d39819db6572)
 
+
+
 **Miami County, KS** - In Phase 2. Has received 4510 doses to date.[](http://www.miamicountyks.org/AlertCenter.aspx?AID=COVID19-Vaccine-Update-02232021-353)
 
 [Vaccine Update](http://www.miamicountyks.org/AlertCenter.aspx?AID=COVID19-Vaccine-Update-02232021-353)[](http://www.miamicountyks.org/list.aspx?Mode=Subscribe#alertCenter)
 
-[Vaccine Interest Form](http://www.miamicountyks.org/list.aspx?Mode=Subscribe#alertCenter)
+[Vaccine Interest For](http://www.miamicountyks.org/list.aspx?Mode=Subscribe#alertCenter)
+
+
 
 **[Kansas Find My Vaccine](https://www.kansasvaccine.gov/160/Find-My-Vaccine)** - The KDHE does not have a sign-up form, but it does have a Find My Vaccine map feature that shows which vaccinators have received doses each week. You cannot schedule an appointment through this site, however. You must contact a vaccinator to make an appointment.
+
+
 
 **Pharmacies**
 
