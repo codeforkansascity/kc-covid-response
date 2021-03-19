@@ -5,8 +5,7 @@ metaDescription: For folks needing a second dose
 ---
 If you need a second dose of the COVID-19 vaccine and haven't heard from your original provider or cannot go back to them for some reason, please fill out this form, and we will try to find a second dose appointment for you. 
 
-xxx 
+xxxx 
 
-<a class="openforms-embed" href="https://us.openforms.​com/Form/48f5fb00-9cf6-4c45-​b6ea-bc4c6580d411">Click here to view form.</a>
+<a class="openforms-embed" href="https://us.openforms.com/Form/48f5fb00-9cf6-4c45-b6ea-bc4c6580d411">Click here to view form.</a>
 
-<script src="\[https://us.openforms.com/​Scripts/embed-iframe.js](https://us.openforms.com/Scripts/embed-iframe.js)"></​script>
