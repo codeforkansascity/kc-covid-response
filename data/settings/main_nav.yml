@@ -7,7 +7,7 @@ nav_items:
       - label: Survey
         path: /covid-vaccine-survey/
       - label: Second Dose Form
-        path: /second-dose-request/
+        path: /mismatched-second-dose-form/
   - label: Testing
     path: /covid-tests-in-kansas-city/
     subitems:
