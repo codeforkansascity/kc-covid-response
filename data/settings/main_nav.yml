@@ -1,13 +1,15 @@
 nav_items:
   - label: Vaccines
-    path: vaccines
+    path: /covid-vaccines/
     subitems:
       - label: Updates
         path: /covid-vaccines/
       - label: Survey
         path: /covid-vaccine-survey/
+      - label: Second Dose Form
+        path: /second-dose-request/
   - label: Testing
-    path: testing
+    path: /covid-tests-in-kansas-city/
     subitems:
       - label: Find a Test
         path: /covid-tests-in-kansas-city/
@@ -16,7 +18,7 @@ nav_items:
       - label: Events
         path: /testing-events/     
   - label: Tools
-    path: tools
+    path: /kc-region-covid-dashboard/
     subitems:
       - label: KC Region COVID Dashboard
         path: /kc-region-covid-dashboard/
@@ -27,7 +29,7 @@ nav_items:
       - label: MARC dashboard
         path: https://marc2.org/covidhub/
   - label: Downloads
-    path: downloads
+    path: /gallery/
     subitems:
       - label: Media Library
         path: /gallery/
@@ -36,7 +38,7 @@ nav_items:
       - label: Area Plans
         path: /covid-19-resources/
   - label: About
-    path: about
+    path: /news-updates/
     subitems:
       - label: Updates
         path: /news-updates/
