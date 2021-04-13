@@ -2,8 +2,8 @@ nav_items:
   - label: Vaccines
     path: /covid-vaccines/
     subitems:
-      - label: Updates
-        path: /covid-vaccines/
+      - label: VaccinateKC.com
+        path: https://www.vaccinatekc.com
       - label: Survey
         path: /covid-vaccine-survey/
       - label: Second Dose Form
