@@ -20,14 +20,12 @@ nav_items:
   - label: Tools
     path: /kc-region-covid-dashboard/
     subitems:
-      - label: KC Region COVID Dashboard
-        path: /kc-region-covid-dashboard/
+      - label: MARC COVID Dashboard
+        path: https://marc2.org/covidhub/
       - label: KC Can I Do It?
         path: /kc-can-i-do-it/
       - label: KC Region Readiness
         path: /kc-regional-readiness/
-      - label: MARC dashboard
-        path: https://marc2.org/covidhub/
   - label: Downloads
     path: /gallery/
     subitems:
