@@ -136,6 +136,20 @@
               </AccordionItem>
               <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
                 <template v-slot:title>
+                  Independence, MO
+                </template>
+                <template v-slot:body>
+                  <p>Call: <a href="tel:+1-816-325-7121">(816) 325-7121</a></p>
+                  <p><a href="https://www.ci.independence.mo.us/covid19" target="_blank" class="underline text-comebackkc-darkblue">COVID-19 Info</a></p>
+                  <p>
+                    <a href="https://independence.maps.arcgis.com/apps/dashboards/2a2727e0f4a54da594f23c3088f25485" target="_blank" class="underline text-comebackkc-darkblue">
+                      Stats Dashboard
+                    </a>
+                  </p>
+                </template>
+              </AccordionItem>
+              <AccordionItem class="pb-4 mb-4 border-b border-comebackkc-gray" title-classes="font-bold text-comebackkc-darkblue">
+                <template v-slot:title>
                   Jackson County
                 </template>
                 <template v-slot:body>
