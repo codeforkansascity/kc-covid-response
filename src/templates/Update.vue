@@ -10,6 +10,7 @@
 <script>
 import FullWidthSection from '@/components/FullWidthSection.vue'
 import OneColumnSection from '@/components/OneColumnSection.vue'
+import PageHeader from '@/components/PageHeader.vue'
 import { rawHtmlMixin } from '@/mixins/rawHtmlMixin.js'
 
 export default {
@@ -20,7 +21,7 @@ export default {
     }
   },
   mixins: [rawHtmlMixin],
-  components: { FullWidthSection, OneColumnSection }
+  components: { FullWidthSection, OneColumnSection, PageHeader }
 }
 </script>
 
