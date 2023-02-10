@@ -13,19 +13,11 @@ nav_items:
     subitems:
       - label: Find a Test
         path: /covid-tests-in-kansas-city/
-      - label: Locations
-        path: /kc-covid-testing-locations/
-      - label: Events
-        path: /testing-events/     
   - label: Tools
     path: /kc-region-covid-dashboard/
     subitems:
       - label: MARC COVID Dashboard
         path: https://marc2.org/covidhub/
-      - label: KC Can I Do It?
-        path: /kc-can-i-do-it/
-      - label: KC Region Readiness
-        path: /kc-regional-readiness/
   - label: Downloads
     path: /gallery/
     subitems:
@@ -40,10 +32,6 @@ nav_items:
     subitems:
       - label: Updates
         path: /news-updates/
-      - label: Donate
-        path: donate
-      - label: Volunteer
-        path: /volunteer/
       - label: FAQs
         path: /faq/
       - label: Contact
