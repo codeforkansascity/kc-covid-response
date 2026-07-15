@@ -1,0 +1,70 @@
+function RUNpullNewCasesDeathTestDataFromMARC(){ 
+  deleteLastRunOfNewCasesDeathTestData();
+  pullNewCasesDeathTestData();
+  
+function deleteLastRunOfNewCasesDeathTestData() {
+  var ss = SpreadsheetApp.openById("1VVmLB_0tyXC0R2EoCJOlv_jaXwGCRSUIQM4z--IKEXg");
+  var sheet = ss.getSheetByName('NewCaseDeathTest');
+  var lock = LockService.getScriptLock(); lock.waitLock(30000);
+  try { 
+    var lastrow = getLastRow(sheet);
+    if (lastrow > 1) {
+      sheet.deleteRows(2,lastrow);
+      SpreadsheetApp.flush();
+    }
+  } finally {
+	lock.releaseLock();
+  }
+}
+  function getLastRow(sheet)  {
+    var lastrow = sheet.getLastRow();
+    if (lastrow > 1) { lastrow = lastrow - 1;}
+    return lastrow;
+  }
+function pullNewCasesDeathTestData() {
+  var ss = SpreadsheetApp.openById("1VVmLB_0tyXC0R2EoCJOlv_jaXwGCRSUIQM4z--IKEXg");
+  var sheet = ss.getSheetByName('NewCaseDeathTest');
+
+  var humanDate;
+  var year;
+  var month;
+  var date;
+  var urlRoot = 'https://gis2.marc2.org/MARCDataAPI/api/covidcasedeathtestnewlyreported';
+  var data;
+
+  var url = urlRoot ;
+  var response = UrlFetchApp.fetch(url, {'muteHttpExceptions': true});
+  var json = response.getContentText();
+  data = JSON.parse(json);   
+
+  data.sort(function(a, b) { return new Date(a.Date) - new Date(b.Date) || a.GeoID - b.GeoID});
+
+  var formattedDate; 
+  var fastData = [];
+  //deleteS(sheet);
+  data.forEach(item => {
+	  humanDate = new Date(item.Date);
+    //At some point in the last month the date we get is GMT-6
+    humanDate.setHours(humanDate.getHours() + 7);
+	  month = humanDate.getMonth() + 1;
+	  day = humanDate.getDate();
+	  year = humanDate.getFullYear();
+    formattedDate = month + "/" + day + "/" + year;
+
+    //if (item.GeoID == 'MARC')
+    {
+      fastData.push([formattedDate, item.Jurisdiction, item.GeoID, item.Region, item.State, item.CasesNewlyReported, item.CasesTotal, item.DeathsNewlyReported, item.DeathsTotal, item.TestsNewlyReported, item.TestsTotal]);
+    }
+  }); //end foreach loop
+
+  var lock = LockService.getScriptLock(); lock.waitLock(30000);
+	try {
+    sheet.getRange(sheet.getLastRow()+1,1,fastData.length, fastData[0].length).setValues(fastData);
+    	SpreadsheetApp.flush();
+	} finally {
+		lock.releaseLock();
+	}
+}
+
+}
+

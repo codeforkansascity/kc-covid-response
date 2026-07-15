@@ -1,0 +1,127 @@
+function RUNpullQ6fromMARC(){ 
+  deleteLastRunOf6();
+  pullNewCases(3);
+
+function deleteLastRunOf6() {
+  var ss = SpreadsheetApp.openById("1VVmLB_0tyXC0R2EoCJOlv_jaXwGCRSUIQM4z--IKEXg");
+  var sheet = ss.getSheetByName('MapQuery6');
+  var lock = LockService.getScriptLock(); lock.waitLock(30000);
+  try { 
+    var lastrow = getLastRow(sheet);
+    if (lastrow > 1) {
+      sheet.deleteRows(2,lastrow);
+      SpreadsheetApp.flush();
+    }
+  } finally {
+	lock.releaseLock();
+  }
+}
+  function getLastRow(sheet)  {
+    var lastrow = sheet.getLastRow();
+    if (lastrow > 1) { lastrow = lastrow - 1;}
+    return lastrow;
+  }
+function pullNewCases(imon) {
+
+  var ss = SpreadsheetApp.openById("1VVmLB_0tyXC0R2EoCJOlv_jaXwGCRSUIQM4z--IKEXg");
+  var sheet = ss.getSheetByName('MapQuery6');
+  var jurisdiction;
+  var geoid;
+  var region;
+  var state;
+  var date;
+  var casesnew
+  var casestotal;
+  var deathsnew;
+  var deathstotal;
+  var hospitalizations;
+  var recovered;
+   var year;
+  var month;
+  var date;
+  var urlA = 'https://gis2.marc2.org/arcgis/rest/services/HumanServices/COVIDv2/MapServer/6/query?where=geoid%3D%27MARC%27&date%3E%3D%27';
+  var urlMon = '5';
+  var urlB = '%2F1%2F2020%27+and+date%3C%3D%27';
+  var urlC = '%2F';
+  var urlDay = '2';
+  var urlD = '%2F2020%27';
+  var urlE = '&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=date&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson';
+  var data;
+  var t1;
+  var t4; var t5; var t6;
+var p1; var p2; var p3; var p4;
+
+pullByMonth(imon);
+  
+function pullByMonth(imon) {
+  
+  var i = imon;
+  //for (i = 3; i < 10; i++)
+  {
+    urlMon = i;
+    if (i == 1 || i == 3 || i == 5 || i == 7 || i == 8 || i == 10 || i == 12)
+    { urlDay = '31';}
+    else {urlDay = '30';}
+    if (i == 2) { urlDay = '28';}
+    var url = urlA + urlMon + urlB + urlMon + urlC + urlDay + urlD + urlE;
+    url = urlA + '3%2F1%2F2020%27' + urlE;
+    var response = UrlFetchApp.fetch(url, {'muteHttpExceptions': true});
+    var json = response.getContentText();
+    data = JSON.parse(json);   
+    pullData(data);
+  }
+}
+  
+function pullData(json) {
+  
+  var lastRow = sheet.getLastRow();
+  var row =1;
+  //deleteS(sheet);
+  data.features.forEach((item) => {
+    row = row +1;
+    jurisdiction = item.attributes.Jurisdiction;
+    geoid = item.attributes.GeoID;
+	region = item.attributes.Region;
+    //state = item.attributes.State;
+    date = item.attributes.Date;
+    casesnew = item.attributes.CasesNew;
+    casestotal = item.attributes.CasesTotal;
+    deathsnew = item.attributes.DeathsNew;
+    deathstotal = item.attributes.DeathsTotal;
+    t1 = item.attributes.TestsNew;
+    t4 = item.attributes.TestsTotal;
+    t5 = item.attributes.TestsNegativeNew;
+    t6 = item.attributes.TestsNegative;
+    p1 = item.attributes.Population;
+    p2 = item.attributes.CasesPer100K;
+    p3 = item.attributes.DeathsPer100K;
+    p4 = item.attributes.TestsPer100K;
+    hospitalizations = item.attributes.Hospitalizations;
+    recovered = item.attributes.Recovered;
+            
+	var humanDate = new Date(date);
+  //At some point in the last month the date we get is GMT-6
+  humanDate.setHours(humanDate.getHours() + 7);
+	month = humanDate.getMonth() + 1;
+	var day = humanDate.getDate();
+	year = humanDate.getFullYear();
+	addValuesToSheet(sheet, month,day,year,row, jurisdiction, geoid, region,  casesnew, casestotal, deathsnew,deathstotal,t1,t4,t5,t6,p1,p2,p3,p4,hospitalizations,recovered);
+  });
+
+}
+
+function addValuesToSheet(sheetid, month,date,year,row,jurisdiction, geoid, region,  casesnew, casestotal, deathsnew,deathstotal,t1,t4,t5,t6,p1,p2,p3,p4,hospitalizations,recovered) {
+	insertRow(sheetid, [month + "/" + date + "/" + year,jurisdiction, geoid, region,  casesnew, casestotal, deathsnew,deathstotal,t1,t4,t5,t6,p1,p2,p3,p4,hospitalizations,recovered], row);
+}
+
+function insertRow(sheet, rowData, optIndex) { 
+	//var lock = LockService.getScriptLock(); lock.waitLock(30000);
+		try { 
+          sheet.getRange(sheet.getLastRow()+1, 1, 1, rowData.length).setValues(new Array(rowData));
+		//SpreadsheetApp.flush();
+		} finally {
+			//lock.releaseLock();
+		}
+}
+}
+}
